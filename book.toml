@@ -1,0 +1,20 @@
+[book]
+authors = ["Chenyu Gu"]
+language = "en"
+src = "src"
+title = "Chenyu's Knowledge Base"
+
+# [preprocessor.crossref]
+# [preprocessor.citation]
+# bibliography = ["appendix/references.bib"]
+
+
+[build]
+build-dir = "book"               # the directory where the output is placed
+create-missing = true            # whether or not to create missing pages
+use-default-preprocessors = true # use the default preprocessors
+extra-watch-dirs = []            # directories to watch for triggering builds
+
+
+[output.html]
+mathjax-support = true
