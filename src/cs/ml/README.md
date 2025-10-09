@@ -95,35 +95,3 @@ fprintf('R^2: %f\n', r2);
 
 ### Rust
 
-```rust
-// Quick linear regression demo using ndarray and linregress crate
-use ndarray::Array2;
-use linregress::{FormulaRegressionBuilder, RegressionDataBuilder};
-
-fn main() {
-    let n = 400;
-    let mut rng = rand::thread_rng();
-    let x: Vec<f64> = (0..n).map(|_| rand::random::<f64>() * 4.0 - 2.0).collect();
-    let y: Vec<f64> = x.iter().map(|&xi| 3.0 * xi - 1.2 + rand::random::<f64>() * 0.5).collect();
-
-    let data = vec![
-        ("x", x.as_slice()),
-        ("y", y.as_slice()),
-    ];
-
-    let data = RegressionDataBuilder::new()
-        .build_from(data)
-        .expect("Failed to build regression data");
-
-    let formula = "y ~ x";
-    let model = FormulaRegressionBuilder::new()
-        .data(&data)
-        .formula(formula)
-        .fit()
-        .expect("Failed to fit model");
-
-    println!("coef_: {:?}", model.parameters().get("x").unwrap());
-    println!("intercept_: {:?}", model.parameters().get("(Intercept)").unwrap());
-    println!("R^2: {:?}", model.rsquared());
-}
-```
