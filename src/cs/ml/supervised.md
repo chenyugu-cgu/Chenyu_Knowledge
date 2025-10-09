@@ -79,48 +79,6 @@ fprintf('RMSE: %g\n', rmse(idx));
 
 ### Rust
 
-```rust
-use linfa::prelude::*;
-use linfa_linear::RidgeRegression;
-use ndarray::Array2;
-use ndarray_rand::RandomExt;
-use ndarray_rand::rand_distr::Normal;
-use rand::SeedableRng;
-use rand_isaac::Isaac64Rng;
-
-fn main() {
-    let mut rng = Isaac64Rng::seed_from_u64(0);
-    let n = 500;
-    let d = 20;
-    let X: Array2<f64> = Array2::random_using((n, d), Normal::new(0.,1.).unwrap(), &mut rng);
-    let mut w_true = vec![3., -2., 0., 1.];
-    w_true.extend(vec![0.; d-4]);
-    let w_true = ndarray::Array1::from(w_true);
-    let noise: Array2<f64> = Array2::random_using((n,1), Normal::new(0.,1.).unwrap(), &mut rng);
-    let y = X.dot(&w_true) + noise.column(0);
-
-    // Train/test split
-    let test_size = 0.2;
-    let train_size = (n as f64 * (1.0 - test_size)) as usize;
-    let (X_tr, X_te) = X.view().split_at(Axis(0), train_size);
-    let (y_tr, y_te) = y.view().split_at(Axis(0), train_size);
-
-    let alphas = linspace(1e-3, 1e2, 20);
-    let mut best_rmse = f64::INFINITY;
-    let mut best_alpha = 0.0;
-    for &alpha in alphas.iter() {
-        let model = RidgeRegression::params().alpha(alpha).fit(&X_tr.to_owned(), &y_tr.to_owned()).unwrap();
-        let y_pred = model.predict(&X_te.to_owned());
-        let rmse = ((&y_te - &y_pred).mapv(|x| x.powi(2)).mean().unwrap()).sqrt();
-        if rmse < best_rmse {
-            best_rmse = rmse;
-            best_alpha = alpha;
-        }
-    }
-    println!("alpha*: {}", best_alpha);
-    println!("RMSE: {}", best_rmse);
-}
-```
 
 ## 5. Example B — Logistic Classification (Python / MATLAB / Rust)
 
