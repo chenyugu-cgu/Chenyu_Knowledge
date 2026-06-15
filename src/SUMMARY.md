@@ -37,12 +37,61 @@
   - [Statistical Estimation](math/probability/estimation.md)
   - [Hypothesis Testing](math/probability/hypothesis-testing.md)
 
+- [Differential Equations](math/diffeq/README.md)
+  - [First-Order ODEs](math/diffeq/first-order.md)
+  - [Second-Order Linear ODEs](math/diffeq/second-order.md)
+  - [Systems of ODEs](math/diffeq/systems.md)
+  - [Laplace Transform Methods](math/diffeq/laplace-method.md)
+  - [Series Solutions](math/diffeq/series-solutions.md)
+  - [Partial Differential Equations](math/diffeq/pdes.md)
+
 - [Numerical Methods](math/numerical/README.md)
   - [Root Finding](math/numerical/root-finding.md)
   - [Numerical Integration](math/numerical/integration.md)
   - [Ordinary Differential Equations](math/numerical/odes.md)
   - [Partial Differential Equations](math/numerical/pdes.md)
   - [Finite Element Methods](math/numerical/fem.md)
+
+- [Discrete Mathematics](math/discrete/README.md)
+  - [Logic and Proofs](math/discrete/logic-proofs.md)
+  - [Combinatorics](math/discrete/combinatorics.md)
+  - [Graph Theory](math/discrete/graph-theory.md)
+  - [Recurrence Relations](math/discrete/recurrences.md)
+
+- [Complex Analysis](math/complex/README.md)
+  - [Complex Functions](math/complex/functions.md)
+  - [Contour Integration](math/complex/contour-integration.md)
+  - [Residue Theorem](math/complex/residues.md)
+
+# Physical Sciences
+
+- [Classical Mechanics](physics/classical/README.md)
+  - [Lagrangian Mechanics](physics/classical/lagrangian.md)
+  - [Hamiltonian Mechanics](physics/classical/hamiltonian.md)
+  - [Central-Force Motion](physics/classical/central-force.md)
+  - [Rigid-Body Dynamics](physics/classical/rigid-body.md)
+
+- [Electromagnetism](physics/em/README.md)
+  - [Electrostatics](physics/em/electrostatics.md)
+  - [Magnetostatics](physics/em/magnetostatics.md)
+  - [Maxwell's Equations](physics/em/maxwell.md)
+  - [Electromagnetic Waves](physics/em/em-waves.md)
+
+- [Waves and Optics](physics/optics/README.md)
+  - [The Wave Equation](physics/optics/wave-equation.md)
+  - [Acoustics](physics/optics/acoustics.md)
+  - [Geometric Optics](physics/optics/geometric-optics.md)
+  - [Wave Optics](physics/optics/wave-optics.md)
+
+- [Modern Physics](physics/modern/README.md)
+  - [Quantum Mechanics](physics/modern/quantum.md)
+  - [Statistical Mechanics](physics/modern/statistical-mechanics.md)
+  - [Solid-State Physics](physics/modern/solid-state.md)
+
+- [Chemistry](physics/chemistry/README.md)
+  - [General Chemistry](physics/chemistry/general.md)
+  - [Physical Chemistry](physics/chemistry/physical.md)
+  - [Biochemistry](physics/chemistry/biochemistry.md)
 
 # Signals and Systems
 
@@ -98,6 +147,12 @@
   - [Power Cycles](eng/thermo/cycles.md)
   - [Entropy and Irreversibility](eng/thermo/entropy.md)
 
+- [Heat Transfer](eng/heat-transfer/README.md)
+  - [Conduction](eng/heat-transfer/conduction.md)
+  - [Convection](eng/heat-transfer/convection.md)
+  - [Radiation](eng/heat-transfer/radiation.md)
+  - [Heat Exchangers](eng/heat-transfer/exchangers.md)
+
 - [Fluid Mechanics](eng/fluid/README.md)
   - [Fluid Properties](eng/fluid/properties.md)
   - [Fluid Statics](eng/fluid/statics.md)
@@ -112,6 +167,18 @@
   - [Semiconductors](eng/electrical/semiconductors.md)
   - [Digital Logic](eng/electrical/digital.md)
   - [Signal Processing](eng/electrical/signal-processing.md)
+
+- [Mechanical Design](eng/design/README.md)
+  - [Machine Elements](eng/design/machine-elements.md)
+  - [Mechanisms and Linkages](eng/design/mechanisms.md)
+  - [Power Transmission](eng/design/power-transmission.md)
+  - [Tolerancing and GD&T](eng/design/tolerancing.md)
+
+- [Mechatronics](eng/mechatronics/README.md)
+  - [Sensors](eng/mechatronics/sensors.md)
+  - [Actuators](eng/mechatronics/actuators.md)
+  - [Microcontrollers and Embedded Systems](eng/mechatronics/microcontrollers.md)
+  - [Interfacing and Signal Conditioning](eng/mechatronics/interfacing.md)
 
 # Advanced Computational Science
 
@@ -137,6 +204,29 @@
   - [Visualization](cs/data/visualization.md)
   - [Statistical Modeling](cs/data/modeling.md)
 
+- [Algorithms and Data Structures](cs/algorithms/README.md)
+  - [Data Structures](cs/algorithms/data-structures.md)
+  - [Sorting and Searching](cs/algorithms/sorting-searching.md)
+  - [Graph Algorithms](cs/algorithms/graph-algorithms.md)
+  - [Complexity and Analysis](cs/algorithms/complexity.md)
+  - [Dynamic Programming](cs/algorithms/dynamic-programming.md)
+
+- [Scientific Computing](cs/scientific-computing/README.md)
+  - [Floating-Point and Error](cs/scientific-computing/floating-point.md)
+  - [Solving Linear Systems](cs/scientific-computing/linear-systems.md)
+  - [Performance and Parallelism](cs/scientific-computing/performance.md)
+
+- [Computer Vision](cs/vision/README.md)
+  - [Image Processing](cs/vision/image-processing.md)
+  - [Feature Detection](cs/vision/features.md)
+  - [Deep Learning for Vision](cs/vision/deep-vision.md)
+  - [3D Vision](cs/vision/3d-vision.md)
+
+- [Information Theory](cs/information-theory/README.md)
+  - [Entropy and Information](cs/information-theory/entropy.md)
+  - [Source Coding](cs/information-theory/source-coding.md)
+  - [Channel Capacity](cs/information-theory/channel-capacity.md)
+
 # Applied Engineering Domains
 
 - [Robotics](app/robotics/README.md)
@@ -145,11 +235,18 @@
   - [Motion Planning](app/robotics/planning.md)
   - [Sensing and Perception](app/robotics/sensing.md)
   - [Robot Control](app/robotics/control.md)
+  - [Localization and SLAM](app/robotics/slam.md)
+  - [Mobile Robots and Locomotion](app/robotics/mobile.md)
+  - [Manipulation and Grasping](app/robotics/manipulation.md)
+  - [Human-Robot Interaction](app/robotics/hri.md)
 
 - [Biomechanics](app/biomechanics/README.md)
   - [Human Motion](app/biomechanics/motion.md)
   - [Joint Modeling](app/biomechanics/joints.md)
   - [Prosthetics and Exoskeletons](app/biomechanics/prosthetics.md)
+  - [Tissue Mechanics](app/biomechanics/tissue.md)
+  - [Musculoskeletal Modeling](app/biomechanics/musculoskeletal.md)
+  - [Ergonomics and Injury](app/biomechanics/ergonomics.md)
 
 - [Materials Science](app/materials-science/README.md)
   - [Crystal Structures](app/materials-science/crystals.md)
@@ -160,6 +257,14 @@
   - [Medical Imaging](app/biomed/imaging.md)
   - [Biomaterials](app/biomed/biomaterials.md)
   - [Rehabilitation Devices](app/biomed/rehab.md)
+  - [Biosignal Processing](app/biomed/biosignals.md)
+  - [Physiological Systems Modeling](app/biomed/physiology.md)
+  - [Bioinstrumentation](app/biomed/instrumentation.md)
+  - [Biofluid Mechanics and Hemodynamics](app/biomed/hemodynamics.md)
+  - [Neural Engineering](app/biomed/neural.md)
+  - [Bioinformatics](app/biomed/bioinformatics.md)
+  - [Tissue Engineering](app/biomed/tissue-engineering.md)
+  - [Drug Delivery and Pharmacokinetics](app/biomed/drug-delivery.md)
 
 # Cookbook Recipes
 

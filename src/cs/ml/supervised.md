@@ -79,6 +79,36 @@ fprintf('RMSE: %g\n', rmse(idx));
 
 ### Rust
 
+A dependency-free ridge regression by batch gradient descent (runnable in the
+playground — click ▶):
+
+```rust
+// Ridge regression: minimize ||Xw - y||^2 + lambda * ||w||^2 by gradient descent.
+fn main() {
+    // y = 3*x0 - 2*x1 (no noise)
+    let xs = [[1.0, 2.0], [2.0, 1.0], [3.0, 0.0], [0.0, 4.0], [4.0, 2.0]];
+    let ys = [-1.0, 4.0, 9.0, -8.0, 8.0];
+    let (n, d) = (xs.len(), 2);
+    let (lambda, lr) = (0.1_f64, 0.01_f64);
+    let mut w = vec![0.0_f64; d];
+
+    for _ in 0..5000 {
+        let mut grad = vec![0.0_f64; d];
+        for i in 0..n {
+            let pred: f64 = (0..d).map(|j| w[j] * xs[i][j]).sum();
+            let err = pred - ys[i];
+            for j in 0..d {
+                grad[j] += err * xs[i][j];
+            }
+        }
+        for j in 0..d {
+            grad[j] = grad[j] / n as f64 + lambda * w[j];
+            w[j] -= lr * grad[j];
+        }
+    }
+    println!("learned weights: {:?}", w); // ~ [3.0, -2.0]
+}
+```
 
 ## 5. Example B — Logistic Classification (Python / MATLAB / Rust)
 
@@ -131,3 +161,37 @@ fprintf('Log loss: %.4f\n', logloss);
 ```
 
 ### Rust
+
+A dependency-free logistic regression by gradient descent:
+
+```rust
+fn sigmoid(z: f64) -> f64 {
+    1.0 / (1.0 + (-z).exp())
+}
+
+fn main() {
+    // 1-D feature; classes split near x = 0
+    let xs = [-2.0, -1.0, -0.5, 0.5, 1.0, 2.0];
+    let ys = [0.0, 0.0, 0.0, 1.0, 1.0, 1.0];
+    let n = xs.len();
+    let (mut w, mut b) = (0.0_f64, 0.0_f64);
+    let lr = 0.5_f64;
+
+    for _ in 0..2000 {
+        let (mut gw, mut gb) = (0.0_f64, 0.0_f64);
+        for i in 0..n {
+            let err = sigmoid(w * xs[i] + b) - ys[i];
+            gw += err * xs[i];
+            gb += err;
+        }
+        w -= lr * gw / n as f64;
+        b -= lr * gb / n as f64;
+    }
+
+    let correct = (0..n)
+        .filter(|&i| (sigmoid(w * xs[i] + b) > 0.5) == (ys[i] > 0.5))
+        .count();
+    println!("w={:.3} b={:.3} accuracy={}/{}", w, b, correct, n);
+}
+```
+
