@@ -28,5 +28,8 @@ Biomechanics applies the principles of mechanics to living systems — bones, mu
 - [Human Motion](motion.md)
 - [Joint Modeling](joints.md)
 - [Prosthetics and Exoskeletons](prosthetics.md)
+- [Tissue Mechanics](tissue.md) — viscoelastic, anisotropic biological tissue.
+- [Musculoskeletal Modeling](musculoskeletal.md) — muscle forces and joint loads.
+- [Ergonomics and Injury](ergonomics.md) — designing to fit the body.
 
 This section connects to [Robotics](../robotics/README.md) (the body as a linkage) and [Biomedical Engineering](../biomed/README.md).

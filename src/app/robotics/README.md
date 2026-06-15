@@ -22,6 +22,10 @@ A robot's state is a point in **configuration space** \\(\mathcal{C}\\), with di
 - [Motion Planning](planning.md) — paths and trajectories.
 - [Sensing and Perception](sensing.md) — state estimation, vision, SLAM.
 - [Robot Control](control.md) — joint and task-space control.
+- [Localization and SLAM](slam.md) — knowing where you are while mapping.
+- [Mobile Robots and Locomotion](mobile.md) — wheeled, legged, aerial.
+- [Manipulation and Grasping](manipulation.md) — physical interaction with objects.
+- [Human-Robot Interaction](hri.md) — safe, collaborative operation.
 
 ## Foundations Used Here
 

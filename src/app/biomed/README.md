@@ -32,3 +32,11 @@ Biomedical engineering applies engineering principles to medicine and biology �
 - [Medical Imaging](imaging.md)
 - [Biomaterials](biomaterials.md)
 - [Rehabilitation Devices](rehab.md)
+- [Biosignal Processing](biosignals.md) — ECG, EEG, EMG analysis.
+- [Physiological Systems Modeling](physiology.md) — compartmental and feedback models.
+- [Bioinstrumentation](instrumentation.md) — measuring and delivering safely.
+- [Biofluid Mechanics and Hemodynamics](hemodynamics.md) — blood and body flows.
+- [Neural Engineering](neural.md) — recording, stimulation, brain-computer interfaces.
+- [Bioinformatics](bioinformatics.md) — computation on biological data.
+- [Tissue Engineering](tissue-engineering.md) — regenerating tissue.
+- [Drug Delivery and Pharmacokinetics](drug-delivery.md) — getting drugs to targets.
