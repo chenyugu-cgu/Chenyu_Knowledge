@@ -4,7 +4,7 @@ Spinal cord stimulation (SCS) applies electrical current to the spinal cord and 
 
 ## Why Stimulate the Spinal Cord?
 
-After SCI, descending commands from the brain are interrupted, but the spinal circuitry below the lesion — motor neuron pools and [central pattern generators](neurophysiology.md) — often remains intact. SCS aims to **re-excite and modulate** those circuits so that residual or restored commands can drive coordinated movement.
+After SCI, descending commands from the brain are interrupted, but the spinal circuitry below the lesion — motor neuron pools and [central pattern generators](neurophysiology.md) — often remains intact (see [Spinal Cord Injury](spinal-cord-injury.md) for why). SCS aims to **re-excite and modulate** those circuits so that residual or restored commands can drive coordinated movement.
 
 ## The Key Target: Proprioceptive Afferents
 
@@ -24,8 +24,8 @@ Both aim to recruit the same posterior-root afferents; the [volume-conductor + a
 Wagner et al. (*Nature*, 2018, "Targeted neurotechnology restores walking in humans with spinal cord injury") combined several ideas from this subsection:
 
 1. **Map the targets** — build motor-neuron activation maps and identify electrode configurations recruiting the posterior roots for each leg muscle group (hip/knee/ankle flexion and extension).
-2. **Spatiotemporal sequences** — deliver **spatially selective** bursts whose **timing coincides with the intended phase of gait** (weight acceptance, propulsion, swing), rather than continuous tonic stimulation.
-3. **Closed-loop triggering** — an upgraded DBS-derived [implantable pulse generator](neuromodulation.md) with wireless real-time control fires stimulation in sync with movement.
+2. **Spatiotemporal sequences** — deliver **spatially selective** bursts whose **timing coincides with the intended phase of gait** (weight acceptance, propulsion, swing), rather than continuous tonic stimulation. This timing matters: *continuous* EES was found to be poorly effective because constantly stimulating afferents **cancels proprioceptive feedback** (the participant loses limb-position awareness and muscles co-activate). Phasic, well-timed bursts leave the proprioceptive channel open between pulses.
+3. **Closed-loop triggering** — an upgraded DBS-derived [implantable pulse generator](neuromodulation.md) with wireless real-time control fires stimulation in sync with movement. Gait events were detected in real time from **wearable inertial measurement units (IMUs)**, letting participants trigger steps freely outside the lab.
 4. **Frequency tuning** — EES frequency grades muscle activity (with the surprising finding that flexor and extensor pools respond differently, reflecting mono- vs. polysynaptic afferent pathways).
 
 Within days this enabled voluntary overground walking; after months of [rehabilitation](../rehab.md), participants regained voluntary control even without stimulation — evidence of **neuroplasticity** and circuit reorganization.

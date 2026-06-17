@@ -16,7 +16,9 @@ The chapters build from biology to devices, so that by the end you can read the 
 | [Neural Interfaces and Electrodes](neuro/electrodes.md) | electrode–tissue interface, safe charge injection, array technologies |
 | [Neural Recording and Decoding](neuro/recording-decoding.md) | spikes/LFP/ECoG/EEG, spike sorting, decoders |
 | [Deep Brain Stimulation and Neuromodulation](neuro/neuromodulation.md) | DBS, VNS, responsive neurostimulation, the implantable pulse generator |
-| [Spinal Cord Stimulation and Neurorehabilitation](neuro/spinal-stimulation.md) | EES vs. transcutaneous SCS, posterior roots, restoring walking after SCI |
+| [Spinal Cord Injury](neuro/spinal-cord-injury.md) | injury levels, ASIA completeness, UMN/LMN, surviving circuits |
+| [Spinal Cord Stimulation and Neurorehabilitation](neuro/spinal-stimulation.md) | epidural EES, spatiotemporal stimulation, restoring walking (Wagner 2018) |
+| [Transcutaneous Spinal Cord Stimulation](neuro/tscs.md) | montages, PRM reflexes, proving afferent recruitment, the kHz problem (Keesey 2026) |
 | [Sensory Prostheses](neuro/sensory-prostheses.md) | cochlear and retinal implants |
 | [Brain–Computer Interfaces and Motor Prostheses](neuro/bci.md) | decoding intent, FES, neuroprosthetic control |
 

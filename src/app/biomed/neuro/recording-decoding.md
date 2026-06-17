@@ -33,7 +33,13 @@ Decoders must be **calibrated** per session and adapt as signals drift; the user
 
 ## Evoked Potentials
 
-Beyond spontaneous activity, we measure responses **evoked** by stimulation: motor evoked potentials (MEPs), somatosensory evoked potentials, and the muscle responses (**M-wave, H-reflex**) used to quantify [fibre recruitment](neurophysiology.md). Recruitment curves — response amplitude vs. stimulus intensity — are the basic readout for evaluating a stimulation paradigm, as in the spinal-stimulation literature.
+Beyond spontaneous activity, we measure responses **evoked** by stimulation: motor evoked potentials (MEPs), somatosensory evoked potentials, and the muscle responses used to quantify [fibre recruitment](neurophysiology.md):
+
+- **M-wave** — direct motor-efferent response (short latency).
+- **H-reflex / posterior root-muscle (PRM) reflex** — afferent-mediated, trans-synaptic response (longer latency); the PRM reflex is its spinal-stimulation analogue.
+- **F-wave** — a small late response from antidromic activation of motor neurons, used to estimate **peripheral motor conduction time**. Comparing a response's latency against the F-wave-derived conduction time distinguishes **afferent** (longer) from **efferent** (≤ conduction time) origin — a key tool in [tSCS](tscs.md).
+
+**Recruitment curves** (response amplitude vs. stimulus intensity), the **Hmax/Mmax ratio**, and **paired-pulse depression** are the basic readouts for evaluating a stimulation paradigm — what fibre population is being engaged, not merely whether muscle contracts.
 
 ## Closed-Loop Systems
 

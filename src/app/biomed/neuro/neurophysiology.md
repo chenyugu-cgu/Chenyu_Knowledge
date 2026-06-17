@@ -45,7 +45,14 @@ Stimulating a mixed peripheral nerve evokes two muscle responses used throughout
 - **M-wave** — direct activation of **motor efferents**, short latency.
 - **H-reflex** — activation of **Ia proprioceptive afferents** that monosynaptically excite motor neurons (the electrical analogue of the stretch reflex), longer latency.
 
-Because afferents (large, low-threshold) are recruited before efferents at low intensity, the **H-reflex appears first** and the M-wave grows as intensity rises (eventually the antidromic M-volley cancels the H-reflex). The relative size of H vs. M is a direct measure of **afferent vs. efferent recruitment** — exactly the metric used to evaluate spinal stimulation waveforms.
+Because afferents (large, low-threshold) are recruited before efferents at low intensity, the **H-reflex appears first** and the M-wave grows as intensity rises (eventually the antidromic M-volley cancels the H-reflex). The relative size of H vs. M — quantified by the **Hmax/Mmax ratio** — is a direct measure of **afferent vs. efferent recruitment**, exactly the metric used to evaluate spinal stimulation waveforms.
+
+### Post-Activation (Low-Frequency) Depression
+
+The monosynaptic Ia→motor-neuron synapse is **history-dependent**: a second activation shortly after the first produces a **smaller** response — **post-activation depression** (also called homosynaptic or low-frequency depression), caused by transient depletion of releasable neurotransmitter. Two consequences run through the spinal-stimulation literature:
+
+- It makes reflex (afferent-mediated) responses **decline with increasing stimulation frequency**, while directly evoked motor (efferent) responses do not — which is why a **paired-pulse** test discriminates afferent from efferent recruitment (see [Transcutaneous Spinal Cord Stimulation](tscs.md)).
+- It explains otherwise puzzling findings, such as extensor motor-neuron activation *decreasing* with higher stimulation frequency because their input is dominated by depression-sensitive monosynaptic projections.
 
 ## Spinal Circuits and Central Pattern Generators
 
