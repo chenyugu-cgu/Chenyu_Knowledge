@@ -35,6 +35,16 @@ A selection of standard texts and references behind the material in this book, g
 - Siciliano, B. et al. *Robotics: Modelling, Planning and Control.* Springer.
 - Lynch, K. & Park, F. *Modern Robotics.* Cambridge University Press. (free online)
 
+## Neural Engineering
+
+- DiLorenzo, D. J. & Bronzino, J. D. (eds.) *Neuroengineering.* CRC Press / Taylor & Francis, 2008. — broad survey of neuromodulation and neural prostheses.
+- Kandel, E. et al. *Principles of Neural Science.* McGraw-Hill. — the standard neuroscience reference.
+- Merrill, D. R., Bikson, M. & Jefferys, J. G. R. "Electrical stimulation of excitable tissue: design of efficacious and safe protocols." *J. Neurosci. Methods*, 2005. — charge injection and safety.
+- McIntyre, C. C., Richardson, A. G. & Grill, W. M. "Modeling the excitability of mammalian nerve fibers." *J. Neurophysiol.*, 2002. — the MRG double-cable axon model.
+- Rattay, F. "Analysis of models for external stimulation of axons." *IEEE Trans. Biomed. Eng.*, 1986. — the activating function.
+- Wagner, F. B. et al. "Targeted neurotechnology restores walking in humans with spinal cord injury." *Nature* **563**, 65–71 (2018). doi:10.1038/s41586-018-0649-2.
+- Keesey, R. et al. "Fundamental limitations of kilohertz-frequency carriers in afferent fibre recruitment with transcutaneous spinal cord stimulation." *Nature Biomedical Engineering* (2026). doi:10.1038/s41551-026-01684-w.
+
 ## Tools and Documentation
 
 - [mdBook documentation](https://rust-lang.github.io/mdBook/) — the engine that builds this book.
