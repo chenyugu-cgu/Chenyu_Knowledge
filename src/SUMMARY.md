@@ -10,7 +10,12 @@
 - [Mathematical Symbols](guide/symbols.md)
 - [Units and Standards](guide/units.md)
 
-# Mathematical and Computational Foundations
+# Neural Science
+
+- [BioElectric Phenomena](ns/BioelectricPhenomena/intro.md)
+  - [Eelctromagnetic Theory](ns/BioelectricPhenomena/electromag.md)
+
+<!-- # Mathematical and Computational Foundations
 
 - [Calculus](math/calculus/README.md)
   - [Limits and Continuity](math/calculus/limits.md)
@@ -275,7 +280,7 @@
     - [Brain–Computer Interfaces and Motor Prostheses](app/biomed/neuro/bci.md)
   - [Bioinformatics](app/biomed/bioinformatics.md)
   - [Tissue Engineering](app/biomed/tissue-engineering.md)
-  - [Drug Delivery and Pharmacokinetics](app/biomed/drug-delivery.md)
+  - [Drug Delivery and Pharmacokinetics](app/biomed/drug-delivery.md) -->
 
 # Cookbook Recipes
 

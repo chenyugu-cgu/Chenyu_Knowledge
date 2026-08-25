@@ -1,9 +1,1 @@
 # Purpose and Scope
-
-This book is intended as a systematic and comprehensive repository for the engineering, mathematics, and computational knowledge encountered throughout academic studies and professional projects. It is motivated by the recognition that much of this valuable information tends to be forgotten or becomes difficult to retrieve once a course concludes or a project is completed. By organizing and preserving this knowledge in a structured manner, the book aims to provide a durable reference that supports long-term retention and accessibility.
-
-The scope of this work is intentionally broad, encompassing foundational topics such as calculus, probability theory, and linear algebra, which form the mathematical underpinnings of engineering analysis. It further extends to signals and systems theory, as well as core engineering sciences including statics, dynamics, strength of materials, and control systems. Beyond these fundamentals, the book addresses advanced computational sciences such as optimization methods and machine learning algorithms. Additionally, applied domains like robotics, biomechanics, and biomedical engineering are incorporated to illustrate practical applications of the theoretical principles.
-
-The style adopted throughout the book is that of a "cookbook," offering concise and practical recipes that are firmly grounded in rigorous scientific theory. Each entry is designed to be accessible and directly applicable, facilitating rapid understanding and implementation without sacrificing academic rigor.
-
-Ultimately, the goal is twofold: to serve as a personal, long-term reference for the author and to provide a valuable resource that may benefit other practitioners, researchers, and students in the fields of engineering and science. By bridging theory and practice, this book aspires to support continued learning, problem-solving, and innovation across a diverse range of technical disciplines.
