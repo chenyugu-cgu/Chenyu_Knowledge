@@ -36,6 +36,7 @@ Biomedical engineering applies engineering principles to medicine and biology �
 - [Physiological Systems Modeling](physiology.md) — compartmental and feedback models.
 - [Bioinstrumentation](instrumentation.md) — measuring and delivering safely.
 - [Biofluid Mechanics and Hemodynamics](hemodynamics.md) — blood and body flows.
+- [Bioelectric Phenomena](bioelectric/README.md) — a full subsection: field theory, ion transport, Hodgkin–Huxley, cable theory, node models, electrode electrochemistry, biopotential amplifiers, and electrical excitation.
 - [Neural Engineering](neural.md) — a full subsection: neurophysiology, stimulation theory, computational modeling, electrodes, recording/decoding, DBS & neuromodulation, spinal cord stimulation, sensory prostheses, and BCIs.
 - [Bioinformatics](bioinformatics.md) — computation on biological data.
 - [Tissue Engineering](tissue-engineering.md) — regenerating tissue.

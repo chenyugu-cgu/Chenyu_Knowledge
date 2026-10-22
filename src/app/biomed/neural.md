@@ -37,6 +37,7 @@ The textbook *Neuroengineering* (DiLorenzo & Bronzino, CRC Press, 2008) surveys 
 
 ## See Also
 
+- [Bioelectric Phenomena](bioelectric/README.md) — the underlying biophysics, derived in full.
 - [Biosignal Processing](biosignals.md)
 - [Rehabilitation Devices](rehab.md)
 - [Prosthetics and Exoskeletons](../biomechanics/prosthetics.md)

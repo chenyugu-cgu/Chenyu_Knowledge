@@ -53,6 +53,7 @@ Implants trigger a **foreign-body response**: inflammation and glial scar (encap
 
 ## See Also
 
+- [The Electrode–Electrolyte Interface](../bioelectric/electrode-interface.md), [Safe Stimulation and Waveform Design](../bioelectric/safe-stimulation.md)
 - [Electrical Stimulation of Neural Tissue](stimulation-theory.md)
 - [Neural Recording and Decoding](recording-decoding.md)
 - [Biomaterials](../biomaterials.md), [Bioinstrumentation](../instrumentation.md)

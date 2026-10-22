@@ -37,6 +37,7 @@ Beyond electrodes: pressure, temperature, flow, and **biosensors** that detect s
 
 ## See Also
 
+- [Biopotential Amplifiers](bioelectric/amplifiers.md), [The Electrode–Electrolyte Interface](bioelectric/electrode-interface.md)
 - [Interfacing and Signal Conditioning](../../eng/mechatronics/interfacing.md)
 - [Biosignal Processing](biosignals.md)
 - [Sensors](../../eng/mechatronics/sensors.md)
