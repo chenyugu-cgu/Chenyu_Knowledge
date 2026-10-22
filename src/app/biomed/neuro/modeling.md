@@ -50,6 +50,7 @@ This pipeline — field model feeding fibre models — is the workhorse of moder
 
 ## See Also
 
+- [Hodgkin–Huxley Kinetics and Excitation](../bioelectric/hodgkin-huxley.md), [The Cable Equation and Propagation](../bioelectric/cable.md), [Models of the Node of Ranvier](../bioelectric/node-models.md)
 - [Electrical Stimulation of Neural Tissue](stimulation-theory.md)
 - [Systems of ODEs](../../../math/diffeq/systems.md), [Finite Element Methods](../../../math/numerical/fem.md)
 - [Spinal Cord Stimulation and Neurorehabilitation](spinal-stimulation.md)

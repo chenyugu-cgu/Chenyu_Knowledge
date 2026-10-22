@@ -46,6 +46,7 @@ Engineering goals — activating the *right* fibres and sparing others — are p
 
 ## See Also
 
+- [Electrical Stimulation of Excitable Tissue](../bioelectric/excitation.md) — strength–duration, the passive cable and the activating function derived.
 - [Computational Neural Modeling](modeling.md) — predicting all of the above.
 - [Neural Interfaces and Electrodes](electrodes.md) — charge injection limits.
 - [Spinal Cord Stimulation and Neurorehabilitation](spinal-stimulation.md)

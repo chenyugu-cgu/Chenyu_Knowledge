@@ -60,6 +60,7 @@ The spinal cord is not just a relay: local circuits, including **central pattern
 
 ## See Also
 
+- [Bioelectric Phenomena](../bioelectric/README.md) — full derivations of the Nernst, Goldman, Hodgkin–Huxley and cable results.
 - [Computational Neural Modeling](modeling.md) — the Hodgkin–Huxley and cable equations.
 - [Electrical Stimulation of Neural Tissue](stimulation-theory.md)
 - [Biosignal Processing](../biosignals.md) — EMG, including M-wave and H-reflex.
