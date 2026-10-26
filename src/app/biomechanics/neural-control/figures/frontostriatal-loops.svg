@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 470" width="980" height="470" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker></defs>
+<rect x="110" y="40" width="172" height="410" rx="10" fill="#eff6ff" stroke="#93c5fd"/>
+<rect x="454" y="40" width="516" height="410" rx="10" fill="#fffbeb" stroke="#fcd34d"/>
+<text x="100" y="127.0" text-anchor="end" font-size="14" font-weight="bold" fill="#1f2937">Cortex</text>
+<text x="100" y="212.0" text-anchor="end" font-size="14" font-weight="bold" fill="#1f2937">Striatum</text>
+<text x="100" y="297.0" text-anchor="end" font-size="14" font-weight="bold" fill="#1f2937">Pallidum / SNr</text>
+<text x="100" y="382.0" text-anchor="end" font-size="14" font-weight="bold" fill="#1f2937">Thalamus</text>
+<text x="190.0" y="66" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">Motor</text>
+<rect x="120" y="100" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="190.0" y="127.0" text-anchor="middle" font-size="13" fill="#1f2937">SMA</text>
+<line x1="190.0" y1="144" x2="190.0" y2="183" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="120" y="185" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="190.0" y="212.0" text-anchor="middle" font-size="13" fill="#1f2937">Putamen</text>
+<line x1="190.0" y1="229" x2="190.0" y2="268" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="120" y="270" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="190.0" y="297.0" text-anchor="middle" font-size="13" fill="#1f2937">GPi (vl), SNr (cl)</text>
+<line x1="190.0" y1="314" x2="190.0" y2="353" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="120" y="355" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="190.0" y="382.0" text-anchor="middle" font-size="13" fill="#1f2937">VLo, VLm</text>
+<polyline points="260,377.0 270,377.0 270,122.0 262,122.0" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<text x="362.0" y="66" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">Oculomotor</text>
+<rect x="292" y="100" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="362.0" y="127.0" text-anchor="middle" font-size="13" fill="#1f2937">FEF</text>
+<line x1="362.0" y1="144" x2="362.0" y2="183" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="292" y="185" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="362.0" y="212.0" text-anchor="middle" font-size="13" fill="#1f2937">Caudate body</text>
+<line x1="362.0" y1="229" x2="362.0" y2="268" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="292" y="270" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="362.0" y="297.0" text-anchor="middle" font-size="13" fill="#1f2937">GPi (cdm), SNr (vl)</text>
+<line x1="362.0" y1="314" x2="362.0" y2="353" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="292" y="355" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="362.0" y="382.0" text-anchor="middle" font-size="13" fill="#1f2937">VAmc, MDpl</text>
+<polyline points="432,377.0 442,377.0 442,122.0 434,122.0" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<text x="534.0" y="66" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">Dorsolateral</text>
+<text x="534.0" y="84" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">prefrontal</text>
+<rect x="464" y="100" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="534.0" y="127.0" text-anchor="middle" font-size="13" fill="#1f2937">DLPFC</text>
+<line x1="534.0" y1="144" x2="534.0" y2="183" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="464" y="185" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="534.0" y="212.0" text-anchor="middle" font-size="13" fill="#1f2937">Caudate head (dl)</text>
+<line x1="534.0" y1="229" x2="534.0" y2="268" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="464" y="270" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="534.0" y="297.0" text-anchor="middle" font-size="13" fill="#1f2937">GPi (ldm), SNr (rl)</text>
+<line x1="534.0" y1="314" x2="534.0" y2="353" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="464" y="355" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="534.0" y="382.0" text-anchor="middle" font-size="13" fill="#1f2937">VApc, MDpc</text>
+<polyline points="604,377.0 614,377.0 614,122.0 606,122.0" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<text x="706.0" y="66" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">Lateral orbitofrontal</text>
+<rect x="636" y="100" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="706.0" y="127.0" text-anchor="middle" font-size="13" fill="#1f2937">Lateral OFC</text>
+<line x1="706.0" y1="144" x2="706.0" y2="183" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="636" y="185" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="706.0" y="212.0" text-anchor="middle" font-size="13" fill="#1f2937">Caudate head (vm)</text>
+<line x1="706.0" y1="229" x2="706.0" y2="268" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="636" y="270" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="706.0" y="297.0" text-anchor="middle" font-size="13" fill="#1f2937">GPi (mdm), SNr (rm)</text>
+<line x1="706.0" y1="314" x2="706.0" y2="353" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="636" y="355" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="706.0" y="382.0" text-anchor="middle" font-size="13" fill="#1f2937">VAmc, MDmc</text>
+<polyline points="776,377.0 786,377.0 786,122.0 778,122.0" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<text x="878.0" y="66" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">Anterior cingulate</text>
+<rect x="808" y="100" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="878.0" y="127.0" text-anchor="middle" font-size="13" fill="#1f2937">ACC</text>
+<line x1="878.0" y1="144" x2="878.0" y2="183" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="808" y="185" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="878.0" y="212.0" text-anchor="middle" font-size="13" fill="#1f2937">Ventral striatum</text>
+<line x1="878.0" y1="229" x2="878.0" y2="268" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="808" y="270" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="878.0" y="297.0" text-anchor="middle" font-size="13" fill="#1f2937">GPi (rl), VP, SNr</text>
+<line x1="878.0" y1="314" x2="878.0" y2="353" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="808" y="355" width="140" height="44" rx="6" fill="#ffffff" stroke="#6b7280"/>
+<text x="878.0" y="382.0" text-anchor="middle" font-size="13" fill="#1f2937">MD (pm)</text>
+<polyline points="948,377.0 958,377.0 958,122.0 950,122.0" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#ar)"/>
+<text x="196" y="440" text-anchor="middle" font-size="13" fill="#1f2937">movement</text>
+<text x="706" y="440" text-anchor="middle" font-size="13" fill="#1f2937">cognition, behavior, motivation</text>
+</svg>

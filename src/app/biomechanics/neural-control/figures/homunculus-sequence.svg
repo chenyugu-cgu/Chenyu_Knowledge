@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 682" width="780" height="682" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<defs><marker id="ah-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker><marker id="ah-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="ah-gray" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6b7280"/></marker><marker id="ah-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d97706"/></marker><marker id="ah-dark" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937"/></marker></defs>
+<text x="390.0" y="28.0" font-size="16" text-anchor="middle" font-weight="bold" fill="#1f2937">Somatotopic sequence along S1, medial to lateral</text>
+<text x="390.0" y="50.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#6b7280" font-style="italic">bar length = relative cortical territory (schematic, after Penfield)</text>
+<rect x="200.0" y="82.0" width="124.0" height="15.0" rx="0" fill="#e5e7eb" stroke="#6b7280" stroke-width="1"/>
+<text x="190.0" y="94.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Genitals</text>
+<rect x="200.0" y="101.0" width="124.0" height="15.0" rx="0" fill="#e5e7eb" stroke="#6b7280" stroke-width="1"/>
+<text x="190.0" y="113.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Toes</text>
+<rect x="200.0" y="120.0" width="186.0" height="15.0" rx="0" fill="#e5e7eb" stroke="#6b7280" stroke-width="1"/>
+<text x="190.0" y="132.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Foot</text>
+<rect x="200.0" y="139.0" width="186.0" height="15.0" rx="0" fill="#e5e7eb" stroke="#6b7280" stroke-width="1"/>
+<text x="190.0" y="151.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Leg</text>
+<rect x="200.0" y="158.0" width="124.0" height="15.0" rx="0" fill="#e5e7eb" stroke="#6b7280" stroke-width="1"/>
+<text x="190.0" y="170.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Hip</text>
+<rect x="200.0" y="177.0" width="124.0" height="15.0" rx="0" fill="#e5e7eb" stroke="#6b7280" stroke-width="1"/>
+<text x="190.0" y="189.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Trunk</text>
+<rect x="200.0" y="196.0" width="93.0" height="15.0" rx="0" fill="#e5e7eb" stroke="#6b7280" stroke-width="1"/>
+<text x="190.0" y="208.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Neck</text>
+<rect x="200.0" y="215.0" width="124.0" height="15.0" rx="0" fill="#e5e7eb" stroke="#6b7280" stroke-width="1"/>
+<text x="190.0" y="227.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Head</text>
+<rect x="200.0" y="234.0" width="124.0" height="15.0" rx="0" fill="#dbeafe" stroke="#2563eb" stroke-width="1"/>
+<text x="190.0" y="246.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Shoulder</text>
+<rect x="200.0" y="253.0" width="155.0" height="15.0" rx="0" fill="#dbeafe" stroke="#2563eb" stroke-width="1"/>
+<text x="190.0" y="265.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Arm</text>
+<rect x="200.0" y="272.0" width="93.0" height="15.0" rx="0" fill="#dbeafe" stroke="#2563eb" stroke-width="1"/>
+<text x="190.0" y="284.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Elbow</text>
+<rect x="200.0" y="291.0" width="155.0" height="15.0" rx="0" fill="#dbeafe" stroke="#2563eb" stroke-width="1"/>
+<text x="190.0" y="303.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Forearm</text>
+<rect x="200.0" y="310.0" width="124.0" height="15.0" rx="0" fill="#dbeafe" stroke="#2563eb" stroke-width="1"/>
+<text x="190.0" y="322.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Wrist</text>
+<rect x="200.0" y="329.0" width="248.0" height="15.0" rx="0" fill="#bfdbfe" stroke="#2563eb" stroke-width="1"/>
+<text x="190.0" y="341.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Hand</text>
+<rect x="200.0" y="348.0" width="186.0" height="15.0" rx="0" fill="#bfdbfe" stroke="#2563eb" stroke-width="1"/>
+<text x="190.0" y="360.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Little finger</text>
+<rect x="200.0" y="367.0" width="186.0" height="15.0" rx="0" fill="#bfdbfe" stroke="#2563eb" stroke-width="1"/>
+<text x="190.0" y="379.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Ring finger</text>
+<rect x="200.0" y="386.0" width="217.0" height="15.0" rx="0" fill="#bfdbfe" stroke="#2563eb" stroke-width="1"/>
+<text x="190.0" y="398.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Middle finger</text>
+<rect x="200.0" y="405.0" width="248.0" height="15.0" rx="0" fill="#bfdbfe" stroke="#2563eb" stroke-width="1"/>
+<text x="190.0" y="417.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Index finger</text>
+<rect x="200.0" y="424.0" width="310.0" height="15.0" rx="0" fill="#bfdbfe" stroke="#2563eb" stroke-width="1"/>
+<text x="190.0" y="436.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Thumb</text>
+<rect x="200.0" y="443.0" width="186.0" height="15.0" rx="0" fill="#fef3c7" stroke="#d97706" stroke-width="1"/>
+<text x="190.0" y="455.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Eye</text>
+<rect x="200.0" y="462.0" width="186.0" height="15.0" rx="0" fill="#fef3c7" stroke="#d97706" stroke-width="1"/>
+<text x="190.0" y="474.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Nose</text>
+<rect x="200.0" y="481.0" width="310.0" height="15.0" rx="0" fill="#fef3c7" stroke="#d97706" stroke-width="1"/>
+<text x="190.0" y="493.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Face</text>
+<rect x="200.0" y="500.0" width="310.0" height="15.0" rx="0" fill="#fef3c7" stroke="#d97706" stroke-width="1"/>
+<text x="190.0" y="512.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Upper lip</text>
+<rect x="200.0" y="519.0" width="279.0" height="15.0" rx="0" fill="#fef3c7" stroke="#d97706" stroke-width="1"/>
+<text x="190.0" y="531.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Lower lip</text>
+<rect x="200.0" y="538.0" width="248.0" height="15.0" rx="0" fill="#fef3c7" stroke="#d97706" stroke-width="1"/>
+<text x="190.0" y="550.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Teeth, gums, jaw</text>
+<rect x="200.0" y="557.0" width="310.0" height="15.0" rx="0" fill="#fef3c7" stroke="#d97706" stroke-width="1"/>
+<text x="190.0" y="569.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Tongue</text>
+<rect x="200.0" y="576.0" width="155.0" height="15.0" rx="0" fill="#fef3c7" stroke="#d97706" stroke-width="1"/>
+<text x="190.0" y="588.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Pharynx</text>
+<rect x="200.0" y="595.0" width="155.0" height="15.0" rx="0" fill="#fef3c7" stroke="#d97706" stroke-width="1"/>
+<text x="190.0" y="607.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Intra-abdominal</text>
+<line x1="540.0" y1="83.0" x2="540.0" y2="229.0" stroke="#6b7280" stroke-width="2"/>
+<text x="552.0" y="145.0" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">Leg, trunk, head:</text>
+<text x="552.0" y="161.2" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">medial surface and</text>
+<text x="552.0" y="177.5" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">dorsal convexity</text>
+<line x1="540.0" y1="235.0" x2="540.0" y2="324.0" stroke="#2563eb" stroke-width="2"/>
+<text x="552.0" y="284.5" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">Arm</text>
+<line x1="540.0" y1="330.0" x2="540.0" y2="438.0" stroke="#2563eb" stroke-width="2"/>
+<text x="552.0" y="381.0" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">Hand: large</text>
+<text x="552.0" y="397.2" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">(magnified)</text>
+<line x1="540.0" y1="444.0" x2="540.0" y2="609.0" stroke="#d97706" stroke-width="2"/>
+<text x="552.0" y="523.5" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">Face and mouth:</text>
+<text x="552.0" y="539.8" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">large, most lateral</text>
+<line x1="60.0" y1="90.0" x2="60.0" y2="602.0" stroke="#1f2937" stroke-width="1.5" marker-end="url(#ah-dark)"/>
+<text x="60.0" y="78.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#1f2937">medial</text>
+<text x="60.0" y="626.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#1f2937">lateral</text>
+</svg>

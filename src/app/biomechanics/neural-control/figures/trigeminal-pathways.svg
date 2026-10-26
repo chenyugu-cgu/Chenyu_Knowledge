@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 580" width="940" height="580" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<defs><marker id="ah-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker><marker id="ah-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="ah-gray" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6b7280"/></marker><marker id="ah-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d97706"/></marker><marker id="ah-dark" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937"/></marker></defs>
+<rect x="240.0" y="40.0" width="460.0" height="60.0" rx="10" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="20.0" y="75.0" font-size="14" text-anchor="start" font-weight="normal" fill="#1f2937">Cerebral cortex</text>
+<rect x="320.0" y="125.0" width="300.0" height="53.0" rx="10" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="20.0" y="156.5" font-size="14" text-anchor="start" font-weight="normal" fill="#1f2937">Thalamus</text>
+<rect x="380.0" y="200.0" width="180.0" height="45.0" rx="10" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="20.0" y="227.5" font-size="14" text-anchor="start" font-weight="normal" fill="#1f2937">Midbrain</text>
+<rect x="360.0" y="266.0" width="220.0" height="64.0" rx="10" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="20.0" y="303.0" font-size="14" text-anchor="start" font-weight="normal" fill="#1f2937">Pons</text>
+<rect x="390.0" y="345.0" width="160.0" height="40.0" rx="10" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="20.0" y="370.0" font-size="14" text-anchor="start" font-weight="normal" fill="#1f2937">Rostral medulla</text>
+<rect x="395.0" y="395.0" width="150.0" height="50.0" rx="10" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="20.0" y="425.0" font-size="14" text-anchor="start" font-weight="normal" fill="#1f2937">Caudal medulla</text>
+<rect x="400.0" y="462.0" width="140.0" height="48.0" rx="10" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="20.0" y="491.0" font-size="14" text-anchor="start" font-weight="normal" fill="#1f2937">Upper cervical cord</text>
+<line x1="470.0" y1="30.0" x2="470.0" y2="518.0" stroke="#6b7280" stroke-width="1" stroke-dasharray="5,5"/>
+<text x="470.0" y="22.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#6b7280">midline</text>
+<rect x="520.0" y="52.0" width="200.0" height="36.0" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="620.0" y="75.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#1f2937">S1 face area (lateral)</text>
+<ellipse cx="500.0" cy="152.0" rx="32" ry="15" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="500.0" y="157.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2937">VPM</text>
+<ellipse cx="575.0" cy="152.0" rx="32" ry="15" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="575.0" y="157.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#6b7280">VPL</text>
+<circle cx="320.0" cy="298.0" r="10" fill="#f3f4f6" stroke="#1f2937" stroke-width="2"/>
+<text x="320.0" y="340.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#6b7280">trigeminal</text>
+<text x="320.0" y="356.2" font-size="13" text-anchor="middle" font-weight="normal" fill="#6b7280">ganglion</text>
+<text x="230.0" y="300.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">CN V from</text>
+<text x="230.0" y="316.2" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">the left face</text>
+<line x1="235.0" y1="298.0" x2="309.0" y2="298.0" stroke="#1f2937" stroke-width="2.5"/>
+<path d="M 330.0,293.0 L 418.0,293.0" stroke="#2563eb" stroke-width="2.5" fill="none" />
+<circle cx="424.0" cy="293.0" r="6" fill="#2563eb" stroke="#2563eb" stroke-width="1.5"/>
+<path d="M 424.0,293.0 L 492.0,280.0 L 492.0,180.0 L 495.0,170.0" stroke="#2563eb" stroke-width="2.5" fill="none" marker-end="url(#ah-blue)" />
+<path d="M 330.0,303.0 L 400.0,303.0 L 400.0,425.0" stroke="#dc2626" stroke-width="2.5" fill="none" />
+<circle cx="408.0" cy="430.0" r="6" fill="#dc2626" stroke="#dc2626" stroke-width="1.5"/>
+<path d="M 408.0,430.0 L 528.0,418.0 L 528.0,180.0 L 518.0,168.0" stroke="#dc2626" stroke-width="2.5" fill="none" marker-end="url(#ah-red)" />
+<text x="388.0" y="370.0" font-size="13" text-anchor="end" font-weight="normal" fill="#dc2626">spinal</text>
+<text x="388.0" y="386.2" font-size="13" text-anchor="end" font-weight="normal" fill="#dc2626">trigeminal</text>
+<text x="388.0" y="402.5" font-size="13" text-anchor="end" font-weight="normal" fill="#dc2626">tract</text>
+<line x1="500.0" y1="136.0" x2="590.0" y2="92.0" stroke="#2563eb" stroke-width="2.5" marker-end="url(#ah-blue)"/>
+<line x1="510.0" y1="138.0" x2="640.0" y2="92.0" stroke="#dc2626" stroke-width="2.5" marker-end="url(#ah-red)"/>
+<text x="735.0" y="70.0" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">VPM axons reach the</text>
+<text x="735.0" y="86.2" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">face area of S1</text>
+<text x="735.0" y="150.0" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">Both routes: 3rd-order</text>
+<text x="735.0" y="166.2" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">neurons in VPM</text>
+<text x="735.0" y="222.0" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">Trigeminal lemniscus</text>
+<text x="735.0" y="238.2" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">(blue), trigemino-</text>
+<text x="735.0" y="254.5" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">thalamic tract (red)</text>
+<text x="735.0" y="292.0" font-size="13" text-anchor="start" font-weight="normal" fill="#2563eb">Touch/pressure: principal</text>
+<text x="735.0" y="308.2" font-size="13" text-anchor="start" font-weight="normal" fill="#2563eb">nucleus in the pons;</text>
+<text x="735.0" y="324.5" font-size="13" text-anchor="start" font-weight="normal" fill="#2563eb">crosses at level of entry</text>
+<text x="735.0" y="410.0" font-size="13" text-anchor="start" font-weight="normal" fill="#dc2626">Pain/temperature:</text>
+<text x="735.0" y="426.2" font-size="13" text-anchor="start" font-weight="normal" fill="#dc2626">descends to the spinal</text>
+<text x="735.0" y="442.5" font-size="13" text-anchor="start" font-weight="normal" fill="#dc2626">trigeminal nucleus;</text>
+<text x="735.0" y="458.8" font-size="13" text-anchor="start" font-weight="normal" fill="#dc2626">crosses in the medulla</text>
+</svg>

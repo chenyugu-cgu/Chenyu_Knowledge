@@ -31,5 +31,6 @@ Biomechanics applies the principles of mechanics to living systems — bones, mu
 - [Tissue Mechanics](tissue.md) — viscoelastic, anisotropic biological tissue.
 - [Musculoskeletal Modeling](musculoskeletal.md) — muscle forces and joint loads.
 - [Ergonomics and Injury](ergonomics.md) — designing to fit the body.
+- [Neural Control of Movement](neural-control/README.md) — a full subsection on how the nervous system senses, plans, executes and learns movement: receptors and pathways, spinal reflexes, descending tracts, motor cortex, basal ganglia, cerebellum, vestibular system, pain, motor learning and plasticity.
 
 This section connects to [Robotics](../robotics/README.md) (the body as a linkage) and [Biomedical Engineering](../biomed/README.md).

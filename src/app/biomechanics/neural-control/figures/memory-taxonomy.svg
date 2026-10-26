@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470" font-family="Helvetica, Arial, sans-serif">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <defs>
+    <marker id="ar" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1f2937"/>
+    </marker>
+  </defs>
+  <g stroke="#6b7280" stroke-width="2" fill="none">
+    <!-- root to two branches -->
+    <polyline points="450,62 450,80 240,80 240,100"/>
+    <polyline points="450,80 680,80 680,100"/>
+    <!-- declarative to short/long -->
+    <polyline points="240,148 240,166 130,166 130,186"/>
+    <polyline points="240,166 340,166 340,186"/>
+    <!-- long to semantic/episodic -->
+    <polyline points="340,226 340,244 280,244 280,264"/>
+    <polyline points="340,244 400,244 400,264"/>
+    <!-- procedural to skills/priming/conditioning -->
+    <polyline points="680,148 680,166 570,166 570,186"/>
+    <line x1="680" y1="166" x2="680" y2="186"/>
+    <polyline points="680,166 790,166 790,186"/>
+  </g>
+  <g font-size="14" fill="#1f2937" text-anchor="middle">
+    <rect x="390" y="22" width="120" height="40" rx="8" fill="#f3f4f6" stroke="#6b7280"/>
+    <text x="450" y="47" font-weight="bold" font-size="15">Memory</text>
+
+    <rect x="140" y="100" width="200" height="48" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+    <text x="240" y="120" font-weight="bold">Declarative (explicit)</text>
+    <text x="240" y="138" font-size="13">medial temporal lobe</text>
+
+    <rect x="580" y="100" width="200" height="48" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+    <text x="680" y="120" font-weight="bold">Procedural (implicit)</text>
+    <text x="680" y="138" font-size="13">striatum, cerebellum, cortex</text>
+
+    <rect x="60" y="186" width="140" height="40" rx="8" fill="#ffffff" stroke="#2563eb"/>
+    <text x="130" y="204">Short-term /</text>
+    <text x="130" y="220" font-size="13">working memory</text>
+    <rect x="280" y="186" width="120" height="40" rx="8" fill="#ffffff" stroke="#2563eb"/>
+    <text x="340" y="211">Long-term</text>
+    <rect x="225" y="264" width="110" height="40" rx="8" fill="#ffffff" stroke="#2563eb"/>
+    <text x="280" y="289">Semantic</text>
+    <rect x="345" y="264" width="110" height="40" rx="8" fill="#ffffff" stroke="#2563eb"/>
+    <text x="400" y="289">Episodic</text>
+
+    <rect x="515" y="186" width="110" height="40" rx="8" fill="#ffffff" stroke="#16a34a"/>
+    <text x="570" y="204">Skills</text>
+    <text x="570" y="220" font-size="13">(motor learning)</text>
+    <rect x="635" y="186" width="90" height="40" rx="8" fill="#ffffff" stroke="#16a34a"/>
+    <text x="680" y="211">Priming</text>
+    <rect x="735" y="186" width="115" height="40" rx="8" fill="#ffffff" stroke="#16a34a"/>
+    <text x="792" y="211">Conditioning</text>
+  </g>
+  <text x="680" y="270" text-anchor="middle" font-size="13" fill="#6b7280">Prospective memory (remembering</text>
+  <text x="680" y="288" text-anchor="middle" font-size="13" fill="#6b7280">to act in the future): hard to classify</text>
+
+  <!-- Amnesia timeline -->
+  <text x="450" y="350" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">Amnesia relative to the time of injury</text>
+  <rect x="120" y="372" width="330" height="24" fill="#fee2e2"/>
+  <rect x="450" y="372" width="330" height="24" fill="#dbeafe"/>
+  <line x1="100" y1="384" x2="810" y2="384" stroke="#1f2937" stroke-width="2" marker-end="url(#ar)"/>
+  <text x="830" y="389" font-size="13" fill="#1f2937">time</text>
+  <line x1="450" y1="440" x2="450" y2="400" stroke="#dc2626" stroke-width="3" marker-end="url(#ar)"/>
+  <text x="450" y="458" text-anchor="middle" font-size="14" font-weight="bold" fill="#dc2626">Injury</text>
+  <text x="285" y="420" text-anchor="middle" font-size="13" fill="#1f2937">Retrograde: old memories lost</text>
+  <text x="615" y="420" text-anchor="middle" font-size="13" fill="#1f2937">Anterograde: new learning fails</text>
+</svg>

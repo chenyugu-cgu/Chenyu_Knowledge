@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 685" width="880" height="685" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="60" y="70" width="400" height="250" rx="90" fill="#fef3c7"/>
+<rect x="185" y="70" width="150" height="250" fill="#dbeafe"/>
+<rect x="232" y="70" width="56" height="250" fill="#bfdbfe"/>
+<rect x="60" y="70" width="400" height="250" rx="90" fill="none" stroke="#6b7280" stroke-width="1.5"/>
+<line x1="185" y1="70" x2="185" y2="320" stroke="#6b7280" stroke-width="1" stroke-dasharray="4 3"/>
+<line x1="335" y1="70" x2="335" y2="320" stroke="#6b7280" stroke-width="1" stroke-dasharray="4 3"/>
+<line x1="232" y1="70" x2="232" y2="320" stroke="#6b7280" stroke-width="1"/>
+<line x1="288" y1="70" x2="288" y2="320" stroke="#6b7280" stroke-width="1"/>
+<polyline points="70.0,150.0 160.0,170.0 260.0,178.0 360.0,170.0 450.0,150.0" fill="none" stroke="#1f2937" stroke-width="2" stroke-linejoin="round"/>
+<text x="470" y="155" font-size="13" text-anchor="start" fill="#1f2937">primary fissure</text>
+<text x="125" y="125" font-size="14" text-anchor="middle" fill="#1f2937" font-weight="bold">anterior lobe</text>
+<text x="125" y="245" font-size="14" text-anchor="middle" fill="#1f2937" font-weight="bold">posterior lobe</text>
+<ellipse cx="260" cy="355" rx="30" ry="18" fill="#dcfce7" stroke="#6b7280" stroke-width="1.5"/>
+<ellipse cx="140" cy="350" rx="42" ry="16" fill="#dcfce7" stroke="#6b7280" stroke-width="1.5"/>
+<ellipse cx="380" cy="350" rx="42" ry="16" fill="#dcfce7" stroke="#6b7280" stroke-width="1.5"/>
+<text x="260" y="395" font-size="13" text-anchor="middle" fill="#1f2937">nodulus</text>
+<text x="140" y="385" font-size="13" text-anchor="middle" fill="#1f2937">flocculus</text>
+<text x="380" y="385" font-size="13" text-anchor="middle" fill="#1f2937">flocculus</text>
+<text x="260" y="40" font-size="14" text-anchor="middle" fill="#1f2937">vermis</text>
+<line x1="260" y1="45" x2="260" y2="72" stroke="#1f2937" stroke-width="1"/>
+<text x="390" y="40" font-size="14" text-anchor="middle" fill="#1f2937">intermediate zone</text>
+<line x1="360" y1="45" x2="312" y2="90" stroke="#1f2937" stroke-width="1"/>
+<text x="110" y="40" font-size="14" text-anchor="middle" fill="#1f2937">lateral hemisphere</text>
+<line x1="110" y1="45" x2="110" y2="80" stroke="#1f2937" stroke-width="1"/>
+<rect x="560" y="190" width="28" height="28" fill="#fef3c7" stroke="#6b7280"/>
+<text x="600" y="203" font-size="15" text-anchor="start" fill="#1f2937" font-weight="bold">Cerebrocerebellum</text>
+<text x="600" y="220" font-size="13" text-anchor="start" fill="#6b7280">lateral hemispheres</text>
+<rect x="560" y="245" width="28" height="28" fill="#dbeafe" stroke="#6b7280"/>
+<text x="600" y="258" font-size="15" text-anchor="start" fill="#1f2937" font-weight="bold">Spinocerebellum</text>
+<text x="600" y="275" font-size="13" text-anchor="start" fill="#6b7280">vermis + intermediate zone</text>
+<rect x="560" y="300" width="28" height="28" fill="#dcfce7" stroke="#6b7280"/>
+<text x="600" y="313" font-size="15" text-anchor="start" fill="#1f2937" font-weight="bold">Vestibulocerebellum</text>
+<text x="600" y="330" font-size="13" text-anchor="start" fill="#6b7280">flocculonodular lobe</text>
+<text x="560" y="160" font-size="13" text-anchor="start" fill="#6b7280">unrolled view, dorsal; rostral at top</text>
+<text x="110" y="450" font-size="14" text-anchor="middle" fill="#6b7280" font-weight="bold">Main input</text>
+<text x="330" y="450" font-size="14" text-anchor="middle" fill="#6b7280" font-weight="bold">Cortical division</text>
+<text x="550" y="450" font-size="14" text-anchor="middle" fill="#6b7280" font-weight="bold">Output nucleus</text>
+<text x="770" y="450" font-size="14" text-anchor="middle" fill="#6b7280" font-weight="bold">Target and role</text>
+<rect x="20" y="465" width="180" height="54" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.2"/>
+<text x="110" y="488" font-size="14" text-anchor="middle" fill="#1f2937">Cerebral cortex via</text>
+<text x="110" y="507" font-size="13" text-anchor="middle" fill="#1f2937">pontine nuclei (MCP)</text>
+<polyline points="202.0,492.0 226.0,492.0" fill="none" stroke="#6b7280" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="238.0,492.0 224.0,485.0 224.0,499.0" fill="#6b7280"/>
+<rect x="240" y="465" width="180" height="54" rx="8" fill="#fef3c7" stroke="#6b7280" stroke-width="1.2"/>
+<text x="330" y="488" font-size="14" text-anchor="middle" fill="#1f2937" font-weight="bold">Cerebrocerebellum</text>
+<text x="330" y="507" font-size="13" text-anchor="middle" fill="#1f2937">lateral hemisphere</text>
+<polyline points="422.0,492.0 446.0,492.0" fill="none" stroke="#6b7280" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="458.0,492.0 444.0,485.0 444.0,499.0" fill="#6b7280"/>
+<rect x="460" y="465" width="180" height="54" rx="8" fill="#fef3c7" stroke="#6b7280" stroke-width="1.2"/>
+<text x="550" y="497" font-size="14" text-anchor="middle" fill="#1f2937">Dentate</text>
+<polyline points="642.0,492.0 666.0,492.0" fill="none" stroke="#6b7280" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="678.0,492.0 664.0,485.0 664.0,499.0" fill="#6b7280"/>
+<rect x="680" y="465" width="180" height="54" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.2"/>
+<text x="770" y="488" font-size="14" text-anchor="middle" fill="#1f2937">Premotor / non-primary</text>
+<text x="770" y="507" font-size="13" text-anchor="middle" fill="#1f2937">motor cortex: planning</text>
+<rect x="20" y="535" width="180" height="54" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.2"/>
+<text x="110" y="558" font-size="14" text-anchor="middle" fill="#1f2937">Spinal cord, trigeminal,</text>
+<text x="110" y="577" font-size="13" text-anchor="middle" fill="#1f2937">vestibular, auditory/visual</text>
+<polyline points="202.0,562.0 226.0,562.0" fill="none" stroke="#6b7280" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="238.0,562.0 224.0,555.0 224.0,569.0" fill="#6b7280"/>
+<rect x="240" y="535" width="180" height="54" rx="8" fill="#dbeafe" stroke="#6b7280" stroke-width="1.2"/>
+<text x="330" y="558" font-size="14" text-anchor="middle" fill="#1f2937" font-weight="bold">Spinocerebellum</text>
+<text x="330" y="577" font-size="13" text-anchor="middle" fill="#1f2937">vermis / intermediate</text>
+<polyline points="422.0,562.0 446.0,562.0" fill="none" stroke="#6b7280" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="458.0,562.0 444.0,555.0 444.0,569.0" fill="#6b7280"/>
+<rect x="460" y="535" width="180" height="54" rx="8" fill="#dbeafe" stroke="#6b7280" stroke-width="1.2"/>
+<text x="550" y="558" font-size="14" text-anchor="middle" fill="#1f2937">Fastigial (vermis)</text>
+<text x="550" y="577" font-size="13" text-anchor="middle" fill="#1f2937">Interposed (interm.)</text>
+<polyline points="642.0,562.0 666.0,562.0" fill="none" stroke="#6b7280" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="678.0,562.0 664.0,555.0 664.0,569.0" fill="#6b7280"/>
+<rect x="680" y="535" width="180" height="54" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.2"/>
+<text x="770" y="558" font-size="14" text-anchor="middle" fill="#1f2937">M1 and brainstem motor</text>
+<text x="770" y="577" font-size="13" text-anchor="middle" fill="#1f2937">nuclei: execution</text>
+<rect x="20" y="605" width="180" height="54" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.2"/>
+<text x="110" y="628" font-size="14" text-anchor="middle" fill="#1f2937">Vestibular labyrinth and</text>
+<text x="110" y="647" font-size="13" text-anchor="middle" fill="#1f2937">vestibular nuclei (ICP)</text>
+<polyline points="202.0,632.0 226.0,632.0" fill="none" stroke="#6b7280" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="238.0,632.0 224.0,625.0 224.0,639.0" fill="#6b7280"/>
+<rect x="240" y="605" width="180" height="54" rx="8" fill="#dcfce7" stroke="#6b7280" stroke-width="1.2"/>
+<text x="330" y="628" font-size="14" text-anchor="middle" fill="#1f2937" font-weight="bold">Vestibulocerebellum</text>
+<text x="330" y="647" font-size="13" text-anchor="middle" fill="#1f2937">flocculonodular lobe</text>
+<polyline points="422.0,632.0 446.0,632.0" fill="none" stroke="#6b7280" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="458.0,632.0 444.0,625.0 444.0,639.0" fill="#6b7280"/>
+<rect x="460" y="605" width="180" height="54" rx="8" fill="#dcfce7" stroke="#6b7280" stroke-width="1.2"/>
+<text x="550" y="628" font-size="14" text-anchor="middle" fill="#1f2937">Vestibular nuclei</text>
+<text x="550" y="647" font-size="13" text-anchor="middle" fill="#1f2937">(no deep nucleus)</text>
+<polyline points="642.0,632.0 666.0,632.0" fill="none" stroke="#6b7280" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="678.0,632.0 664.0,625.0 664.0,639.0" fill="#6b7280"/>
+<rect x="680" y="605" width="180" height="54" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.2"/>
+<text x="770" y="628" font-size="14" text-anchor="middle" fill="#1f2937">Brainstem and spinal</text>
+<text x="770" y="647" font-size="13" text-anchor="middle" fill="#1f2937">cord: eyes and balance</text>
+</svg>

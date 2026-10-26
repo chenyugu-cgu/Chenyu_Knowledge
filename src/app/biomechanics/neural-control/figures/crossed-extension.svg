@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 620" width="880" height="620" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g font-size="14" fill="#1f2937">
+<!-- cord -->
+<rect x="290" y="70" width="300" height="400" rx="18" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+<line x1="440" y1="70" x2="440" y2="470" stroke="#6b7280" stroke-dasharray="5 4"/>
+<text x="440" y="56" text-anchor="middle" font-weight="bold">Spinal cord (several lumbosacral segments)</text>
+<text x="440" y="492" text-anchor="middle" font-size="13">midline</text>
+
+<!-- intersegmental spread -->
+<line x1="412" y1="252" x2="412" y2="100" stroke="#93c5fd" stroke-width="2" stroke-dasharray="6 4"/><polygon points="412.0,100.0 417.5,113.0 406.5,113.0" fill="#2563eb"/>
+<line x1="412" y1="278" x2="412" y2="455" stroke="#93c5fd" stroke-width="2" stroke-dasharray="6 4"/><polygon points="412.0,455.0 406.5,442.0 417.5,442.0" fill="#2563eb"/>
+<text x="404" y="112" font-size="13" text-anchor="end">to segments</text>
+<text x="404" y="128" font-size="13" text-anchor="end">above</text>
+<text x="404" y="452" font-size="13" text-anchor="end">and below</text>
+
+<!-- afferent -->
+<path d="M250,545 L250,265 L365,265" fill="none" stroke="#2563eb" stroke-width="2.5"/><polygon points="365.0,265.0 350.0,272.0 350.0,258.0" fill="#2563eb"/>
+<text x="250" y="572" text-anchor="middle">Nociceptive afferent from the foot</text>
+<text x="250" y="590" text-anchor="middle" font-size="13">(stepping on a tack)</text>
+
+<!-- interneurons -->
+<circle cx="380" cy="265" r="13" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<circle cx="500" cy="265" r="13" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<circle cx="380" cy="350" r="12" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+<circle cx="480" cy="178" r="12" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+<line x1="372" y1="254" x2="335" y2="185" stroke="#2563eb" stroke-width="2.5"/><polygon points="335.0,185.0 348.3,194.9 335.9,201.5" fill="#2563eb"/>
+<line x1="380" y1="278" x2="380" y2="336" stroke="#2563eb" stroke-width="2.5"/><polygon points="380.0,336.0 373.0,321.0 387.0,321.0" fill="#2563eb"/>
+<line x1="371" y1="359" x2="337" y2="397" stroke="#dc2626" stroke-width="2.5"/><polygon points="332.0,389.1 345.4,401.1 342.0,404.9 328.6,392.9" fill="#dc2626"/>
+<line x1="393" y1="265" x2="485" y2="265" stroke="#2563eb" stroke-width="2.5"/><polygon points="485.0,265.0 470.0,272.0 470.0,258.0" fill="#2563eb"/>
+<line x1="508" y1="277" x2="546" y2="395" stroke="#2563eb" stroke-width="2.5"/><polygon points="546.0,395.0 534.7,382.9 548.1,378.6" fill="#2563eb"/>
+<line x1="496" y1="252" x2="484" y2="192" stroke="#2563eb" stroke-width="2.5"/><polygon points="484.0,192.0 493.8,205.3 480.1,208.1" fill="#2563eb"/>
+<line x1="492" y1="176" x2="538" y2="172" stroke="#dc2626" stroke-width="2.5"/><polygon points="536.3,181.2 534.7,163.3 539.7,162.8 541.3,180.7" fill="#dc2626"/>
+
+<!-- motor neurons -->
+<circle cx="325" cy="170" r="16" fill="#dbeafe" stroke="#1f2937" stroke-width="1.5"/><text x="325" y="175" text-anchor="middle" font-weight="bold">F</text>
+<circle cx="325" cy="410" r="16" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/><text x="325" y="415" text-anchor="middle" font-weight="bold">E</text>
+<circle cx="555" cy="170" r="16" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/><text x="555" y="175" text-anchor="middle" font-weight="bold">F</text>
+<circle cx="555" cy="410" r="16" fill="#dbeafe" stroke="#1f2937" stroke-width="1.5"/><text x="555" y="415" text-anchor="middle" font-weight="bold">E</text>
+
+<!-- motor axons -->
+<line x1="309" y1="170" x2="222" y2="170" stroke="#2563eb" stroke-width="2.5"/><polygon points="222.0,170.0 237.0,163.0 237.0,177.0" fill="#2563eb"/>
+<line x1="309" y1="410" x2="222" y2="410" stroke="#9ca3af" stroke-width="2" stroke-dasharray="5 4"/><polygon points="222.0,410.0 235.0,404.5 235.0,415.5" fill="#9ca3af"/>
+<line x1="571" y1="170" x2="658" y2="170" stroke="#9ca3af" stroke-width="2" stroke-dasharray="5 4"/><polygon points="658.0,170.0 645.0,175.5 645.0,164.5" fill="#9ca3af"/>
+<line x1="571" y1="410" x2="658" y2="410" stroke="#2563eb" stroke-width="2.5"/><polygon points="658.0,410.0 643.0,417.0 643.0,403.0" fill="#2563eb"/>
+
+<!-- muscle boxes -->
+<text x="140" y="110" text-anchor="middle" font-weight="bold">Stimulated leg</text>
+<text x="140" y="128" text-anchor="middle" font-size="13">withdraws (flexion)</text>
+<rect x="60" y="145" width="160" height="50" rx="8" fill="#dbeafe" stroke="#6b7280"/>
+<text x="140" y="166" text-anchor="middle">Flexors</text>
+<text x="140" y="184" text-anchor="middle" font-size="13" fill="#2563eb">contract (+)</text>
+<rect x="60" y="385" width="160" height="50" rx="8" fill="#fee2e2" stroke="#6b7280"/>
+<text x="140" y="406" text-anchor="middle">Extensors</text>
+<text x="140" y="424" text-anchor="middle" font-size="13" fill="#dc2626">relax (−)</text>
+
+<text x="740" y="110" text-anchor="middle" font-weight="bold">Opposite leg</text>
+<text x="740" y="128" text-anchor="middle" font-size="13">extends, takes the weight</text>
+<rect x="660" y="145" width="160" height="50" rx="8" fill="#fee2e2" stroke="#6b7280"/>
+<text x="740" y="166" text-anchor="middle">Flexors</text>
+<text x="740" y="184" text-anchor="middle" font-size="13" fill="#dc2626">relax (−)</text>
+<rect x="660" y="385" width="160" height="50" rx="8" fill="#dbeafe" stroke="#6b7280"/>
+<text x="740" y="406" text-anchor="middle">Extensors</text>
+<text x="740" y="424" text-anchor="middle" font-size="13" fill="#2563eb">contract (+)</text>
+</g>
+<!-- legend -->
+<g font-size="13" fill="#1f2937">
+<line x1="520" y1="530" x2="560" y2="530" stroke="#2563eb" stroke-width="2.5"/><polygon points="560.0,530.0 545.0,537.0 545.0,523.0" fill="#2563eb"/><text x="570" y="535">excitatory</text>
+<line x1="680" y1="530" x2="720" y2="530" stroke="#dc2626" stroke-width="2.5"/><polygon points="717.5,539.0 717.5,521.0 722.5,521.0 722.5,539.0" fill="#dc2626"/><text x="730" y="535">inhibitory</text>
+<line x1="520" y1="560" x2="560" y2="560" stroke="#9ca3af" stroke-width="2" stroke-dasharray="5 4"/><polygon points="560.0,560.0 547.0,565.5 547.0,554.5" fill="#9ca3af"/><text x="570" y="565">silenced motor neuron</text>
+<circle cx="540" cy="590" r="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/><text x="555" y="595">excitatory IN</text>
+<circle cx="700" cy="590" r="8" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/><text x="715" y="595">inhibitory IN</text>
+</g>
+</svg>

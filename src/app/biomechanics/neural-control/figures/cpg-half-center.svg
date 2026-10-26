@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 540" width="820" height="540" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g font-size="14" fill="#1f2937">
+<rect x="230" y="25" width="360" height="56" rx="8" fill="#dbeafe" stroke="#6b7280"/>
+<text x="410" y="49" text-anchor="middle" font-weight="bold">Tonic excitatory drive</text>
+<text x="410" y="69" text-anchor="middle" font-size="13">brainstem MLR, drugs, or epidural stimulation</text>
+<line x1="320" y1="81" x2="245" y2="168" stroke="#2563eb" stroke-width="2.5"/><polygon points="245.0,168.0 249.5,152.1 260.1,161.2" fill="#2563eb"/>
+<line x1="500" y1="81" x2="575" y2="168" stroke="#2563eb" stroke-width="2.5"/><polygon points="575.0,168.0 559.9,161.2 570.5,152.1" fill="#2563eb"/>
+<text x="268" y="128" fill="#2563eb" font-weight="bold">+</text>
+<text x="545" y="128" fill="#2563eb" font-weight="bold">+</text>
+
+<rect x="150" y="170" width="170" height="80" rx="10" fill="#fef3c7" stroke="#6b7280" stroke-width="1.5"/>
+<text x="235" y="204" text-anchor="middle" font-weight="bold">Flexor</text>
+<text x="235" y="224" text-anchor="middle" font-weight="bold">half-center</text>
+<rect x="500" y="170" width="170" height="80" rx="10" fill="#fef3c7" stroke="#6b7280" stroke-width="1.5"/>
+<text x="585" y="204" text-anchor="middle" font-weight="bold">Extensor</text>
+<text x="585" y="224" text-anchor="middle" font-weight="bold">half-center</text>
+
+<line x1="320" y1="192" x2="497" y2="192" stroke="#dc2626" stroke-width="2.5"/><polygon points="494.5,201.0 494.5,183.0 499.5,183.0 499.5,201.0" fill="#dc2626"/>
+<line x1="500" y1="228" x2="323" y2="228" stroke="#dc2626" stroke-width="2.5"/><polygon points="325.5,219.0 325.5,237.0 320.5,237.0 320.5,219.0" fill="#dc2626"/>
+<text x="410" y="184" text-anchor="middle" fill="#dc2626" font-size="13">mutual inhibition (−)</text>
+
+
+<!-- sensory inputs -->
+<line x1="30" y1="210" x2="147" y2="210" stroke="#6b7280" stroke-width="2" stroke-dasharray="6 4"/><polygon points="147.0,210.0 134.0,215.5 134.0,204.5" fill="#6b7280"/>
+<text x="20" y="178" font-size="13">hip extension,</text>
+<text x="20" y="195" font-size="13">ankle unloading</text>
+<text x="20" y="232" font-size="13">→ start swing</text>
+<line x1="790" y1="210" x2="673" y2="210" stroke="#6b7280" stroke-width="2" stroke-dasharray="6 4"/><polygon points="673.0,210.0 686.0,204.5 686.0,215.5" fill="#6b7280"/>
+<text x="800" y="178" font-size="13" text-anchor="end">extensor load</text>
+<text x="800" y="195" font-size="13" text-anchor="end">(Ib, spindle)</text>
+<text x="800" y="232" font-size="13" text-anchor="end">→ prolong stance</text>
+
+<!-- outputs -->
+<line x1="235" y1="250" x2="235" y2="298" stroke="#2563eb" stroke-width="2.5"/><polygon points="235.0,298.0 228.0,283.0 242.0,283.0" fill="#2563eb"/>
+<line x1="585" y1="250" x2="585" y2="298" stroke="#2563eb" stroke-width="2.5"/><polygon points="585.0,298.0 578.0,283.0 592.0,283.0" fill="#2563eb"/>
+<rect x="150" y="300" width="170" height="44" rx="8" fill="#f3f4f6" stroke="#6b7280"/>
+<text x="235" y="327" text-anchor="middle">Flexor motor neurons</text>
+<rect x="500" y="300" width="170" height="44" rx="8" fill="#f3f4f6" stroke="#6b7280"/>
+<text x="585" y="327" text-anchor="middle">Extensor motor neurons</text>
+
+<!-- alternating bursts -->
+<text x="150" y="425" text-anchor="end">Flexor EMG</text>
+<text x="150" y="475" text-anchor="end">Extensor EMG</text>
+<line x1="160" y1="428" x2="700" y2="428" stroke="#6b7280"/>
+<line x1="160" y1="478" x2="700" y2="478" stroke="#6b7280"/>
+<g fill="#2563eb" opacity="0.85">
+<rect x="170" y="400" width="70" height="28"/>
+<rect x="350" y="400" width="70" height="28"/>
+<rect x="530" y="400" width="70" height="28"/>
+<rect x="245" y="450" width="100" height="28"/>
+<rect x="425" y="450" width="100" height="28"/>
+<rect x="605" y="450" width="90" height="28"/>
+</g>
+<text x="205" y="394" text-anchor="middle" font-size="13">swing</text>
+<text x="295" y="444" text-anchor="middle" font-size="13">stance</text>
+<line x1="160" y1="505" x2="700" y2="505" stroke="#6b7280" stroke-width="1.5"/><polygon points="700.0,505.0 687.0,510.5 687.0,499.5" fill="#6b7280"/>
+<text x="710" y="510" font-size="13">time</text>
+</g>
+</svg>

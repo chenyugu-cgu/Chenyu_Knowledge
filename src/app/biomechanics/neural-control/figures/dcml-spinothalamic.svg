@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 720" width="940" height="720" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<defs><marker id="ah-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker><marker id="ah-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="ah-gray" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6b7280"/></marker><marker id="ah-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d97706"/></marker><marker id="ah-dark" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937"/></marker></defs>
+<rect x="240.0" y="40.0" width="460.0" height="60.0" rx="10" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="20.0" y="75.0" font-size="14" text-anchor="start" font-weight="normal" fill="#1f2937">Cerebral cortex</text>
+<rect x="320.0" y="125.0" width="300.0" height="53.0" rx="10" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="20.0" y="156.5" font-size="14" text-anchor="start" font-weight="normal" fill="#1f2937">Thalamus</text>
+<rect x="380.0" y="200.0" width="180.0" height="45.0" rx="10" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="20.0" y="227.5" font-size="14" text-anchor="start" font-weight="normal" fill="#1f2937">Midbrain</text>
+<rect x="360.0" y="262.0" width="220.0" height="50.0" rx="10" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="20.0" y="292.0" font-size="14" text-anchor="start" font-weight="normal" fill="#1f2937">Pons</text>
+<rect x="390.0" y="326.0" width="160.0" height="38.0" rx="10" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="20.0" y="350.0" font-size="14" text-anchor="start" font-weight="normal" fill="#1f2937">Rostral medulla</text>
+<rect x="395.0" y="374.0" width="150.0" height="44.0" rx="10" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="20.0" y="401.0" font-size="14" text-anchor="start" font-weight="normal" fill="#1f2937">Caudal medulla</text>
+<rect x="400.0" y="440.0" width="140.0" height="65.0" rx="10" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="20.0" y="477.5" font-size="14" text-anchor="start" font-weight="normal" fill="#1f2937">Cervical cord</text>
+<rect x="400.0" y="560.0" width="140.0" height="90.0" rx="10" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="20.0" y="610.0" font-size="14" text-anchor="start" font-weight="normal" fill="#1f2937">Lumbar cord</text>
+<line x1="470.0" y1="30.0" x2="470.0" y2="658.0" stroke="#6b7280" stroke-width="1" stroke-dasharray="5,5"/>
+<text x="300.0" y="535.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#6b7280">⋮  thoracic cord  ⋮</text>
+<text x="470.0" y="22.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#6b7280">midline</text>
+<rect x="520.0" y="52.0" width="180.0" height="36.0" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="610.0" y="75.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#1f2937">S1 (postcentral gyrus)</text>
+<ellipse cx="548.0" cy="152.0" rx="36" ry="15" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="548.0" y="157.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2937">VPL</text>
+<line x1="255.0" y1="588.0" x2="332.0" y2="588.0" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="340.0" cy="588.0" r="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<path d="M 348.0,588.0 L 452.0,588.0 L 452.0,404.0" stroke="#2563eb" stroke-width="2.5" fill="none" />
+<line x1="255.0" y1="470.0" x2="332.0" y2="470.0" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="340.0" cy="470.0" r="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<path d="M 348.0,470.0 L 434.0,470.0 L 434.0,398.0" stroke="#2563eb" stroke-width="2.5" fill="none" />
+<circle cx="452.0" cy="400.0" r="6" fill="#2563eb" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="434.0" cy="394.0" r="6" fill="#2563eb" stroke="#2563eb" stroke-width="1.5"/>
+<path d="M 452.0,400.0 L 492.0,378.0" stroke="#2563eb" stroke-width="2.5" fill="none" />
+<path d="M 434.0,394.0 L 492.0,378.0" stroke="#2563eb" stroke-width="2.5" fill="none" />
+<path d="M 492.0,378.0 L 492.0,180.0 L 520.0,162.0" stroke="#2563eb" stroke-width="2.5" fill="none" marker-end="url(#ah-blue)" />
+<text x="245.0" y="465.0" font-size="13" text-anchor="end" font-weight="normal" fill="#2563eb">Touch, vibration,</text>
+<text x="245.0" y="481.2" font-size="13" text-anchor="end" font-weight="normal" fill="#2563eb">proprioception (arm)</text>
+<text x="245.0" y="583.0" font-size="13" text-anchor="end" font-weight="normal" fill="#2563eb">Touch, vibration,</text>
+<text x="245.0" y="599.2" font-size="13" text-anchor="end" font-weight="normal" fill="#2563eb">proprioception (leg)</text>
+<text x="340.0" y="495.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#6b7280">DRG</text>
+<line x1="255.0" y1="630.0" x2="332.0" y2="630.0" stroke="#dc2626" stroke-width="2.5"/>
+<circle cx="340.0" cy="630.0" r="8" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+<path d="M 348.0,630.0 L 405.0,630.0 L 405.0,606.0" stroke="#dc2626" stroke-width="2.5" fill="none" />
+<circle cx="412.0" cy="602.0" r="6" fill="#dc2626" stroke="#dc2626" stroke-width="1.5"/>
+<path d="M 412.0,602.0 L 522.0,588.0 L 522.0,180.0 L 535.0,166.0" stroke="#dc2626" stroke-width="2.5" fill="none" marker-end="url(#ah-red)" />
+<text x="245.0" y="625.0" font-size="13" text-anchor="end" font-weight="normal" fill="#dc2626">Pain, temperature,</text>
+<text x="245.0" y="641.2" font-size="13" text-anchor="end" font-weight="normal" fill="#dc2626">crude touch (leg)</text>
+<text x="340.0" y="660.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#6b7280">DRG</text>
+<line x1="560.0" y1="138.0" x2="590.0" y2="92.0" stroke="#2563eb" stroke-width="2.5" marker-end="url(#ah-blue)"/>
+<line x1="575.0" y1="142.0" x2="640.0" y2="92.0" stroke="#dc2626" stroke-width="2.5" marker-end="url(#ah-red)"/>
+<text x="730.0" y="70.0" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">3rd-order axons pass</text>
+<text x="730.0" y="86.2" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">through the internal</text>
+<text x="730.0" y="102.5" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">capsule to S1</text>
+<text x="730.0" y="150.0" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">3rd-order neurons in</text>
+<text x="730.0" y="166.2" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">VPL of the thalamus</text>
+<text x="730.0" y="270.0" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">Medial lemniscus (blue)</text>
+<text x="730.0" y="286.2" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">and spinothalamic tract</text>
+<text x="730.0" y="302.5" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">(red) ascend on the</text>
+<text x="730.0" y="318.8" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">side opposite the input</text>
+<text x="730.0" y="392.0" font-size="13" text-anchor="start" font-weight="normal" fill="#2563eb">DCML crosses here:</text>
+<text x="730.0" y="408.2" font-size="13" text-anchor="start" font-weight="normal" fill="#2563eb">gracile and cuneate</text>
+<text x="730.0" y="424.5" font-size="13" text-anchor="start" font-weight="normal" fill="#2563eb">nuclei send internal</text>
+<text x="730.0" y="440.8" font-size="13" text-anchor="start" font-weight="normal" fill="#2563eb">arcuate fibers across</text>
+<text x="730.0" y="470.0" font-size="13" text-anchor="start" font-weight="normal" fill="#2563eb">Dorsal columns ascend</text>
+<text x="730.0" y="486.2" font-size="13" text-anchor="start" font-weight="normal" fill="#2563eb">ipsilaterally</text>
+<text x="730.0" y="588.0" font-size="13" text-anchor="start" font-weight="normal" fill="#dc2626">Spinothalamic crosses</text>
+<text x="730.0" y="604.2" font-size="13" text-anchor="start" font-weight="normal" fill="#dc2626">here: anterior white</text>
+<text x="730.0" y="620.5" font-size="13" text-anchor="start" font-weight="normal" fill="#dc2626">commissure, 1–2 segments</text>
+<text x="730.0" y="636.8" font-size="13" text-anchor="start" font-weight="normal" fill="#dc2626">above entry (Lissauer)</text>
+</svg>

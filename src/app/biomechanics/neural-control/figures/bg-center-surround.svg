@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 890 615" width="890" height="615" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="330" y="40" font-size="14" text-anchor="middle" fill="#1f2937">program 1</text>
+<text x="445" y="40" font-size="14" text-anchor="middle" fill="#1f2937">program 2</text>
+<text x="560" y="40" font-size="14" text-anchor="middle" fill="#1f2937" font-weight="bold">program 3</text>
+<text x="675" y="40" font-size="14" text-anchor="middle" fill="#1f2937">program 4</text>
+<text x="790" y="40" font-size="14" text-anchor="middle" fill="#1f2937">program 5</text>
+<text x="560" y="58" font-size="13" text-anchor="middle" fill="#16a34a" font-weight="bold">(intended)</text>
+<text x="20" y="130" font-size="15" text-anchor="start" fill="#1f2937" font-weight="bold">Striatum (D1, direct)</text>
+<text x="20" y="150" font-size="13" text-anchor="start" fill="#6b7280">focused inhibition of GPi</text>
+<line x1="270" y1="160" x2="870" y2="160" stroke="#6b7280" stroke-width="1"/>
+<rect x="305" y="160.0" width="50" height="0.0" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<rect x="420" y="160.0" width="50" height="0.0" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<rect x="535" y="116.2" width="50" height="43.8" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<rect x="650" y="160.0" width="50" height="0.0" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<rect x="765" y="160.0" width="50" height="0.0" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="20" y="250" font-size="15" text-anchor="start" fill="#1f2937" font-weight="bold">STN (hyperdirect/indirect)</text>
+<text x="20" y="270" font-size="13" text-anchor="start" fill="#6b7280">diffuse excitation of GPi</text>
+<line x1="270" y1="280" x2="870" y2="280" stroke="#6b7280" stroke-width="1"/>
+<rect x="305" y="249.4" width="50" height="30.6" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<rect x="420" y="249.4" width="50" height="30.6" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<rect x="535" y="249.4" width="50" height="30.6" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<rect x="650" y="249.4" width="50" height="30.6" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<rect x="765" y="249.4" width="50" height="30.6" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<line x1="275" y1="269.0625" x2="870" y2="269.0625" stroke="#1f2937" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="20" y="370" font-size="15" text-anchor="start" fill="#1f2937" font-weight="bold">GPi / SNr output</text>
+<text x="20" y="390" font-size="13" text-anchor="start" fill="#6b7280">tonic inhibition of thalamus</text>
+<line x1="270" y1="400" x2="870" y2="400" stroke="#6b7280" stroke-width="1"/>
+<rect x="305" y="334.4" width="50" height="65.6" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<rect x="420" y="334.4" width="50" height="65.6" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<rect x="535" y="396.5" width="50" height="3.5" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<rect x="650" y="334.4" width="50" height="65.6" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<rect x="765" y="334.4" width="50" height="65.6" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<line x1="275" y1="356.25" x2="870" y2="356.25" stroke="#1f2937" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="20" y="490" font-size="15" text-anchor="start" fill="#1f2937" font-weight="bold">Thalamus → cortex</text>
+<text x="20" y="510" font-size="13" text-anchor="start" fill="#6b7280">center released, surround held</text>
+<line x1="270" y1="520" x2="870" y2="520" stroke="#6b7280" stroke-width="1"/>
+<rect x="305" y="513.4" width="50" height="6.6" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<rect x="420" y="513.4" width="50" height="6.6" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<rect x="535" y="450.0" width="50" height="70.0" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<rect x="650" y="513.4" width="50" height="6.6" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<rect x="765" y="513.4" width="50" height="6.6" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<line x1="275" y1="498.125" x2="870" y2="498.125" stroke="#1f2937" stroke-width="1.2" stroke-dasharray="6 4"/>
+<line x1="275" y1="590" x2="315" y2="590" stroke="#1f2937" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="325" y="595" font-size="13" text-anchor="start" fill="#1f2937">resting (tonic) level</text>
+<rect x="520" y="580" width="30" height="16" fill="#fee2e2" stroke="#dc2626"/>
+<text x="558" y="595" font-size="13" text-anchor="start" fill="#1f2937">GABAergic</text>
+<rect x="660" y="580" width="30" height="16" fill="#dbeafe" stroke="#2563eb"/>
+<text x="698" y="595" font-size="13" text-anchor="start" fill="#1f2937">glutamatergic</text>
+</svg>

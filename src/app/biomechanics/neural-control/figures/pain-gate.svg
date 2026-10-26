@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 445" width="880" height="445" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#1f2937">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+
+  <!-- ============ Panel 1: gate open ============ -->
+  <g transform="translate(15,0)">
+    <rect x="0" y="15" width="410" height="415" rx="8" fill="#f9fafb" stroke="#d1d5db"/>
+    <text x="20" y="45" font-size="16" font-weight="bold">Gate open: only C fibers active</text>
+
+    <!-- Abeta inactive -->
+    <text x="20" y="120" fill="#6b7280">Aβ (touch, vibration): silent</text>
+    <path d="M15,130 L300,130 L300,233" fill="none" stroke="#9ca3af" stroke-width="2" stroke-dasharray="6 4"/>
+    <line x1="150" y1="130" x2="150" y2="168" stroke="#9ca3af" stroke-width="2" stroke-dasharray="6 4"/>
+    <path d="M144,168 L150,180 L156,168 z" fill="#9ca3af"/>
+    <path d="M294,233 L300,245 L306,233 z" fill="#9ca3af"/>
+
+    <!-- interneuron silent -->
+    <circle cx="150" cy="200" r="20" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2"/>
+    <text x="20" y="190">inhibitory</text>
+    <text x="20" y="206">interneuron</text>
+    <text x="20" y="222">(lamina II)</text>
+    <line x1="168" y1="210" x2="283" y2="255" stroke="#9ca3af" stroke-width="2" stroke-dasharray="6 4"/>
+    <line x1="279.7" y1="263.4" x2="286.3" y2="246.6" stroke="#9ca3af" stroke-width="4"/>
+
+    <!-- C active -->
+    <text x="20" y="371" fill="#c2410c" font-weight="bold">C (nociceptor): active</text>
+    <path d="M15,350 L300,350 L300,288" fill="none" stroke="#c2410c" stroke-width="3"/>
+    <path d="M293,290 L300,276 L307,290 z" fill="#c2410c"/>
+    <text x="290" y="315" text-anchor="end" font-weight="bold" fill="#2563eb">+</text>
+    <line x1="130" y1="350" x2="140" y2="228" stroke="#c2410c" stroke-width="3"/>
+    <line x1="130" y1="227" x2="150" y2="227" stroke="#dc2626" stroke-width="4"/>
+    <text x="122" y="295" text-anchor="end" font-weight="bold" font-size="18" fill="#dc2626">−</text>
+
+    <!-- projection neuron -->
+    <path d="M285,245 L285,275 L320,260 z" fill="#2563eb"/>
+    <text x="314" y="305">WDR</text>
+    <text x="314" y="321">projection</text>
+    <text x="314" y="337">neuron</text>
+    <line x1="320" y1="260" x2="372" y2="260" stroke="#2563eb" stroke-width="5"/>
+    <path d="M370,250 L390,260 L370,270 z" fill="#2563eb"/>
+    <text x="325" y="246" font-weight="bold" fill="#2563eb">strong</text>
+
+    <text x="20" y="398" font-size="13">C excites the projection neuron and inhibits the</text>
+    <text x="20" y="416" font-size="13">interneuron, so nociceptive output passes freely.</text>
+  </g>
+
+  <!-- ============ Panel 2: gate closed ============ -->
+  <g transform="translate(455,0)">
+    <rect x="0" y="15" width="410" height="415" rx="8" fill="#f9fafb" stroke="#d1d5db"/>
+    <text x="20" y="45" font-size="16" font-weight="bold">Gate closed: Aβ and C both active</text>
+
+    <!-- Abeta active -->
+    <text x="20" y="120" fill="#15803d" font-weight="bold">Aβ (touch, vibration): active</text>
+    <path d="M15,130 L300,130 L300,233" fill="none" stroke="#15803d" stroke-width="3"/>
+    <line x1="150" y1="130" x2="150" y2="168" stroke="#15803d" stroke-width="3"/>
+    <path d="M143,166 L150,180 L157,166 z" fill="#15803d"/>
+    <text x="160" y="164" font-weight="bold" fill="#2563eb">+</text>
+    <path d="M293,231 L300,245 L307,231 z" fill="#15803d"/>
+    <text x="310" y="226" font-weight="bold" fill="#2563eb">+</text>
+
+    <!-- interneuron active -->
+    <circle cx="150" cy="200" r="20" fill="#fee2e2" stroke="#dc2626" stroke-width="2.5"/>
+    <text x="20" y="190">inhibitory</text>
+    <text x="20" y="206">interneuron</text>
+    <text x="20" y="222">(lamina II)</text>
+    <line x1="168" y1="210" x2="283" y2="255" stroke="#dc2626" stroke-width="3"/>
+    <line x1="279.7" y1="263.4" x2="286.3" y2="246.6" stroke="#dc2626" stroke-width="5"/>
+    <text x="232" y="258" font-weight="bold" font-size="18" fill="#dc2626">−</text>
+
+    <!-- C active -->
+    <text x="20" y="371" fill="#c2410c" font-weight="bold">C (nociceptor): active</text>
+    <path d="M15,350 L300,350 L300,288" fill="none" stroke="#c2410c" stroke-width="3"/>
+    <path d="M293,290 L300,276 L307,290 z" fill="#c2410c"/>
+    <text x="290" y="315" text-anchor="end" font-weight="bold" fill="#2563eb">+</text>
+    <line x1="130" y1="350" x2="140" y2="228" stroke="#c2410c" stroke-width="3"/>
+    <line x1="130" y1="227" x2="150" y2="227" stroke="#dc2626" stroke-width="4"/>
+    <text x="122" y="295" text-anchor="end" font-weight="bold" font-size="18" fill="#dc2626">−</text>
+
+    <!-- projection neuron -->
+    <path d="M285,245 L285,275 L320,260 z" fill="#93c5fd" stroke="#2563eb"/>
+    <text x="314" y="305">WDR</text>
+    <text x="314" y="321">projection</text>
+    <text x="314" y="337">neuron</text>
+    <line x1="320" y1="260" x2="376" y2="260" stroke="#93c5fd" stroke-width="1.5"/>
+    <path d="M374,255 L386,260 L374,265 z" fill="#93c5fd"/>
+    <text x="325" y="246" font-weight="bold" fill="#6b7280">weak</text>
+
+    <text x="20" y="398" font-size="13">Aβ drives the interneuron, which inhibits the</text>
+    <text x="20" y="416" font-size="13">projection neuron: rubbing or TENS dampens output.</text>
+  </g>
+</svg>

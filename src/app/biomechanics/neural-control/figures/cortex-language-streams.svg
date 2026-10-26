@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="900" height="500" font-family="Helvetica, Arial, sans-serif">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <defs>
+    <marker id="arb" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#2563eb"/>
+    </marker>
+    <marker id="arr" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#dc2626"/>
+    </marker>
+  </defs>
+
+  <!-- cerebellum and brainstem -->
+  <ellipse cx="660" cy="395" rx="80" ry="38" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+  <text x="675" y="412" text-anchor="middle" font-size="13" fill="#6b7280">cerebellum</text>
+  <path d="M 540 370 L 560 470 L 600 470 L 600 380 Z" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+
+  <!-- hemisphere outline (left hemisphere, anterior to the left) -->
+  <path d="M 120 260 C 90 160, 180 60, 330 55 C 470 45, 620 60, 700 120 C 770 170, 795 250, 755 300 C 725 340, 670 350, 625 345 C 595 390, 520 405, 460 395 C 400 385, 330 365, 300 330 C 250 340, 170 330, 120 260 Z" fill="#fafafa" stroke="#1f2937" stroke-width="2.5"/>
+
+  <!-- M1 and S1 strips along central sulcus -->
+  <path d="M 452 56 C 445 120, 430 200, 412 262 L 432 262 C 450 200, 465 120, 472 56 Z" fill="#dbeafe"/>
+  <path d="M 472 56 C 465 120, 450 200, 432 262 L 452 264 C 470 200, 485 120, 492 57 Z" fill="#dcfce7"/>
+  <path d="M 472 56 C 465 120, 450 200, 432 262" fill="none" stroke="#6b7280" stroke-width="2"/>
+  <text x="440" y="44" text-anchor="middle" font-size="13" fill="#2563eb" font-weight="bold">M1</text>
+  <text x="500" y="44" text-anchor="middle" font-size="13" fill="#16a34a" font-weight="bold">S1</text>
+
+  <!-- Sylvian fissure -->
+  <path d="M 300 318 C 380 292, 450 278, 528 270" fill="none" stroke="#6b7280" stroke-width="2"/>
+
+  <!-- Broca and Wernicke -->
+  <ellipse cx="300" cy="282" rx="48" ry="24" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+  <text x="300" y="279" text-anchor="middle" font-size="13" fill="#1f2937" font-weight="bold">Broca</text>
+  <text x="300" y="295" text-anchor="middle" font-size="12" fill="#1f2937">44/45</text>
+  <ellipse cx="580" cy="298" rx="52" ry="24" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+  <text x="580" y="295" text-anchor="middle" font-size="13" fill="#1f2937" font-weight="bold">Wernicke</text>
+  <text x="580" y="311" text-anchor="middle" font-size="12" fill="#1f2937">22 (posterior)</text>
+  <path d="M 340 266 C 400 215, 500 215, 545 278" fill="none" stroke="#d97706" stroke-width="2.5" stroke-dasharray="7,5"/>
+  <text x="350" y="232" text-anchor="middle" font-size="12" fill="#b45309">arcuate fasciculus</text>
+
+  <!-- V1 -->
+  <ellipse cx="752" cy="255" rx="26" ry="38" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+  <text x="752" y="260" text-anchor="middle" font-size="13" fill="#1f2937" font-weight="bold">V1</text>
+
+  <!-- dorsal stream -->
+  <path d="M 735 225 C 700 160, 650 125, 580 110" fill="none" stroke="#2563eb" stroke-width="5" marker-end="url(#arb)"/>
+  <text x="645" y="222" text-anchor="middle" font-size="13" fill="#2563eb" font-weight="bold">dorsal "where / how"</text>
+  <!-- ventral stream -->
+  <path d="M 738 292 C 715 325, 670 335, 565 352" fill="none" stroke="#dc2626" stroke-width="5" marker-end="url(#arr)"/>
+  <text x="470" y="375" text-anchor="middle" font-size="13" fill="#dc2626" font-weight="bold">ventral "what"</text>
+
+  <!-- lobe labels -->
+  <g font-size="16" fill="#6b7280" font-weight="bold" text-anchor="middle">
+    <text x="250" y="170">Frontal</text>
+    <text x="250" y="190" font-size="13" font-weight="normal">prefrontal: executive</text>
+    <text x="560" y="150">Parietal</text>
+    <text x="400" y="340">Temporal</text>
+    <text x="760" y="330" font-size="14">Occipital</text>
+  </g>
+
+  <text x="40" y="40" font-size="13" fill="#1f2937">anterior ←</text>
+  <text x="40" y="470" font-size="13" fill="#1f2937">Left hemisphere, lateral view (language: left-dominant)</text>
+</svg>

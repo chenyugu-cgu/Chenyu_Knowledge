@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 460" width="840" height="460" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#1f2937">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="420.0" y="26.0" font-size="16" text-anchor="middle" font-weight="bold" fill="#1f2937">Wiring of a spinal segment</text>
+<line x1="515.0" y1="40.0" x2="515.0" y2="420.0" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="500.0" y="440.0" font-size="15" text-anchor="end" font-weight="bold" fill="#6b7280">CNS</text>
+<text x="530.0" y="440.0" font-size="15" text-anchor="start" font-weight="bold" fill="#6b7280">PNS</text>
+<ellipse cx="300" cy="250" rx="170" ry="112" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+<path d="M300 205 C280 190 262 148 246 158 C228 172 252 214 262 235 C240 262 208 318 233 340 C258 356 285 292 300 286 C315 292 342 356 367 340 C392 318 360 262 338 235 C348 214 372 172 354 158 C338 148 320 190 300 205 Z" fill="#d1d5db" stroke="#9ca3af" stroke-width="1"/>
+<text x="300.0" y="380.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#4b5563">Ventral (anterior)</text>
+<text x="170.0" y="170.0" font-size="13" text-anchor="end" font-weight="normal" fill="#4b5563">Dorsal</text>
+<text x="170.0" y="186.0" font-size="13" text-anchor="end" font-weight="normal" fill="#4b5563">horn</text>
+<line x1="174.0" y1="176.0" x2="244.0" y2="170.0" stroke="#9ca3af" stroke-width="1"/>
+<text x="170.0" y="330.0" font-size="13" text-anchor="end" font-weight="normal" fill="#4b5563">Ventral</text>
+<text x="170.0" y="346.0" font-size="13" text-anchor="end" font-weight="normal" fill="#4b5563">horn</text>
+<line x1="174.0" y1="336.0" x2="236.0" y2="334.0" stroke="#9ca3af" stroke-width="1"/>
+<text x="150.0" y="255.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#4b5563">white</text>
+<text x="150.0" y="271.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#4b5563">matter</text>
+<path d="M752 132 c8 6 8 14 0 18 c-8 4 -8 12 0 18 c8 6 8 14 0 18" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<text x="800.0" y="120.0" font-size="13" text-anchor="end" font-weight="normal" fill="#2563eb">Sensory</text>
+<text x="800.0" y="136.0" font-size="13" text-anchor="end" font-weight="normal" fill="#2563eb">ending</text>
+<polyline points="745.0,150.0 592.0,150.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="592.0,150.0 602.6,144.4 602.6,155.6" fill="#2563eb"/>
+<polyline points="580.0,150.0 470.0,150.0 350.0,176.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="580.0" y1="150.0" x2="580.0" y2="122.0" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="580" cy="110" r="12" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="580.0" y="86.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#2563eb">Dorsal root ganglion</text>
+<text x="660.0" y="172.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#2563eb">Afferent (sensory) fiber</text>
+<text x="440.0" y="133.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#4b5563">Dorsal root</text>
+<line x1="330.0" y1="182.0" x2="330.0" y2="59.2" stroke="#2563eb" stroke-width="2.5"/><polygon points="330.0,52.0 335.6,62.6 324.4,62.6" fill="#2563eb"/>
+<text x="342.0" y="58.0" font-size="13" text-anchor="start" font-weight="normal" fill="#2563eb">Ascending pathway to brain</text>
+<line x1="338.0" y1="186.0" x2="345.5" y2="292.8" stroke="#2563eb" stroke-width="2.5"/><polygon points="346.0,300.0 339.6,289.8 350.9,289.0" fill="#2563eb"/>
+<text x="352.0" y="252.0" font-size="18" text-anchor="start" font-weight="bold" fill="#2563eb">+</text>
+<polygon points="346,300 360,322 332,322" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+<text x="300.0" y="312.0" font-size="13" text-anchor="end" font-weight="normal" fill="#7c3aed">Motor</text>
+<text x="300.0" y="328.0" font-size="13" text-anchor="end" font-weight="normal" fill="#7c3aed">neuron</text>
+<polyline points="356.0,318.0 470.0,350.0 680.0,350.0" fill="none" stroke="#7c3aed" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="690.0,350.0 679.4,355.6 679.4,344.4" fill="#7c3aed"/>
+<text x="440.0" y="372.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#4b5563">Ventral root</text>
+<text x="600.0" y="340.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#7c3aed">Efferent (motor) fiber</text>
+<ellipse cx="745" cy="350" rx="52" ry="24" fill="#fee2e2" stroke="#b91c1c" stroke-width="1.5"/>
+<text x="745.0" y="355.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#1f2937">Muscle</text>
+<line x1="240.0" y1="52.0" x2="331.5" y2="299.2" stroke="#6b7280" stroke-width="2.5" stroke-dasharray="7 4"/><polygon points="334.0,306.0 325.0,298.0 335.6,294.1" fill="#6b7280"/>
+<text x="232.0" y="58.0" font-size="13" text-anchor="end" font-weight="normal" fill="#4b5563">Descending pathway from brain</text>
+</svg>

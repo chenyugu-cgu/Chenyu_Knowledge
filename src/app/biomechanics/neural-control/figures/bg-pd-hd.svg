@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 355" width="880" height="355" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="155.0" y="40" font-size="16" text-anchor="middle" fill="#1f2937" font-weight="bold">Normal</text>
+<line x1="25" y1="240" x2="285" y2="240" stroke="#6b7280" stroke-width="1.2"/>
+<line x1="25" y1="170" x2="285" y2="170" stroke="#1f2937" stroke-width="1" stroke-dasharray="6 4"/>
+<rect x="32" y="170.0" width="30" height="70.0" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+<text x="47" y="260" font-size="13" text-anchor="middle" fill="#1f2937">D1</text>
+<rect x="75" y="170.0" width="30" height="70.0" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+<text x="90" y="260" font-size="13" text-anchor="middle" fill="#1f2937">D2</text>
+<rect x="118" y="170.0" width="30" height="70.0" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+<text x="133" y="260" font-size="13" text-anchor="middle" fill="#1f2937">GPe</text>
+<rect x="161" y="170.0" width="30" height="70.0" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+<text x="176" y="260" font-size="13" text-anchor="middle" fill="#1f2937">STN</text>
+<rect x="204" y="170.0" width="30" height="70.0" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+<text x="219" y="260" font-size="13" text-anchor="middle" fill="#1f2937">GPi</text>
+<rect x="247" y="170.0" width="30" height="70.0" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+<text x="262" y="260" font-size="13" text-anchor="middle" fill="#1f2937">Thal</text>
+<text x="155.0" y="290" font-size="13" text-anchor="middle" fill="#1f2937">balanced selection</text>
+<text x="445.0" y="40" font-size="16" text-anchor="middle" fill="#1f2937" font-weight="bold">Parkinson disease</text>
+<line x1="315" y1="240" x2="575" y2="240" stroke="#6b7280" stroke-width="1.2"/>
+<line x1="315" y1="170" x2="575" y2="170" stroke="#1f2937" stroke-width="1" stroke-dasharray="6 4"/>
+<rect x="322" y="205.0" width="30" height="35.0" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="337" y="260" font-size="13" text-anchor="middle" fill="#1f2937">D1</text>
+<rect x="365" y="128.0" width="30" height="112.0" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="380" y="260" font-size="13" text-anchor="middle" fill="#1f2937">D2</text>
+<rect x="408" y="205.0" width="30" height="35.0" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="423" y="260" font-size="13" text-anchor="middle" fill="#1f2937">GPe</text>
+<rect x="451" y="128.0" width="30" height="112.0" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="466" y="260" font-size="13" text-anchor="middle" fill="#1f2937">STN</text>
+<rect x="494" y="128.0" width="30" height="112.0" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="509" y="260" font-size="13" text-anchor="middle" fill="#1f2937">GPi</text>
+<rect x="537" y="208.5" width="30" height="31.5" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="552" y="260" font-size="13" text-anchor="middle" fill="#1f2937">Thal</text>
+<text x="445.0" y="290" font-size="13" text-anchor="middle" fill="#1f2937">GPi ↑ → thalamus ↓: hypokinetic</text>
+<text x="735.0" y="40" font-size="16" text-anchor="middle" fill="#1f2937" font-weight="bold">Huntington disease</text>
+<line x1="605" y1="240" x2="865" y2="240" stroke="#6b7280" stroke-width="1.2"/>
+<line x1="605" y1="170" x2="865" y2="170" stroke="#1f2937" stroke-width="1" stroke-dasharray="6 4"/>
+<rect x="612" y="170.0" width="30" height="70.0" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+<text x="627" y="260" font-size="13" text-anchor="middle" fill="#1f2937">D1</text>
+<rect x="655" y="219.0" width="30" height="21.0" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="670" y="260" font-size="13" text-anchor="middle" fill="#1f2937">D2</text>
+<text x="670" y="211.0" font-size="13" text-anchor="middle" fill="#dc2626" font-weight="bold">lost</text>
+<rect x="698" y="128.0" width="30" height="112.0" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="713" y="260" font-size="13" text-anchor="middle" fill="#1f2937">GPe</text>
+<rect x="741" y="205.0" width="30" height="35.0" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="756" y="260" font-size="13" text-anchor="middle" fill="#1f2937">STN</text>
+<rect x="784" y="205.0" width="30" height="35.0" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="799" y="260" font-size="13" text-anchor="middle" fill="#1f2937">GPi</text>
+<rect x="827" y="128.0" width="30" height="112.0" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="842" y="260" font-size="13" text-anchor="middle" fill="#1f2937">Thal</text>
+<text x="735.0" y="290" font-size="13" text-anchor="middle" fill="#1f2937">GPi ↓ → thalamus ↑: hyperkinetic</text>
+<text x="320" y="68" font-size="13" text-anchor="start" fill="#dc2626" font-weight="bold">SNc dopamine lost</text>
+<text x="610" y="68" font-size="13" text-anchor="start" fill="#dc2626" font-weight="bold">D2 (indirect) MSNs degenerate</text>
+<line x1="40" y1="330" x2="80" y2="330" stroke="#1f2937" stroke-width="1" stroke-dasharray="6 4"/>
+<text x="90" y="335" font-size="13" text-anchor="start" fill="#1f2937">normal firing rate</text>
+<rect x="250" y="322" width="26" height="16" fill="#dbeafe" stroke="#2563eb"/>
+<text x="284" y="335" font-size="13" text-anchor="start" fill="#1f2937">increased</text>
+<rect x="380" y="322" width="26" height="16" fill="#fee2e2" stroke="#dc2626"/>
+<text x="414" y="335" font-size="13" text-anchor="start" fill="#1f2937">decreased</text>
+<text x="520" y="335" font-size="13" text-anchor="start" fill="#6b7280">D1/D2: output of direct/indirect MSNs (schematic)</text>
+</svg>

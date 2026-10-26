@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 410" width="880" height="410" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="78" y="160" width="64" height="90" rx="22" fill="#fef3c7" stroke="#6b7280" stroke-width="1.5"/>
+<circle cx="110" cy="220" r="9" fill="#e5e7eb" stroke="#6b7280"/>
+<g transform="rotate(-20 110 160)">
+<line x1="88" y1="160" x2="88" y2="132" stroke="#1f2937" stroke-width="3"/>
+<line x1="97" y1="160" x2="97" y2="124" stroke="#1f2937" stroke-width="3"/>
+<line x1="106" y1="160" x2="106" y2="116" stroke="#1f2937" stroke-width="3"/>
+<line x1="115" y1="160" x2="115" y2="108" stroke="#1f2937" stroke-width="3"/>
+<line x1="124" y1="160" x2="124" y2="100" stroke="#1f2937" stroke-width="3"/>
+<line x1="134" y1="160" x2="134" y2="86" stroke="#2563eb" stroke-width="4"/>
+<circle cx="134" cy="84" r="4" fill="#2563eb"/>
+</g>
+<text x="110" y="50" font-size="14" text-anchor="middle" fill="#1f2937" font-weight="bold">away from kinocilium</text>
+<polyline points="135.0,66.0 97.0,66.0" fill="none" stroke="#1f2937" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="85.0,66.0 99.0,73.0 99.0,59.0" fill="#1f2937"/>
+<text x="110" y="278" font-size="13" text-anchor="middle" fill="#1f2937">hyperpolarized</text>
+<line x1="45" y1="320" x2="175" y2="320" stroke="#6b7280" stroke-width="1"/>
+<line x1="70.0" y1="320" x2="70.0" y2="302" stroke="#dc2626" stroke-width="1.6"/>
+<line x1="110.0" y1="320" x2="110.0" y2="302" stroke="#dc2626" stroke-width="1.6"/>
+<line x1="150.0" y1="320" x2="150.0" y2="302" stroke="#dc2626" stroke-width="1.6"/>
+<text x="110" y="342" font-size="13" text-anchor="middle" fill="#1f2937">firing ↓</text>
+<rect x="238" y="160" width="64" height="90" rx="22" fill="#fef3c7" stroke="#6b7280" stroke-width="1.5"/>
+<circle cx="270" cy="220" r="9" fill="#e5e7eb" stroke="#6b7280"/>
+<g transform="rotate(0 270 160)">
+<line x1="248" y1="160" x2="248" y2="132" stroke="#1f2937" stroke-width="3"/>
+<line x1="257" y1="160" x2="257" y2="124" stroke="#1f2937" stroke-width="3"/>
+<line x1="266" y1="160" x2="266" y2="116" stroke="#1f2937" stroke-width="3"/>
+<line x1="275" y1="160" x2="275" y2="108" stroke="#1f2937" stroke-width="3"/>
+<line x1="284" y1="160" x2="284" y2="100" stroke="#1f2937" stroke-width="3"/>
+<line x1="294" y1="160" x2="294" y2="86" stroke="#2563eb" stroke-width="4"/>
+<circle cx="294" cy="84" r="4" fill="#2563eb"/>
+</g>
+<text x="270" y="50" font-size="14" text-anchor="middle" fill="#1f2937" font-weight="bold">at rest</text>
+<text x="270" y="278" font-size="13" text-anchor="middle" fill="#1f2937">resting potential</text>
+<line x1="205" y1="320" x2="335" y2="320" stroke="#6b7280" stroke-width="1"/>
+<line x1="217.5" y1="320" x2="217.5" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="232.5" y1="320" x2="232.5" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="247.5" y1="320" x2="247.5" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="262.5" y1="320" x2="262.5" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="277.5" y1="320" x2="277.5" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="292.5" y1="320" x2="292.5" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="307.5" y1="320" x2="307.5" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="322.5" y1="320" x2="322.5" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<text x="270" y="342" font-size="13" text-anchor="middle" fill="#1f2937">tonic firing</text>
+<rect x="398" y="160" width="64" height="90" rx="22" fill="#fef3c7" stroke="#6b7280" stroke-width="1.5"/>
+<circle cx="430" cy="220" r="9" fill="#e5e7eb" stroke="#6b7280"/>
+<g transform="rotate(20 430 160)">
+<line x1="408" y1="160" x2="408" y2="132" stroke="#1f2937" stroke-width="3"/>
+<line x1="417" y1="160" x2="417" y2="124" stroke="#1f2937" stroke-width="3"/>
+<line x1="426" y1="160" x2="426" y2="116" stroke="#1f2937" stroke-width="3"/>
+<line x1="435" y1="160" x2="435" y2="108" stroke="#1f2937" stroke-width="3"/>
+<line x1="444" y1="160" x2="444" y2="100" stroke="#1f2937" stroke-width="3"/>
+<line x1="454" y1="160" x2="454" y2="86" stroke="#2563eb" stroke-width="4"/>
+<circle cx="454" cy="84" r="4" fill="#2563eb"/>
+</g>
+<text x="430" y="50" font-size="14" text-anchor="middle" fill="#1f2937" font-weight="bold">toward kinocilium</text>
+<polyline points="405.0,66.0 443.0,66.0" fill="none" stroke="#1f2937" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="455.0,66.0 441.0,59.0 441.0,73.0" fill="#1f2937"/>
+<text x="430" y="278" font-size="13" text-anchor="middle" fill="#1f2937">depolarized</text>
+<line x1="365" y1="320" x2="495" y2="320" stroke="#6b7280" stroke-width="1"/>
+<line x1="373.75" y1="320" x2="373.75" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="381.25" y1="320" x2="381.25" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="388.75" y1="320" x2="388.75" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="396.25" y1="320" x2="396.25" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="403.75" y1="320" x2="403.75" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="411.25" y1="320" x2="411.25" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="418.75" y1="320" x2="418.75" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="426.25" y1="320" x2="426.25" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="433.75" y1="320" x2="433.75" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="441.25" y1="320" x2="441.25" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="448.75" y1="320" x2="448.75" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="456.25" y1="320" x2="456.25" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="463.75" y1="320" x2="463.75" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="471.25" y1="320" x2="471.25" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="478.75" y1="320" x2="478.75" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<line x1="486.25" y1="320" x2="486.25" y2="302" stroke="#2563eb" stroke-width="1.6"/>
+<text x="430" y="342" font-size="13" text-anchor="middle" fill="#1f2937">firing ↑</text>
+<text x="20" y="375" font-size="13" text-anchor="start" fill="#6b7280">Kinocilium (blue) marks the tall edge of the staircase. Mechanically gated channels open as tip links</text>
+<text x="20" y="393" font-size="13" text-anchor="start" fill="#6b7280">stretch; K⁺ from endolymph enters, depolarizes the cell, opens Ca²⁺ channels, and transmitter is released.</text>
+<line x1="600" y1="300" x2="860" y2="300" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="600" y1="300" x2="600" y2="70" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="730.0" y1="300" x2="730.0" y2="80" stroke="#6b7280" stroke-width="1" stroke-dasharray="4 3"/>
+<polyline points="600.0,296.5 602.6,296.2 605.2,295.9 607.8,295.6 610.4,295.3 613.0,294.9 615.6,294.5 618.2,294.1 620.8,293.7 623.4,293.2 626.0,292.7 628.6,292.1 631.2,291.5 633.8,290.9 636.4,290.2 639.0,289.5 641.6,288.7 644.2,287.9 646.8,287.0 649.4,286.0 652.0,285.0 654.6,284.0 657.2,282.8 659.8,281.6 662.4,280.3 665.0,278.9 667.6,277.4 670.2,275.8 672.8,274.2 675.4,272.4 678.0,270.6 680.6,268.6 683.2,266.5 685.8,264.3 688.4,262.0 691.0,259.6 693.6,257.1 696.2,254.4 698.8,251.7 701.4,248.8 704.0,245.8 706.6,242.7 709.2,239.4 711.8,236.1 714.4,232.6 717.0,229.1 719.6,225.4 722.2,221.7 724.8,217.8 727.4,213.9 730.0,210.0 732.6,206.0 735.2,201.9 737.8,197.8 740.4,193.7 743.0,189.6 745.6,185.5 748.2,181.4 750.8,177.3 753.4,173.2 756.0,169.2 758.6,165.3 761.2,161.4 763.8,157.6 766.4,153.9 769.0,150.2 771.6,146.7 774.2,143.3 776.8,139.9 779.4,136.7 782.0,133.6 784.6,130.6 787.2,127.8 789.8,125.0 792.4,122.4 795.0,119.9 797.6,117.5 800.2,115.2 802.8,113.1 805.4,111.0 808.0,109.1 810.6,107.2 813.2,105.5 815.8,103.8 818.4,102.3 821.0,100.8 823.6,99.5 826.2,98.2 828.8,97.0 831.4,95.8 834.0,94.8 836.6,93.8 839.2,92.8 841.8,91.9 844.4,91.1 847.0,90.4 849.6,89.6 852.2,89.0 854.8,88.4 857.4,87.8 860.0,87.2" fill="none" stroke="#2563eb" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="730.0" cy="210.0" r="5" fill="#1f2937"/>
+<text x="738.0" y="228.0" font-size="13" text-anchor="start" fill="#1f2937">resting rate</text>
+<text x="730.0" y="322" font-size="13" text-anchor="middle" fill="#1f2937">bundle deflection</text>
+<text x="600" y="340" font-size="13" text-anchor="start" fill="#dc2626">← away</text>
+<text x="860" y="340" font-size="13" text-anchor="end" fill="#2563eb">toward →</text>
+<text x="588" y="185.0" font-size="13" text-anchor="middle" fill="#1f2937" transform="rotate(-90 588 185.0)">afferent firing rate</text>
+<text x="605" y="60" font-size="13" text-anchor="start" fill="#6b7280">saturates</text>
+</svg>

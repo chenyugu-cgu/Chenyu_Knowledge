@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 510" width="880" height="510" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#1f2937">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+
+  <!-- ===== left: descending chain ===== -->
+  <rect x="40" y="50" width="290" height="45" rx="6" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+  <text x="185" y="78" text-anchor="middle" font-weight="bold">Cortex, amygdala, hypothalamus</text>
+  <line x1="185" y1="95" x2="185" y2="118" stroke="#2563eb" stroke-width="2.5"/>
+  <path d="M178,118 L185,130 L192,118 z" fill="#2563eb"/>
+
+  <rect x="40" y="130" width="290" height="55" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+  <text x="185" y="153" text-anchor="middle" font-weight="bold">Periaqueductal gray (PAG)</text>
+  <text x="185" y="174" text-anchor="middle" font-size="13">midbrain; rich in endogenous opioids</text>
+
+  <line x1="110" y1="185" x2="110" y2="213" stroke="#2563eb" stroke-width="2.5"/>
+  <path d="M103,213 L110,225 L117,213 z" fill="#2563eb"/>
+  <line x1="262" y1="185" x2="262" y2="213" stroke="#2563eb" stroke-width="2.5"/>
+  <path d="M255,213 L262,225 L269,213 z" fill="#2563eb"/>
+
+  <rect x="40" y="225" width="140" height="60" rx="6" fill="#fef3c7" stroke="#6b7280" stroke-width="1.5"/>
+  <text x="110" y="249" text-anchor="middle" font-weight="bold">RVM / raphe</text>
+  <text x="110" y="271" text-anchor="middle" font-size="13">serotonin (+/−)</text>
+  <rect x="195" y="225" width="135" height="60" rx="6" fill="#fef3c7" stroke="#6b7280" stroke-width="1.5"/>
+  <text x="262" y="249" text-anchor="middle" font-weight="bold">Locus coeruleus</text>
+  <text x="262" y="271" text-anchor="middle" font-size="13">norepinephrine (−)</text>
+
+  <line x1="110" y1="285" x2="110" y2="333" stroke="#dc2626" stroke-width="2.5"/>
+  <path d="M103,333 L110,345 L117,333 z" fill="#dc2626"/>
+  <line x1="262" y1="285" x2="262" y2="333" stroke="#dc2626" stroke-width="2.5"/>
+  <path d="M255,333 L262,345 L269,333 z" fill="#dc2626"/>
+  <text x="186" y="320" text-anchor="middle" font-size="13" fill="#dc2626">dorsolateral funiculus</text>
+
+  <rect x="40" y="345" width="290" height="45" rx="6" fill="#fee2e2" stroke="#6b7280" stroke-width="1.5"/>
+  <text x="185" y="373" text-anchor="middle" font-weight="bold">Spinal dorsal horn</text>
+
+  <!-- ascending loop -->
+  <path d="M330,368 L362,368 L362,72 L344,72" fill="none" stroke="#6b7280" stroke-width="2"/>
+  <path d="M344,65 L332,72 L344,79 z" fill="#6b7280"/>
+  <text x="378" y="220" text-anchor="middle" font-size="13" fill="#6b7280" transform="rotate(-90 378 220)">ascending anterolateral system</text>
+
+  <text x="40" y="430" font-size="13">PAG output relays through the rostral ventromedial</text>
+  <text x="40" y="448" font-size="13">medulla (nucleus raphe magnus) and the locus</text>
+  <text x="40" y="466" font-size="13">coeruleus; parabrachial nucleus and medullary</text>
+  <text x="40" y="484" font-size="13">reticular formation also project to the cord.</text>
+
+  <!-- ===== right: dorsal horn inset ===== -->
+  <rect x="410" y="40" width="455" height="455" rx="8" fill="#f9fafb" stroke="#d1d5db"/>
+  <text x="430" y="66" font-weight="bold" font-size="16">Inside the dorsal horn</text>
+
+  <text x="560" y="94" text-anchor="middle" font-size="13">from raphe (5-HT)</text>
+  <line x1="560" y1="100" x2="560" y2="168" stroke="#2563eb" stroke-width="2.5"/>
+  <path d="M553,168 L560,180 L567,168 z" fill="#2563eb"/>
+  <text x="570" y="160" font-weight="bold" fill="#2563eb">+</text>
+
+  <circle cx="560" cy="200" r="20" fill="#fee2e2" stroke="#dc2626" stroke-width="2.5"/>
+  <text x="430" y="196">enkephalin</text>
+  <text x="430" y="212">interneuron</text>
+
+  <!-- interneuron to C terminal (presynaptic) -->
+  <line x1="566" y1="219" x2="604" y2="318" stroke="#dc2626" stroke-width="2.5"/>
+  <line x1="595.6" y1="321.2" x2="612.4" y2="314.8" stroke="#dc2626" stroke-width="4"/>
+  <text x="582" y="284" text-anchor="end" font-weight="bold" font-size="18" fill="#dc2626">−</text>
+  <!-- interneuron to projection neuron (postsynaptic) -->
+  <line x1="577" y1="212" x2="668" y2="318" stroke="#dc2626" stroke-width="2.5"/>
+  <line x1="661.2" y1="323.9" x2="674.8" y2="312.1" stroke="#dc2626" stroke-width="4"/>
+  <text x="632" y="255" font-weight="bold" font-size="18" fill="#dc2626">−</text>
+
+  <!-- LC direct -->
+  <text x="740" y="94" text-anchor="middle" font-size="13">from LC (NE)</text>
+  <line x1="740" y1="100" x2="692" y2="317" stroke="#dc2626" stroke-width="2.5"/>
+  <line x1="683.2" y1="315.1" x2="700.8" y2="318.9" stroke="#dc2626" stroke-width="4"/>
+  <text x="728" y="230" font-weight="bold" font-size="18" fill="#dc2626">−</text>
+
+  <!-- C fiber -->
+  <text x="430" y="318" fill="#c2410c" font-weight="bold">C fiber (nociceptor)</text>
+  <line x1="420" y1="330" x2="600" y2="330" stroke="#c2410c" stroke-width="3"/>
+  <circle cx="610" cy="330" r="10" fill="#c2410c"/>
+  <text x="430" y="352" font-size="13" fill="#6b7280">glutamate, substance P</text>
+  <line x1="620" y1="330" x2="656" y2="330" stroke="#2563eb" stroke-width="2.5"/>
+  <path d="M656,323 L668,330 L656,337 z" fill="#2563eb"/>
+  <text x="640" y="352" text-anchor="middle" font-weight="bold" fill="#2563eb">+</text>
+
+  <!-- projection neuron -->
+  <path d="M670,315 L670,345 L705,330 z" fill="#1f2937"/>
+  <text x="690" y="368" text-anchor="middle">projection</text>
+  <text x="690" y="384" text-anchor="middle">neuron</text>
+  <line x1="705" y1="330" x2="820" y2="330" stroke="#2563eb" stroke-width="2.5"/>
+  <line x1="820" y1="330" x2="820" y2="112" stroke="#2563eb" stroke-width="2.5"/>
+  <path d="M813,112 L820,100 L827,112 z" fill="#2563eb"/>
+  <text x="820" y="92" text-anchor="middle" font-size="13">to brain</text>
+
+  <text x="430" y="420" font-size="13">Enkephalin acts on μ-opioid receptors: presynaptically it</text>
+  <text x="430" y="438" font-size="13">reduces transmitter release from the C terminal, and</text>
+  <text x="430" y="456" font-size="13">postsynaptically it hyperpolarizes the projection neuron.</text>
+  <text x="430" y="474" font-size="13">Morphine acts at the same receptors.</text>
+</svg>
