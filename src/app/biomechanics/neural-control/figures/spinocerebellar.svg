@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 610" width="940" height="610" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<defs><marker id="ah-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker><marker id="ah-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="ah-gray" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6b7280"/></marker><marker id="ah-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d97706"/></marker><marker id="ah-dark" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937"/></marker></defs>
+<ellipse cx="480.0" cy="62.0" rx="150" ry="34" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+<line x1="480.0" y1="30.0" x2="480.0" y2="95.0" stroke="#6b7280" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="480.0" y="67.0" font-size="14" text-anchor="middle" font-weight="bold" fill="#1f2937">Cerebellum</text>
+<rect x="390.0" y="105.0" width="180.0" height="45.0" rx="8" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="380.0" y="133.0" font-size="14" text-anchor="end" font-weight="normal" fill="#1f2937">Medulla</text>
+<rect x="400.0" y="160.0" width="160.0" height="410.0" rx="8" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1.5"/>
+<line x1="480.0" y1="100.0" x2="480.0" y2="575.0" stroke="#6b7280" stroke-width="1" stroke-dasharray="5,5"/>
+<line x1="395.0" y1="265.0" x2="565.0" y2="265.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="516.0" y="217.5" font-size="13" text-anchor="middle" font-weight="normal" fill="#6b7280">Cervical</text>
+<line x1="395.0" y1="420.0" x2="565.0" y2="420.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="516.0" y="347.5" font-size="13" text-anchor="middle" font-weight="normal" fill="#6b7280">Thoracic</text>
+<line x1="395.0" y1="505.0" x2="565.0" y2="505.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="516.0" y="467.5" font-size="13" text-anchor="middle" font-weight="normal" fill="#6b7280">Lumbar</text>
+<line x1="395.0" y1="570.0" x2="565.0" y2="570.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="516.0" y="542.5" font-size="13" text-anchor="middle" font-weight="normal" fill="#6b7280">Sacral</text>
+<text x="440.0" y="590.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#6b7280">left</text>
+<text x="520.0" y="590.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#6b7280">right</text>
+<rect x="440.0" y="255.0" width="10.0" height="215.0" rx="0" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+<text x="300.0" y="360.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#d97706">Clarke's column</text>
+<text x="300.0" y="376.2" font-size="13" text-anchor="middle" font-weight="bold" fill="#d97706">(C8–L3)</text>
+<line x1="345.0" y1="365.0" x2="437.0" y2="365.0" stroke="#d97706" stroke-width="1.2"/>
+<line x1="250.0" y1="545.0" x2="312.0" y2="545.0" stroke="#d97706" stroke-width="2.5"/>
+<circle cx="320.0" cy="545.0" r="8" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+<path d="M 328.0,545.0 L 468.0,545.0 L 468.0,455.0 L 452.0,450.0" stroke="#d97706" stroke-width="2.5" fill="none" />
+<circle cx="445.0" cy="450.0" r="6" fill="#d97706" stroke="#d97706" stroke-width="1.5"/>
+<path d="M 445.0,450.0 L 412.0,440.0 L 412.0,140.0 L 420.0,96.0" stroke="#d97706" stroke-width="2.5" fill="none" marker-end="url(#ah-amber)" />
+<text x="245.0" y="540.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Spindle, GTO</text>
+<text x="245.0" y="556.2" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">(leg)</text>
+<line x1="250.0" y1="210.0" x2="312.0" y2="210.0" stroke="#d97706" stroke-width="2.5"/>
+<circle cx="320.0" cy="210.0" r="8" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+<path d="M 328.0,210.0 L 460.0,210.0 L 460.0,133.0" stroke="#d97706" stroke-width="2.5" fill="none" />
+<circle cx="455.0" cy="128.0" r="6" fill="#d97706" stroke="#d97706" stroke-width="1.5"/>
+<path d="M 455.0,128.0 L 445.0,96.0" stroke="#d97706" stroke-width="2.5" fill="none" marker-end="url(#ah-amber)" />
+<text x="245.0" y="205.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Spindle, GTO</text>
+<text x="245.0" y="221.2" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">(arm)</text>
+<line x1="250.0" y1="480.0" x2="312.0" y2="480.0" stroke="#d97706" stroke-width="2.5" stroke-dasharray="7,4"/>
+<circle cx="320.0" cy="480.0" r="8" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+<path d="M 328.0,480.0 L 430.0,480.0" stroke="#d97706" stroke-width="2.5" fill="none" stroke-dasharray="7,4" />
+<circle cx="436.0" cy="482.0" r="6" fill="#d97706" stroke="#d97706" stroke-width="1.5"/>
+<path d="M 436,482 L 548,470 L 548,110 C 548,70 520,80 500,80 L 470,82" stroke="#d97706" stroke-width="2.5" fill="none" stroke-dasharray="7,4" marker-end="url(#ah-amber)" />
+<text x="245.0" y="475.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">Ventral</text>
+<text x="245.0" y="491.2" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">spinocerebellar</text>
+<text x="600.0" y="185.0" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">Cuneocerebellar: arm afferents</text>
+<text x="600.0" y="201.2" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">ascend in the cuneate fasciculus</text>
+<text x="600.0" y="217.5" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">to the accessory cuneate nucleus</text>
+<text x="600.0" y="330.0" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">Dorsal spinocerebellar: synapse in</text>
+<text x="600.0" y="346.2" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">Clarke's column, ascend uncrossed</text>
+<text x="600.0" y="362.5" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">in the lateral funiculus, enter via</text>
+<text x="600.0" y="378.8" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">the inferior cerebellar peduncle</text>
+<text x="600.0" y="470.0" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">Ventral spinocerebellar (dashed):</text>
+<text x="600.0" y="486.2" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">crosses in the cord, crosses back</text>
+<text x="600.0" y="502.5" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">in the cerebellum (superior</text>
+<text x="600.0" y="518.8" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">peduncle), so net ipsilateral</text>
+</svg>

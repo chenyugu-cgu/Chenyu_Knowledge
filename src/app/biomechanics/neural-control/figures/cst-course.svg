@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 740" width="820" height="740" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g font-size="14" fill="#1f2937">
+<!-- brain (coronal) -->
+<ellipse cx="410" cy="150" rx="300" ry="115" fill="#f9fafb" stroke="#6b7280" stroke-width="2"/>
+<line x1="410" y1="35" x2="410" y2="120" stroke="#6b7280" stroke-width="2"/>
+<text x="130" y="168" font-size="13">Left hemisphere</text>
+<text x="560" y="168" font-size="13">Right hemisphere</text>
+<path d="M330,175 L350,170 L378,255 L358,260 Z" fill="#e5e7eb" stroke="#9ca3af"/>
+<!-- brainstem and cord outline -->
+<path d="M330,262 L330,340 L305,350 L305,420 L335,432 L350,530 L362,545 L362,705 M458,705 L458,545 L470,530 L485,432 L515,420 L515,350 L490,340 L490,262" fill="none" stroke="#6b7280" stroke-width="2"/>
+<line x1="410" y1="262" x2="410" y2="705" stroke="#9ca3af" stroke-dasharray="5 4"/>
+<!-- pyramidal cells -->
+<g fill="#2563eb">
+<circle cx="310" cy="58" r="6"/>
+<circle cx="262" cy="66" r="6"/>
+<circle cx="218" cy="80" r="6"/>
+</g>
+<!-- tract -->
+<g fill="none" stroke="#2563eb" stroke-width="3">
+<path d="M310,60 L345,200"/>
+<path d="M262,68 L345,200"/>
+<path d="M218,82 L345,200"/>
+<path d="M345,200 L362,258 L352,300 L352,340 L345,385 L360,432 L385,500 L395,520"/>
+</g>
+<path d="M395,520 L432,548 L440,562 L440,700" fill="none" stroke="#2563eb" stroke-width="4"/><polygon points="440.0,700.0 433.0,685.0 447.0,685.0" fill="#2563eb"/>
+<path d="M395,520 L385,548 L385,655" fill="none" stroke="#2563eb" stroke-width="2"/>
+<line x1="385" y1="655" x2="428" y2="684" stroke="#2563eb" stroke-width="2"/><polygon points="428.0,684.0 414.1,681.3 420.3,672.2" fill="#2563eb"/>
+<!-- level labels -->
+<g font-size="14">
+<text x="20" y="64">Motor, premotor and</text>
+<text x="20" y="82">parietal cortex (layer 5)</text>
+<line x1="185" y1="76" x2="210" y2="76" stroke="#6b7280"/>
+<text x="20" y="128">Corona radiata</text>
+<line x1="122" y1="124" x2="283" y2="124" stroke="#6b7280"/>
+<text x="20" y="220">Internal capsule</text>
+<text x="20" y="238" font-size="13">(posterior limb)</text>
+<line x1="135" y1="222" x2="345" y2="222" stroke="#6b7280"/>
+<text x="20" y="304">Midbrain:</text>
+<text x="20" y="322" font-size="13">middle of cerebral peduncle</text>
+<line x1="200" y1="310" x2="345" y2="310" stroke="#6b7280"/>
+<text x="20" y="388">Pons:</text>
+<text x="20" y="406" font-size="13">scattered bundles, basis pontis</text>
+<line x1="215" y1="394" x2="340" y2="394" stroke="#6b7280"/>
+<text x="20" y="470">Medulla: pyramid</text>
+<line x1="135" y1="466" x2="368" y2="466" stroke="#6b7280"/>
+<text x="20" y="528">Pyramidal decussation</text>
+<text x="20" y="546" font-size="13">85–90% of fibers cross</text>
+<line x1="170" y1="532" x2="398" y2="524" stroke="#6b7280"/>
+<text x="20" y="600">Spinal cord</text>
+<text x="352" y="626" text-anchor="end">Anterior CST</text>
+<text x="352" y="644" text-anchor="end" font-size="13">(uncrossed, ~10%;</text>
+<text x="352" y="660" text-anchor="end" font-size="13">crosses at its segment)</text>
+<text x="472" y="600">Lateral corticospinal tract</text>
+<text x="472" y="618" font-size="13">crossed; lateral funiculus</text>
+<text x="472" y="650" font-size="13">to interneurons and α motor</text>
+<text x="472" y="666" font-size="13">neurons of the right limbs</text>
+<text x="385" y="728" text-anchor="middle" font-size="13">left</text>
+<text x="440" y="728" text-anchor="middle" font-size="13">right</text>
+</g>
+</g>
+</svg>

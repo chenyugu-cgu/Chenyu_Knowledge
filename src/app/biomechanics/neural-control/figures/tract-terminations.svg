@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 640" width="880" height="640" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g font-size="14" fill="#1f2937">
+<text x="440" y="40" text-anchor="middle" font-weight="bold">Dorsal</text>
+<g transform="translate(-10,-30)">
+  <ellipse cx="450" cy="330" rx="300" ry="240" fill="#ffffff" stroke="#6b7280" stroke-width="2"/>
+  <line x1="450" y1="90" x2="450" y2="130" stroke="#6b7280" stroke-width="2"/>
+  <path d="M440,570 L450,535 L460,570" fill="none" stroke="#6b7280" stroke-width="2"/>
+  <path d="M450,290 L410,270 L385,220 L360,150 L345,118 L318,122 L312,160 L330,230 L345,280 L320,310 L270,360 L240,420 L255,470 L310,490 L380,480 L425,440 L445,395 L450,380 Z" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+  <path d="M450,290 L490,270 L515,220 L540,150 L555,118 L582,122 L588,160 L570,230 L555,280 L580,310 L630,360 L660,420 L645,470 L590,490 L520,480 L475,440 L455,395 L450,380 Z" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+  <circle cx="450" cy="335" r="5" fill="#ffffff" stroke="#6b7280"/>
+  <!-- target zones -->
+  <ellipse cx="322" cy="330" rx="28" ry="18" fill="#dbeafe" stroke="#2563eb" stroke-dasharray="4 3"/>
+  <ellipse cx="275" cy="430" rx="26" ry="22" fill="#dbeafe" stroke="#2563eb" stroke-dasharray="4 3"/>
+  <ellipse cx="418" cy="385" rx="24" ry="17" fill="#dcfce7" stroke="#059669" stroke-dasharray="4 3"/>
+  <ellipse cx="392" cy="452" rx="24" ry="17" fill="#dcfce7" stroke="#059669" stroke-dasharray="4 3"/>
+  <ellipse cx="482" cy="385" rx="24" ry="17" fill="#dcfce7" stroke="#059669" stroke-dasharray="4 3"/>
+  <ellipse cx="508" cy="452" rx="24" ry="17" fill="#dcfce7" stroke="#059669" stroke-dasharray="4 3"/>
+  <!-- lateral system tracts, both sides -->
+  <ellipse cx="220" cy="285" rx="30" ry="36" fill="#2563eb" fill-opacity="0.35" stroke="#2563eb"/>
+  <ellipse cx="225" cy="343" rx="17" ry="12" fill="#2563eb" fill-opacity="0.6" stroke="#2563eb"/>
+  <ellipse cx="680" cy="285" rx="30" ry="36" fill="#2563eb" fill-opacity="0.35" stroke="#2563eb"/>
+  <ellipse cx="675" cy="343" rx="17" ry="12" fill="#2563eb" fill-opacity="0.6" stroke="#2563eb"/>
+  <!-- medial system tracts, both sides -->
+  <g fill="#059669" fill-opacity="0.45" stroke="#059669">
+    <ellipse cx="203" cy="402" rx="15" ry="13"/>
+    <ellipse cx="268" cy="495" rx="18" ry="13"/>
+    <ellipse cx="330" cy="515" rx="20" ry="13"/>
+    <ellipse cx="385" cy="535" rx="18" ry="11"/>
+    <ellipse cx="428" cy="505" rx="11" ry="22"/>
+    <ellipse cx="697" cy="402" rx="15" ry="13"/>
+    <ellipse cx="632" cy="495" rx="18" ry="13"/>
+    <ellipse cx="570" cy="515" rx="20" ry="13"/>
+    <ellipse cx="515" cy="535" rx="18" ry="11"/>
+    <ellipse cx="472" cy="505" rx="11" ry="22"/>
+  </g>
+  <!-- projections -->
+  <line x1="246" y1="300" x2="293" y2="324" stroke="#2563eb" stroke-width="2.5"/><polygon points="293.0,324.0 276.5,323.4 282.8,310.9" fill="#2563eb"/>
+  <line x1="228" y1="320" x2="262" y2="408" stroke="#2563eb" stroke-width="2.5"/><polygon points="262.0,408.0 250.1,396.5 263.1,391.5" fill="#2563eb"/>
+  <line x1="242" y1="342" x2="294" y2="336" stroke="#2563eb" stroke-width="2"/><polygon points="294.0,336.0 281.7,343.0 280.5,332.0" fill="#2563eb"/>
+  <line x1="340" y1="503" x2="375" y2="466" stroke="#059669" stroke-width="2.5"/><polygon points="375.0,466.0 369.8,481.7 359.6,472.1" fill="#059669"/>
+  <line x1="424" y1="483" x2="419" y2="404" stroke="#059669" stroke-width="2.5"/><polygon points="419.0,404.0 426.9,418.5 413.0,419.4" fill="#059669"/>
+  <line x1="432" y1="486" x2="470" y2="400" stroke="#059669" stroke-width="2.5"/><polygon points="470.0,400.0 470.3,416.5 457.5,410.9" fill="#059669"/>
+  <line x1="290" y1="492" x2="372" y2="460" stroke="#059669" stroke-width="2"/><polygon points="372.0,460.0 361.9,469.8 357.9,459.6" fill="#059669"/>
+</g>
+<!-- labels (global coordinates) -->
+<g font-size="13">
+  <text x="15" y="248">Lateral corticospinal</text>
+  <line x1="148" y1="244" x2="182" y2="250" stroke="#6b7280"/>
+  <text x="15" y="318">Rubrospinal</text>
+  <line x1="92" y1="314" x2="197" y2="313" stroke="#6b7280"/>
+  <text x="15" y="372">Medullary reticulospinal</text>
+  <line x1="168" y1="370" x2="178" y2="371" stroke="#6b7280"/>
+  <text x="15" y="455">Lateral vestibulospinal</text>
+  <line x1="160" y1="456" x2="245" y2="463" stroke="#6b7280"/>
+  <text x="15" y="520">Pontine reticulospinal</text>
+  <line x1="155" y1="516" x2="302" y2="487" stroke="#6b7280"/>
+  <text x="15" y="575">Tectospinal, medial vestibulospinal (MLF)</text>
+  <line x1="280" y1="565" x2="368" y2="510" stroke="#6b7280"/>
+  <text x="560" y="575">Anterior corticospinal</text>
+  <line x1="590" y1="562" x2="425" y2="492" stroke="#6b7280"/>
+</g>
+<!-- legend -->
+<g font-size="14">
+  <rect x="40" y="602" width="18" height="18" fill="#2563eb" fill-opacity="0.45" stroke="#2563eb"/>
+  <text x="66" y="616">Lateral system: distal and proximal limb, one side</text>
+  <rect x="470" y="602" width="18" height="18" fill="#059669" fill-opacity="0.45" stroke="#059669"/>
+  <text x="496" y="616">Medial system: axial and proximal, bilateral</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 590" width="880" height="590" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<line x1="440" y1="95" x2="440" y2="520" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="8 6"/>
+<text x="440" y="535" font-size="13" text-anchor="middle" fill="#6b7280">midline</text>
+<circle cx="330" cy="65" r="28" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+<circle cx="340" cy="65" r="10" fill="#1f2937"/>
+<circle cx="550" cy="65" r="28" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+<circle cx="560" cy="65" r="10" fill="#1f2937"/>
+<text x="330" y="25" font-size="13" text-anchor="middle" fill="#1f2937">left eye</text>
+<text x="550" y="25" font-size="13" text-anchor="middle" fill="#1f2937">right eye</text>
+<polyline points="390.0,30.0 478.0,30.0" fill="none" stroke="#1f2937" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="490.0,30.0 476.0,23.0 476.0,37.0" fill="#1f2937"/>
+<text x="440" y="52" font-size="13" text-anchor="middle" fill="#1f2937">eyes →</text>
+<rect x="270" y="110" width="50" height="26" rx="8" fill="#fee2e2" stroke="#6b7280" stroke-width="1.2"/>
+<text x="295.0" y="127.55" font-size="13" text-anchor="middle" fill="#1f2937" font-weight="bold">LR</text>
+<rect x="340" y="110" width="50" height="26" rx="8" fill="#dcfce7" stroke="#6b7280" stroke-width="1.2"/>
+<text x="365.0" y="127.55" font-size="13" text-anchor="middle" fill="#1f2937" font-weight="bold">MR</text>
+<rect x="490" y="110" width="50" height="26" rx="8" fill="#fee2e2" stroke="#6b7280" stroke-width="1.2"/>
+<text x="515.0" y="127.55" font-size="13" text-anchor="middle" fill="#1f2937" font-weight="bold">MR</text>
+<rect x="560" y="110" width="50" height="26" rx="8" fill="#dcfce7" stroke="#6b7280" stroke-width="1.2"/>
+<text x="585.0" y="127.55" font-size="13" text-anchor="middle" fill="#1f2937" font-weight="bold">LR</text>
+<rect x="280" y="190" width="100" height="40" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.2"/>
+<text x="330.0" y="207.0" font-size="15" text-anchor="middle" fill="#1f2937" font-weight="bold">CN III</text>
+<text x="330.0" y="225.0" font-size="13" text-anchor="middle" fill="#1f2937">oculomotor</text>
+<rect x="500" y="190" width="100" height="40" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.2"/>
+<text x="550.0" y="207.0" font-size="15" text-anchor="middle" fill="#1f2937" font-weight="bold">CN III</text>
+<text x="550.0" y="225.0" font-size="13" text-anchor="middle" fill="#1f2937">oculomotor</text>
+<rect x="280" y="320" width="100" height="40" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.2"/>
+<text x="330.0" y="337.0" font-size="15" text-anchor="middle" fill="#1f2937" font-weight="bold">CN VI</text>
+<text x="330.0" y="355.0" font-size="13" text-anchor="middle" fill="#1f2937">abducens</text>
+<rect x="500" y="320" width="100" height="40" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.2"/>
+<text x="550.0" y="337.0" font-size="15" text-anchor="middle" fill="#1f2937" font-weight="bold">CN VI</text>
+<text x="550.0" y="355.0" font-size="13" text-anchor="middle" fill="#1f2937">abducens</text>
+<rect x="280" y="460" width="100" height="40" rx="8" fill="#dbeafe" stroke="#6b7280" stroke-width="1.2"/>
+<text x="330.0" y="477.0" font-size="15" text-anchor="middle" fill="#1f2937" font-weight="bold">MVN</text>
+<text x="330.0" y="495.0" font-size="13" text-anchor="middle" fill="#1f2937">vestibular n.</text>
+<rect x="500" y="460" width="100" height="40" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.2"/>
+<text x="550.0" y="477.0" font-size="15" text-anchor="middle" fill="#1f2937" font-weight="bold">MVN</text>
+<text x="550.0" y="495.0" font-size="13" text-anchor="middle" fill="#1f2937">vestibular n.</text>
+<text x="20" y="215" font-size="14" text-anchor="start" fill="#6b7280" font-weight="bold">Midbrain</text>
+<text x="20" y="345" font-size="14" text-anchor="start" fill="#6b7280" font-weight="bold">Pons</text>
+<text x="20" y="440" font-size="14" text-anchor="start" fill="#6b7280" font-weight="bold">Rostral medulla</text>
+<rect x="30" y="455" width="180" height="52" rx="8" fill="#dbeafe" stroke="#6b7280" stroke-width="1.2"/>
+<text x="120.0" y="478.0" font-size="14" text-anchor="middle" fill="#1f2937" font-weight="bold">Left horizontal</text>
+<text x="120.0" y="496.0" font-size="13" text-anchor="middle" fill="#1f2937">canal: firing ↑</text>
+<rect x="670" y="455" width="180" height="52" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.2"/>
+<text x="760.0" y="478.0" font-size="14" text-anchor="middle" fill="#1f2937" font-weight="bold">Right horizontal</text>
+<text x="760.0" y="496.0" font-size="13" text-anchor="middle" fill="#1f2937">canal: firing ↓</text>
+<text x="120" y="90" font-size="15" text-anchor="middle" fill="#1f2937" font-weight="bold">Head turns LEFT</text>
+<polyline points="200.0,112.0 62.0,112.0" fill="none" stroke="#1f2937" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="50.0,112.0 64.0,119.0 64.0,105.0" fill="#1f2937"/>
+<polyline points="210.0,481.0 264.0,481.0" fill="none" stroke="#2563eb" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="276.0,481.0 262.0,474.0 262.0,488.0" fill="#2563eb"/>
+<text x="243" y="472" font-size="13" text-anchor="middle" fill="#2563eb">VIII</text>
+<polyline points="670.0,481.0 616.0,481.0" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<polygon points="604.0,481.0 618.0,488.0 618.0,474.0" fill="#9ca3af"/>
+<polyline points="380.0,470.0 487.6,360.6" fill="none" stroke="#2563eb" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="496.0,352.0 481.2,357.1 491.2,366.9" fill="#2563eb"/>
+<text x="452" y="425" font-size="18" text-anchor="start" fill="#2563eb" font-weight="bold">+</text>
+<polyline points="330.0,460.0 330.0,366.0" fill="none" stroke="#dc2626" stroke-width="3" stroke-linejoin="round"/>
+<line x1="320.0" y1="366.0" x2="340.0" y2="366.0" stroke="#dc2626" stroke-width="5"/>
+<text x="338" y="420" font-size="18" text-anchor="start" fill="#dc2626" font-weight="bold">−</text>
+<polyline points="600.0,335.0 650.0,335.0 650.0,123.0 626.0,123.0" fill="none" stroke="#2563eb" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="614.0,123.0 628.0,130.0 628.0,116.0" fill="#2563eb"/>
+<text x="658" y="240" font-size="18" text-anchor="start" fill="#2563eb" font-weight="bold">+</text>
+<polyline points="500.0,352.0 420.0,352.0 420.0,215.0 396.0,215.0" fill="none" stroke="#2563eb" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="384.0,215.0 398.0,222.0 398.0,208.0" fill="#2563eb"/>
+<text x="412" y="300" font-size="13" text-anchor="middle" fill="#2563eb" transform="rotate(-90 412 300)">MLF</text>
+<polyline points="365.0,190.0 365.0,152.0" fill="none" stroke="#2563eb" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="365.0,140.0 358.0,154.0 372.0,154.0" fill="#2563eb"/>
+<polyline points="280.0,340.0 240.0,340.0 240.0,123.0 254.0,123.0" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<polygon points="266.0,123.0 252.0,116.0 252.0,130.0" fill="#9ca3af"/>
+<polyline points="380.0,328.0 460.0,328.0 460.0,205.0 484.0,205.0" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<polygon points="496.0,205.0 482.0,198.0 482.0,212.0" fill="#9ca3af"/>
+<polyline points="515.0,190.0 515.0,152.0" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<polygon points="515.0,140.0 508.0,154.0 522.0,154.0" fill="#9ca3af"/>
+<polyline points="40.0,565.0 73.0,565.0" fill="none" stroke="#2563eb" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="85.0,565.0 71.0,558.0 71.0,572.0" fill="#2563eb"/>
+<text x="95" y="570" font-size="13" text-anchor="start" fill="#1f2937">increased drive</text>
+<polyline points="230.0,565.0 270.0,565.0" fill="none" stroke="#dc2626" stroke-width="3" stroke-linejoin="round"/>
+<line x1="270.0" y1="555.0" x2="270.0" y2="575.0" stroke="#dc2626" stroke-width="5"/>
+<text x="283" y="570" font-size="13" text-anchor="start" fill="#1f2937">inhibition</text>
+<polyline points="380.0,565.0 413.0,565.0" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<polygon points="425.0,565.0 411.0,558.0 411.0,572.0" fill="#9ca3af"/>
+<text x="435" y="570" font-size="13" text-anchor="start" fill="#1f2937">reduced drive</text>
+<rect x="560" y="556" width="26" height="16" fill="#dcfce7" stroke="#6b7280"/>
+<text x="594" y="570" font-size="13" text-anchor="start" fill="#1f2937">contracts</text>
+<rect x="680" y="556" width="26" height="16" fill="#fee2e2" stroke="#6b7280"/>
+<text x="714" y="570" font-size="13" text-anchor="start" fill="#1f2937">relaxes</text>
+</svg>

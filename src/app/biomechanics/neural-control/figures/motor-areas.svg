@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g font-size="14" fill="#1f2937">
+<text x="235" y="30" text-anchor="middle" font-weight="bold">Lateral view</text>
+<text x="680" y="30" text-anchor="middle" font-weight="bold">Medial view</text>
+
+<!-- LATERAL VIEW -->
+<path d="M40,230 C40,120 150,60 260,60 C360,60 430,110 430,190 C430,250 400,290 340,300 L300,300 C280,330 240,345 200,330 L120,300 C70,290 40,270 40,230 Z" fill="#f9fafb" stroke="#6b7280" stroke-width="2"/>
+<!-- regions -->
+<path d="M258,62 L206,67 L183,160 L236,160 L250,110 Z" fill="#dcfce7" stroke="#6b7280"/>
+<path d="M236,160 L183,160 L168,238 L208,248 L222,205 Z" fill="#bbf7d0" stroke="#6b7280"/>
+<path d="M285,61 C275,120 255,180 235,250 L208,248 C228,180 248,120 258,62 Z" fill="#fee2e2" stroke="#6b7280"/>
+<path d="M285,61 C275,120 255,180 235,250 L263,256 C283,182 303,120 313,62 Z" fill="#dbeafe" stroke="#6b7280"/>
+<path d="M313,62 L303,120 L296,145 L405,145 L398,103 C380,75 350,62 313,62 Z" fill="#fef3c7" stroke="#6b7280"/>
+<path d="M296,145 L283,182 L268,240 L340,298 C390,285 420,250 425,200 L405,145 Z" fill="#fde68a" stroke="#6b7280"/>
+<path d="M285,61 C275,120 255,180 235,250" fill="none" stroke="#1f2937" stroke-width="2.5"/>
+<g font-size="13" text-anchor="middle">
+<text x="220" y="115">PMd</text>
+<text x="202" y="208">PMv</text>
+<text x="252" y="150" font-weight="bold">M1</text>
+<text x="282" y="200">S1</text>
+<text x="355" y="100">SPL</text>
+<text x="355" y="116">(5, 7)</text>
+<text x="350" y="245">IPL</text>
+<text x="110" y="180">Prefrontal</text>
+<text x="110" y="196">cortex</text>
+</g>
+<line x1="330" y1="128" x2="215" y2="128" stroke="#7c3aed" stroke-width="2.5"/><polygon points="215.0,128.0 230.0,121.0 230.0,135.0" fill="#7c3aed"/><polygon points="330.0,128.0 315.0,135.0 315.0,121.0" fill="#7c3aed"/>
+<line x1="330" y1="222" x2="200" y2="222" stroke="#7c3aed" stroke-width="2.5"/><polygon points="200.0,222.0 215.0,215.0 215.0,229.0" fill="#7c3aed"/><polygon points="330.0,222.0 315.0,229.0 315.0,215.0" fill="#7c3aed"/>
+<text x="292" y="52" font-size="13" text-anchor="middle">central sulcus</text>
+<line x1="292" y1="56" x2="285" y2="64" stroke="#1f2937"/>
+<g font-size="13">
+<text x="40" y="370">dorsal stream, SPL ↔ PMd: reach, spatial</text>
+<text x="40" y="390">ventral stream, IPL ↔ PMv: grasp, object</text>
+</g>
+
+<!-- MEDIAL VIEW -->
+<path d="M480,230 C480,120 590,60 700,60 C800,60 870,110 870,190 C870,260 820,300 760,300 L560,300 C510,295 480,270 480,230 Z" fill="#f9fafb" stroke="#6b7280" stroke-width="2"/>
+<path d="M570,90 L625,70 L625,152 L578,168 Z" fill="#bbf7d0" stroke="#6b7280"/>
+<path d="M625,70 L690,61 L690,148 L625,152 Z" fill="#dcfce7" stroke="#6b7280"/>
+<path d="M690,61 L722,60 L722,148 L690,148 Z" fill="#fee2e2" stroke="#6b7280"/>
+<path d="M722,60 L750,62 L750,150 L722,148 Z" fill="#dbeafe" stroke="#6b7280"/>
+<path d="M600,160 L750,152 L752,175 L605,186 Z" fill="#fce7f3" stroke="#6b7280"/>
+<polyline points="560,190 600,158 750,150 800,178" fill="none" stroke="#1f2937" stroke-width="2"/>
+<path d="M590,245 C610,195 765,190 795,230 C760,215 625,215 605,250 Z" fill="#e5e7eb" stroke="#6b7280"/>
+<line x1="722" y1="60" x2="722" y2="82" stroke="#1f2937" stroke-width="2.5"/>
+<g font-size="13" text-anchor="middle">
+<text x="598" y="128">pre-</text>
+<text x="598" y="144">SMA</text>
+<text x="657" y="112" font-weight="bold">SMA</text>
+<text x="706" y="112" font-weight="bold">M1</text>
+<text x="706" y="128" font-size="12">leg</text>
+<text x="736" y="112">S1</text>
+<text x="676" y="176">CMA</text>
+<text x="700" y="268">corpus callosum</text>
+<text x="820" y="150">cingulate</text>
+<text x="820" y="166">sulcus</text>
+</g>
+<text x="500" y="370" font-size="13">SMA: internally generated, sequences</text>
+<text x="500" y="390" font-size="13">PMd, PMv: externally cued</text>
+<text x="500" y="410" font-size="13">CMA: cingulate motor areas</text>
+
+<!-- anterior arrows -->
+<g font-size="13" fill="#6b7280">
+<line x1="60" y1="440" x2="140" y2="440" stroke="#6b7280" stroke-width="1.5"/><polygon points="50,440 62,434 62,446" fill="#6b7280"/>
+<text x="150" y="445">anterior</text>
+<line x1="500" y1="440" x2="580" y2="440" stroke="#6b7280" stroke-width="1.5"/><polygon points="490,440 502,434 502,446" fill="#6b7280"/>
+<text x="590" y="445">anterior</text>
+</g>
+<!-- color key -->
+<g font-size="13">
+<rect x="680" y="430" width="14" height="14" fill="#fee2e2" stroke="#6b7280"/><text x="700" y="442">area 4</text>
+<rect x="760" y="430" width="14" height="14" fill="#dcfce7" stroke="#6b7280"/><text x="780" y="442">area 6</text>
+</g>
+</g>
+</svg>

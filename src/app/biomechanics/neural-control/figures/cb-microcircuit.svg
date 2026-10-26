@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 620" width="880" height="620" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="20" y="50" width="840" height="180" fill="#f9fafb"/>
+<text x="30" y="145.0" font-size="14" text-anchor="start" fill="#6b7280" font-weight="bold">Molecular layer</text>
+<rect x="20" y="230" width="840" height="42" fill="#fef3c7"/>
+<text x="30" y="256.0" font-size="14" text-anchor="start" fill="#6b7280" font-weight="bold">Purkinje layer</text>
+<rect x="20" y="272" width="840" height="128" fill="#eef2ff"/>
+<text x="30" y="341.0" font-size="14" text-anchor="start" fill="#6b7280" font-weight="bold">Granule layer</text>
+<rect x="20" y="400" width="840" height="160" fill="#f3f4f6"/>
+<text x="30" y="485.0" font-size="14" text-anchor="start" fill="#6b7280" font-weight="bold">White matter and deep nuclei</text>
+<polyline points="520.0,236.0 520.0,180.0" fill="none" stroke="#dc2626" stroke-width="4" stroke-linejoin="round"/>
+<polyline points="520.0,180.0 490.0,130.0 460.0,80.0" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-linejoin="round"/>
+<polyline points="520.0,180.0 505.0,130.0 490.0,70.0" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-linejoin="round"/>
+<polyline points="520.0,180.0 520.0,130.0 520.0,66.0" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-linejoin="round"/>
+<polyline points="520.0,180.0 535.0,130.0 550.0,70.0" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-linejoin="round"/>
+<polyline points="520.0,180.0 550.0,130.0 580.0,80.0" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="520" cy="251" r="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+<polyline points="730.0,236.0 730.0,180.0" fill="none" stroke="#dc2626" stroke-width="4" stroke-linejoin="round"/>
+<polyline points="730.0,180.0 700.0,130.0 670.0,80.0" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-linejoin="round"/>
+<polyline points="730.0,180.0 715.0,130.0 700.0,70.0" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-linejoin="round"/>
+<polyline points="730.0,180.0 730.0,130.0 730.0,66.0" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-linejoin="round"/>
+<polyline points="730.0,180.0 745.0,130.0 760.0,70.0" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-linejoin="round"/>
+<polyline points="730.0,180.0 760.0,130.0 790.0,80.0" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="730" cy="251" r="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+<text x="560" y="300" font-size="14" text-anchor="start" fill="#dc2626" font-weight="bold">Purkinje cell</text>
+<circle cx="520" cy="500" r="20" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="470" y="545" font-size="14" text-anchor="middle" fill="#2563eb" font-weight="bold">deep nuclear neuron</text>
+<polyline points="520.0,267.0 520.0,476.0" fill="none" stroke="#dc2626" stroke-width="3" stroke-linejoin="round"/>
+<line x1="530.0" y1="476.0" x2="510.0" y2="476.0" stroke="#dc2626" stroke-width="5"/>
+<text x="528" y="430" font-size="14" text-anchor="start" fill="#dc2626">− GABA</text>
+<polyline points="542.0,500.0 688.0,500.0" fill="none" stroke="#2563eb" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="700.0,500.0 686.0,493.0 686.0,507.0" fill="#2563eb"/>
+<text x="710" y="495" font-size="14" text-anchor="start" fill="#2563eb">+ to thalamus,</text>
+<text x="710" y="513" font-size="14" text-anchor="start" fill="#2563eb">red nucleus, brainstem</text>
+<circle cx="320" cy="345" r="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="338" y="368" font-size="13" text-anchor="start" fill="#2563eb">granule cell</text>
+<polyline points="320.0,335.0 320.0,110.0" fill="none" stroke="#2563eb" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="230.0,110.0 840.0,110.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="232" y="100" font-size="14" text-anchor="start" fill="#2563eb" font-weight="bold">parallel fiber (+)</text>
+<circle cx="490" cy="110" r="4" fill="#2563eb"/>
+<circle cx="520" cy="110" r="4" fill="#2563eb"/>
+<circle cx="700" cy="110" r="4" fill="#2563eb"/>
+<circle cx="730" cy="110" r="4" fill="#2563eb"/>
+<polyline points="250.0,590.0 250.0,420.0 300.2,361.1" fill="none" stroke="#2563eb" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="308.0,352.0 293.6,358.1 304.2,367.2" fill="#2563eb"/>
+<text x="160" y="605" font-size="13" text-anchor="start" fill="#2563eb">mossy fibers + (pontine nuclei, spinal cord, vestibular)</text>
+<polyline points="250.0,480.0 484.0,494.3" fill="none" stroke="#2563eb" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="496.0,495.0 482.5,487.2 481.6,501.1" fill="#2563eb"/>
+<text x="300" y="468" font-size="13" text-anchor="start" fill="#2563eb">collateral +</text>
+<polyline points="640.0,590.0 640.0,440.0 538.8,291.9" fill="none" stroke="#1e3a8a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="532.0,282.0 534.1,297.5 545.7,289.6" fill="#1e3a8a"/>
+<polyline points="527.0,236.0 535.0,225.0 525.0,212.0 535.0,199.0 525.0,186.0 535.0,173.0 520.0,160.0 510.0,145.0 500.0,130.0" fill="none" stroke="#1e3a8a" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="650" y="605" font-size="13" text-anchor="start" fill="#1e3a8a" font-weight="bold">climbing fiber + (inferior olive)</text>
+<polyline points="640.0,470.0 555.5,494.6" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="544.0,498.0 559.4,500.8 555.5,487.4" fill="#1e3a8a"/>
+<circle cx="400" cy="200" r="9" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+<text x="330" y="180" font-size="13" text-anchor="start" fill="#dc2626">basket / stellate</text>
+<polyline points="409.0,204.0 500.0,250.0" fill="none" stroke="#dc2626" stroke-width="2" stroke-linejoin="round"/>
+<line x1="504.5" y1="241.1" x2="495.5" y2="258.9" stroke="#dc2626" stroke-width="5"/>
+<text x="452" y="215" font-size="16" text-anchor="start" fill="#dc2626" font-weight="bold">−</text>
+<circle cx="410" cy="330" r="9" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+<text x="395" y="315" font-size="13" text-anchor="start" fill="#dc2626">Golgi</text>
+<polyline points="401.0,334.0 334.0,344.0" fill="none" stroke="#dc2626" stroke-width="2" stroke-linejoin="round"/>
+<line x1="335.5" y1="353.9" x2="332.5" y2="334.1" stroke="#dc2626" stroke-width="5"/>
+</svg>

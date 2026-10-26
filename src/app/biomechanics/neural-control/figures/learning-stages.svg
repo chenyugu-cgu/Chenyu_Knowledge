@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 430" width="880" height="430" font-family="Helvetica, Arial, sans-serif">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <defs>
+    <marker id="ax" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#6b7280"/>
+    </marker>
+  </defs>
+
+  <!-- stage bands -->
+  <rect x="110" y="40" width="240" height="160" fill="#dbeafe"/>
+  <rect x="350" y="40" width="240" height="160" fill="#fef3c7"/>
+  <rect x="590" y="40" width="240" height="160" fill="#dcfce7"/>
+  <line x1="350" y1="40" x2="350" y2="200" stroke="#6b7280" stroke-dasharray="6,4"/>
+  <line x1="590" y1="40" x2="590" y2="200" stroke="#6b7280" stroke-dasharray="6,4"/>
+
+  <text x="440" y="26" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">Fitts &amp; Posner (1967): attention demand across stages</text>
+
+  <line x1="110" y1="200" x2="110" y2="36" stroke="#6b7280" stroke-width="2" marker-end="url(#ax)"/>
+  <line x1="110" y1="200" x2="840" y2="200" stroke="#6b7280" stroke-width="2" marker-end="url(#ax)"/>
+  <line x1="125" y1="58" x2="815" y2="185" stroke="#dc2626" stroke-width="3.5"/>
+  <text x="60" y="120" text-anchor="middle" font-size="13" fill="#1f2937" transform="rotate(-90 60 120)">Attention demand</text>
+  <text x="80" y="120" text-anchor="middle" font-size="13" fill="#1f2937" transform="rotate(-90 80 120)">(high ↑)</text>
+
+  <text x="230" y="222" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">Cognitive</text>
+  <text x="470" y="222" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">Associative</text>
+  <text x="710" y="222" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">Autonomous</text>
+  <text x="840" y="222" text-anchor="end" font-size="13" fill="#6b7280">practice →</text>
+
+  <text x="440" y="258" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">Newell (1992), after Bernstein: degrees of freedom (DOF)</text>
+
+  <g font-size="13" fill="#1f2937">
+    <rect x="120" y="272" width="220" height="140" rx="8" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+    <text x="230" y="294" text-anchor="middle" font-weight="bold" font-size="14">Novice: freeze DOF</text>
+    <text x="132" y="320">Co-contraction stiffens</text>
+    <text x="132" y="338">joints; few DOF used.</text>
+    <text x="132" y="362">Slow, effortful, variable;</text>
+    <text x="132" y="380">verbal self-instruction,</text>
+    <text x="132" y="398">many large errors.</text>
+
+    <rect x="360" y="272" width="220" height="140" rx="8" fill="#ffffff" stroke="#d97706" stroke-width="2"/>
+    <text x="470" y="294" text-anchor="middle" font-weight="bold" font-size="14">Advanced: free DOF</text>
+    <text x="372" y="320">Joints released; new</text>
+    <text x="372" y="338">strategies tried in practice.</text>
+    <text x="372" y="362">Errors fewer and smaller;</text>
+    <text x="372" y="380">learner refines what</text>
+    <text x="372" y="398">works.</text>
+
+    <rect x="600" y="272" width="220" height="140" rx="8" fill="#ffffff" stroke="#16a34a" stroke-width="2"/>
+    <text x="710" y="294" text-anchor="middle" font-weight="bold" font-size="14">Expert: exploit DOF</text>
+    <text x="612" y="320">Selective, task-specific</text>
+    <text x="612" y="338">muscle activation; uses</text>
+    <text x="612" y="356">passive dynamics.</text>
+    <text x="612" y="380">Consistent, efficient,</text>
+    <text x="612" y="398">works in many settings.</text>
+  </g>
+</svg>

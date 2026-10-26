@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 890 360" width="890" height="360" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="20" y="40" width="220" height="60" rx="8" fill="#dbeafe" stroke="#6b7280" stroke-width="1.2"/>
+<text x="130.0" y="67.0" font-size="15" text-anchor="middle" fill="#1f2937" font-weight="bold">Motor command</text>
+<text x="130.0" y="85.0" font-size="13" text-anchor="middle" fill="#1f2937">efference copy</text>
+<rect x="300" y="40" width="230" height="60" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.2"/>
+<text x="415.0" y="67.0" font-size="15" text-anchor="middle" fill="#1f2937" font-weight="bold">Expected consequences</text>
+<text x="415.0" y="85.0" font-size="13" text-anchor="middle" fill="#1f2937">internal forward model</text>
+<rect x="20" y="210" width="220" height="60" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.2"/>
+<text x="130.0" y="237.0" font-size="15" text-anchor="middle" fill="#1f2937" font-weight="bold">Movement</text>
+<text x="130.0" y="255.0" font-size="13" text-anchor="middle" fill="#1f2937">body and environment</text>
+<rect x="300" y="210" width="230" height="60" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.2"/>
+<text x="415.0" y="237.0" font-size="15" text-anchor="middle" fill="#1f2937" font-weight="bold">Actual consequences</text>
+<text x="415.0" y="255.0" font-size="13" text-anchor="middle" fill="#1f2937">sensory feedback</text>
+<polyline points="240.0,70.0 284.0,70.0" fill="none" stroke="#6b7280" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="296.0,70.0 282.0,63.0 282.0,77.0" fill="#6b7280"/>
+<polyline points="130.0,100.0 130.0,194.0" fill="none" stroke="#6b7280" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="130.0,206.0 137.0,192.0 123.0,192.0" fill="#6b7280"/>
+<polyline points="240.0,240.0 284.0,240.0" fill="none" stroke="#6b7280" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="296.0,240.0 282.0,233.0 282.0,247.0" fill="#6b7280"/>
+<circle cx="615" cy="155" r="44" fill="#fef3c7" stroke="#6b7280" stroke-width="1.5"/>
+<text x="615" y="152" font-size="13" text-anchor="middle" fill="#1f2937" font-weight="bold">compare</text>
+<text x="615" y="170" font-size="13" text-anchor="middle" fill="#1f2937">(cerebellum)</text>
+<polyline points="530.0,70.0 575.4,113.7" fill="none" stroke="#6b7280" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="584.0,122.0 578.8,107.2 569.1,117.3" fill="#6b7280"/>
+<text x="565" y="88" font-size="18" text-anchor="start" fill="#dc2626" font-weight="bold">−</text>
+<polyline points="530.0,240.0 575.4,196.3" fill="none" stroke="#6b7280" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="584.0,188.0 569.1,192.7 578.8,202.8" fill="#6b7280"/>
+<text x="565" y="236" font-size="18" text-anchor="start" fill="#2563eb" font-weight="bold">+</text>
+<polyline points="659.0,155.0 688.0,155.0" fill="none" stroke="#6b7280" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="700.0,155.0 686.0,148.0 686.0,162.0" fill="#6b7280"/>
+<text x="680" y="145" font-size="13" text-anchor="middle" fill="#1f2937">error</text>
+<rect x="705" y="60" width="170" height="60" rx="8" fill="#dcfce7" stroke="#6b7280" stroke-width="1.2"/>
+<text x="790.0" y="87.0" font-size="14" text-anchor="middle" fill="#1f2937" font-weight="bold">Correct ongoing</text>
+<text x="790.0" y="105.0" font-size="13" text-anchor="middle" fill="#1f2937">movement (fast)</text>
+<rect x="705" y="190" width="170" height="60" rx="8" fill="#dcfce7" stroke="#6b7280" stroke-width="1.2"/>
+<text x="790.0" y="217.0" font-size="14" text-anchor="middle" fill="#1f2937" font-weight="bold">Adapt the plan,</text>
+<text x="790.0" y="235.0" font-size="13" text-anchor="middle" fill="#1f2937">update the model (slow)</text>
+<polyline points="700.0,155.0 700.0,90.0 703.0,90.0" fill="none" stroke="#6b7280" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="700.0,155.0 700.0,220.0 703.0,220.0" fill="none" stroke="#6b7280" stroke-width="2" stroke-linejoin="round"/>
+<text x="20" y="320" font-size="14" text-anchor="start" fill="#1f2937">Feedback correction uses the error now; adaptation uses it to change the next movement. A lesion leaves</text>
+<text x="20" y="340" font-size="14" text-anchor="start" fill="#1f2937">movements uncoordinated, slow to correct, and slow or unable to adapt.</text>
+</svg>

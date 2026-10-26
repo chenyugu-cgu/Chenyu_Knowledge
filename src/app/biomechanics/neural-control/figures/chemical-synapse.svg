@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="900" height="440" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#1f2937">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="440.0" y="26.0" font-size="16" text-anchor="middle" font-weight="bold" fill="#1f2937">Events at a chemical synapse</text>
+<path d="M220 40 L220 85 C120 95 90 150 90 200 L90 250 L430 250 L430 200 C430 150 400 95 300 85 L300 40 Z" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="110.0" y="120.0" font-size="13" text-anchor="start" font-weight="bold" fill="#2563eb">Presynaptic</text>
+<text x="110.0" y="136.0" font-size="13" text-anchor="start" font-weight="bold" fill="#2563eb">terminal</text>
+<rect x="70" y="285" width="380" height="135" rx="0" fill="#fef3c7" stroke="#ca8a04" stroke-width="2"/>
+<text x="260.0" y="405.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#a16207">Postsynaptic cell</text>
+<text x="440.0" y="272.0" font-size="13" text-anchor="start" font-weight="normal" fill="#4b5563">synaptic cleft</text>
+<line x1="260.0" y1="38.0" x2="260.0" y2="78.8" stroke="#2563eb" stroke-width="3"/><polygon points="260.0,86.0 254.4,75.4 265.6,75.4" fill="#2563eb"/>
+<text x="212.0" y="60.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">action</text>
+<text x="212.0" y="76.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">potential</text>
+<circle cx="286" cy="60" r="11" fill="#1f2937"/><text x="286.0" y="65.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff">1</text>
+<circle cx="190" cy="150" r="13" fill="#ffffff" stroke="#7c3aed" stroke-width="1.8"/>
+<circle cx="186" cy="147" r="2" fill="#7c3aed"/>
+<circle cx="194" cy="152" r="2" fill="#7c3aed"/>
+<circle cx="189" cy="155" r="2" fill="#7c3aed"/>
+<circle cx="232" cy="130" r="13" fill="#ffffff" stroke="#7c3aed" stroke-width="1.8"/>
+<circle cx="228" cy="127" r="2" fill="#7c3aed"/>
+<circle cx="236" cy="132" r="2" fill="#7c3aed"/>
+<circle cx="231" cy="135" r="2" fill="#7c3aed"/>
+<circle cx="278" cy="158" r="13" fill="#ffffff" stroke="#7c3aed" stroke-width="1.8"/>
+<circle cx="274" cy="155" r="2" fill="#7c3aed"/>
+<circle cx="282" cy="160" r="2" fill="#7c3aed"/>
+<circle cx="277" cy="163" r="2" fill="#7c3aed"/>
+<circle cx="325" cy="138" r="13" fill="#ffffff" stroke="#7c3aed" stroke-width="1.8"/>
+<circle cx="321" cy="135" r="2" fill="#7c3aed"/>
+<circle cx="329" cy="140" r="2" fill="#7c3aed"/>
+<circle cx="324" cy="143" r="2" fill="#7c3aed"/>
+<circle cx="250" cy="200" r="13" fill="#ffffff" stroke="#7c3aed" stroke-width="1.8"/>
+<circle cx="246" cy="197" r="2" fill="#7c3aed"/>
+<circle cx="254" cy="202" r="2" fill="#7c3aed"/>
+<circle cx="249" cy="205" r="2" fill="#7c3aed"/>
+<circle cx="200" cy="205" r="13" fill="#ffffff" stroke="#7c3aed" stroke-width="1.8"/>
+<circle cx="196" cy="202" r="2" fill="#7c3aed"/>
+<circle cx="204" cy="207" r="2" fill="#7c3aed"/>
+<circle cx="199" cy="210" r="2" fill="#7c3aed"/>
+<circle cx="300" cy="205" r="13" fill="#ffffff" stroke="#7c3aed" stroke-width="1.8"/>
+<circle cx="296" cy="202" r="2" fill="#7c3aed"/>
+<circle cx="304" cy="207" r="2" fill="#7c3aed"/>
+<circle cx="299" cy="210" r="2" fill="#7c3aed"/>
+<path d="M248 250 C248 232 278 232 278 250" fill="#ffffff" stroke="#7c3aed" stroke-width="1.8"/>
+<circle cx="255" cy="260" r="2.6" fill="#7c3aed"/>
+<circle cx="265" cy="266" r="2.6" fill="#7c3aed"/>
+<circle cx="275" cy="258" r="2.6" fill="#7c3aed"/>
+<circle cx="248" cy="272" r="2.6" fill="#7c3aed"/>
+<circle cx="284" cy="270" r="2.6" fill="#7c3aed"/>
+<circle cx="262" cy="278" r="2.6" fill="#7c3aed"/>
+<circle cx="292" cy="262" r="2.6" fill="#7c3aed"/>
+<circle cx="300" cy="236" r="11" fill="#1f2937"/><text x="300.0" y="241.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff">3</text>
+<rect x="141" y="242" width="7" height="18" rx="2" fill="#a7f3d0" stroke="#15803d" stroke-width="1.2"/>
+<rect x="152" y="242" width="7" height="18" rx="2" fill="#a7f3d0" stroke="#15803d" stroke-width="1.2"/>
+<line x1="150.0" y1="280.0" x2="150.0" y2="229.4" stroke="#15803d" stroke-width="2"/><polygon points="150.0,224.0 154.2,231.9 145.8,231.9" fill="#15803d"/>
+<rect x="371" y="242" width="7" height="18" rx="2" fill="#a7f3d0" stroke="#15803d" stroke-width="1.2"/>
+<rect x="382" y="242" width="7" height="18" rx="2" fill="#a7f3d0" stroke="#15803d" stroke-width="1.2"/>
+<line x1="380.0" y1="280.0" x2="380.0" y2="229.4" stroke="#15803d" stroke-width="2"/><polygon points="380.0,224.0 384.2,231.9 375.8,231.9" fill="#15803d"/>
+<text x="150.0" y="300.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#15803d">Ca²⁺</text>
+<text x="380.0" y="300.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#15803d">Ca²⁺</text>
+<circle cx="122" cy="236" r="11" fill="#1f2937"/><text x="122.0" y="241.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff">2</text>
+<rect x="205" y="280" width="8" height="16" rx="2" fill="#fde68a" stroke="#b45309" stroke-width="1.2"/>
+<rect x="217" y="280" width="8" height="16" rx="2" fill="#fde68a" stroke="#b45309" stroke-width="1.2"/>
+<rect x="255" y="280" width="8" height="16" rx="2" fill="#fde68a" stroke="#b45309" stroke-width="1.2"/>
+<rect x="267" y="280" width="8" height="16" rx="2" fill="#fde68a" stroke="#b45309" stroke-width="1.2"/>
+<rect x="305" y="280" width="8" height="16" rx="2" fill="#fde68a" stroke="#b45309" stroke-width="1.2"/>
+<rect x="317" y="280" width="8" height="16" rx="2" fill="#fde68a" stroke="#b45309" stroke-width="1.2"/>
+<line x1="265.0" y1="298.0" x2="265.0" y2="339.6" stroke="#b45309" stroke-width="2"/><polygon points="265.0,345.0 260.8,337.1 269.2,337.1" fill="#b45309"/>
+<text x="276.0" y="335.0" font-size="13" text-anchor="start" font-weight="bold" fill="#b45309">Na⁺ in → EPSP</text>
+<circle cx="184" cy="266" r="11" fill="#1f2937"/><text x="184.0" y="271.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff">4</text>
+<circle cx="240" cy="330" r="11" fill="#1f2937"/><text x="240.0" y="335.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff">5</text>
+<path d="M345 268 a9 9 0 1 0 0 0.1 Z" fill="none"/>
+<path d="M352 262 L344 268 L352 274 A10 10 0 1 1 352 262 Z" fill="#fecaca" stroke="#dc2626" stroke-width="1.2"/>
+<rect x="404" y="240" width="10" height="20" rx="2" fill="#e9d5ff" stroke="#7c3aed" stroke-width="1.2"/>
+<line x1="420.0" y1="272.0" x2="412.8" y2="230.7" stroke="#7c3aed" stroke-width="1.8"/><polygon points="412.0,226.0 416.9,232.3 409.5,233.6" fill="#7c3aed"/>
+<circle cx="345" cy="300" r="11" fill="#1f2937"/><text x="345.0" y="305.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff">6</text>
+<path d="M352 246 C372 220 372 190 340 168" fill="none" stroke="#6b7280" stroke-width="2" stroke-dasharray="5 3"/>
+<polygon points="338.0,166.0 347.8,168.1 341.7,175.3" fill="#6b7280"/>
+<circle cx="368" cy="214" r="8" fill="#ffffff" stroke="#6b7280" stroke-width="1.5"/>
+<circle cx="392" cy="186" r="11" fill="#1f2937"/><text x="392.0" y="191.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff">7</text>
+<circle cx="570" cy="65" r="11" fill="#1f2937"/><text x="570.0" y="70.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff">1</text>
+<text x="590.0" y="70.0" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">Action potential invades the terminal</text>
+<text x="590.0" y="87.0" font-size="13" text-anchor="start" font-weight="normal" fill="#4b5563">and depolarizes it</text>
+<circle cx="570" cy="115" r="11" fill="#1f2937"/><text x="570.0" y="120.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff">2</text>
+<text x="590.0" y="120.0" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">Voltage-gated Ca²⁺ channels open;</text>
+<text x="590.0" y="137.0" font-size="13" text-anchor="start" font-weight="normal" fill="#4b5563">Ca²⁺ flows in</text>
+<circle cx="570" cy="165" r="11" fill="#1f2937"/><text x="570.0" y="170.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff">3</text>
+<text x="590.0" y="170.0" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">Ca²⁺ triggers vesicle fusion and</text>
+<text x="590.0" y="187.0" font-size="13" text-anchor="start" font-weight="normal" fill="#4b5563">transmitter release (exocytosis)</text>
+<circle cx="570" cy="215" r="11" fill="#1f2937"/><text x="570.0" y="220.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff">4</text>
+<text x="590.0" y="220.0" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">Transmitter diffuses across the cleft</text>
+<text x="590.0" y="237.0" font-size="13" text-anchor="start" font-weight="normal" fill="#4b5563">and binds receptors</text>
+<circle cx="570" cy="265" r="11" fill="#1f2937"/><text x="570.0" y="270.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff">5</text>
+<text x="590.0" y="270.0" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">Receptor-channels open; ion flow</text>
+<text x="590.0" y="287.0" font-size="13" text-anchor="start" font-weight="normal" fill="#4b5563">produces an EPSP or IPSP</text>
+<circle cx="570" cy="315" r="11" fill="#1f2937"/><text x="570.0" y="320.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff">6</text>
+<text x="590.0" y="320.0" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">Clearance: enzymatic breakdown,</text>
+<text x="590.0" y="337.0" font-size="13" text-anchor="start" font-weight="normal" fill="#4b5563">reuptake, diffusion, glial uptake</text>
+<circle cx="570" cy="365" r="11" fill="#1f2937"/><text x="570.0" y="370.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff">7</text>
+<text x="590.0" y="370.0" font-size="13" text-anchor="start" font-weight="normal" fill="#1f2937">Vesicle membrane is retrieved</text>
+<text x="590.0" y="387.0" font-size="13" text-anchor="start" font-weight="normal" fill="#4b5563">and refilled (vesicle cycle)</text>
+</svg>

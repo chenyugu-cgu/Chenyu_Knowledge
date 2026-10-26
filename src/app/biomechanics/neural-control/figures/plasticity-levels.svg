@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480" font-family="Helvetica, Arial, sans-serif">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <!-- connecting circle and cross -->
+  <circle cx="380" cy="245" r="165" fill="none" stroke="#9ca3af" stroke-width="2"/>
+  <line x1="380" y1="110" x2="380" y2="380" stroke="#9ca3af" stroke-width="2"/>
+  <line x1="215" y1="245" x2="545" y2="245" stroke="#9ca3af" stroke-width="2"/>
+
+  <g font-size="13" fill="#1f2937" text-anchor="middle">
+    <!-- Behavioral (top) -->
+    <rect x="270" y="40" width="220" height="74" rx="10" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+    <text x="380" y="64" font-size="15" font-weight="bold">Behavioral</text>
+    <text x="380" y="84">4. Modification of behavior</text>
+    <text x="380" y="102" fill="#6b7280">skill, strategy, habit</text>
+
+    <!-- Systems (right) -->
+    <rect x="460" y="208" width="230" height="74" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+    <text x="575" y="232" font-size="15" font-weight="bold">Systems</text>
+    <text x="575" y="252">3. Pathways and networks</text>
+    <text x="575" y="270" fill="#6b7280">maps, tracts, gray matter</text>
+
+    <!-- Cellular (bottom) -->
+    <rect x="260" y="376" width="240" height="74" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+    <text x="380" y="400" font-size="15" font-weight="bold">Cellular</text>
+    <text x="380" y="420">2. Synaptic structure, neurons</text>
+    <text x="380" y="438" fill="#6b7280">spines, dendrites, synapses</text>
+
+    <!-- Molecular (left) -->
+    <rect x="40" y="208" width="240" height="74" rx="10" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+    <text x="160" y="232" font-size="15" font-weight="bold">Genetic / molecular</text>
+    <text x="160" y="252">1. Synaptic efficacy</text>
+    <text x="160" y="270" fill="#6b7280">LTP / LTD, receptors</text>
+
+    <!-- Unmasking -->
+    <rect x="560" y="60" width="220" height="74" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2" stroke-dasharray="6,4"/>
+    <text x="670" y="84" font-size="15" font-weight="bold">Motor-system extra</text>
+    <text x="670" y="104">5. Unmasking of existing</text>
+    <text x="670" y="122">connections</text>
+  </g>
+  <line x1="560" y1="134" x2="500" y2="128" stroke="#6b7280" stroke-width="2" stroke-dasharray="6,4"/>
+</svg>

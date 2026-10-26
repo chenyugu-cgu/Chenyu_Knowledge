@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="900" height="520" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#1f2937">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+
+  <text x="180" y="32" text-anchor="middle" font-weight="bold" fill="#2563eb">Sensory-discriminative (spinothalamic)</text>
+  <text x="625" y="32" text-anchor="middle" font-weight="bold" fill="#7c3aed">Affective-motivational (spinoreticular)</text>
+  <line x1="340" y1="48" x2="340" y2="410" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="6 5"/>
+
+  <!-- cortex -->
+  <rect x="50" y="70" width="260" height="65" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+  <text x="180" y="96" text-anchor="middle" font-weight="bold">Somatosensory cortex (S1, S2)</text>
+  <text x="180" y="120" text-anchor="middle" font-style="italic">where, how intense, what quality</text>
+
+  <rect x="460" y="70" width="190" height="65" rx="6" fill="#ede9fe" stroke="#7c3aed" stroke-width="1.5"/>
+  <text x="555" y="96" text-anchor="middle" font-weight="bold">Anterior cingulate</text>
+  <text x="555" y="120" text-anchor="middle" font-style="italic">unpleasantness</text>
+
+  <rect x="670" y="70" width="190" height="65" rx="6" fill="#ede9fe" stroke="#7c3aed" stroke-width="1.5"/>
+  <text x="765" y="96" text-anchor="middle" font-weight="bold">Insular cortex</text>
+  <text x="765" y="120" text-anchor="middle" font-style="italic">lesion: pain asymbolia</text>
+
+  <!-- thalamus -->
+  <rect x="50" y="195" width="260" height="57" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
+  <text x="180" y="218" text-anchor="middle" font-weight="bold">Ventral posterior thalamus</text>
+  <text x="180" y="240" text-anchor="middle">VPL (body) · VPM (face)</text>
+
+  <rect x="510" y="195" width="300" height="57" rx="6" fill="#ffffff" stroke="#7c3aed" stroke-width="1.5"/>
+  <text x="660" y="218" text-anchor="middle" font-weight="bold">Midline / intralaminar</text>
+  <text x="660" y="240" text-anchor="middle" font-weight="bold">thalamic nuclei</text>
+
+  <!-- brainstem -->
+  <rect x="360" y="300" width="210" height="62" rx="6" fill="#ffffff" stroke="#7c3aed" stroke-width="1.5"/>
+  <text x="465" y="324" text-anchor="middle">Reticular formation,</text>
+  <text x="465" y="346" text-anchor="middle">PAG, superior colliculus</text>
+
+  <rect x="680" y="300" width="190" height="62" rx="6" fill="#ffffff" stroke="#7c3aed" stroke-width="1.5"/>
+  <text x="775" y="324" text-anchor="middle">Parabrachial nucleus</text>
+  <text x="775" y="346" text-anchor="middle">→ amygdala, hypothalamus</text>
+
+  <!-- spinal bar -->
+  <rect x="50" y="430" width="820" height="58" rx="6" fill="#fef3c7" stroke="#6b7280" stroke-width="1.5"/>
+  <text x="460" y="453" text-anchor="middle" font-weight="bold">Anterolateral system (body) and trigeminothalamic tract (face)</text>
+  <text x="460" y="475" text-anchor="middle" font-size="13">second-order neurons in dorsal horn laminae I and V, or in the spinal trigeminal nucleus; axons cross the midline</text>
+
+  <!-- arrows: left -->
+  <line x1="180" y1="430" x2="180" y2="264" stroke="#2563eb" stroke-width="2.5"/>
+  <path d="M173,264 L180,252 L187,264 z" fill="#2563eb"/>
+  <line x1="180" y1="195" x2="180" y2="147" stroke="#2563eb" stroke-width="2.5"/>
+  <path d="M173,147 L180,135 L187,147 z" fill="#2563eb"/>
+  <!-- arrows: right -->
+  <line x1="465" y1="430" x2="465" y2="374" stroke="#7c3aed" stroke-width="2.5"/>
+  <path d="M458,374 L465,362 L472,374 z" fill="#7c3aed"/>
+  <line x1="775" y1="430" x2="775" y2="374" stroke="#7c3aed" stroke-width="2.5"/>
+  <path d="M768,374 L775,362 L782,374 z" fill="#7c3aed"/>
+  <line x1="625" y1="430" x2="625" y2="264" stroke="#7c3aed" stroke-width="2.5"/>
+  <path d="M618,264 L625,252 L632,264 z" fill="#7c3aed"/>
+  <line x1="555" y1="195" x2="555" y2="147" stroke="#7c3aed" stroke-width="2.5"/>
+  <path d="M548,147 L555,135 L562,147 z" fill="#7c3aed"/>
+  <line x1="765" y1="195" x2="765" y2="147" stroke="#7c3aed" stroke-width="2.5"/>
+  <path d="M758,147 L765,135 L772,147 z" fill="#7c3aed"/>
+
+  <text x="192" y="290" font-size="13" fill="#6b7280">lateral spinothalamic</text>
+  <text x="192" y="308" font-size="13" fill="#6b7280">tract (laminae I, V)</text>
+  <text x="192" y="350" font-size="13" fill="#6b7280">face: spinal trigeminal</text>
+  <text x="192" y="368" font-size="13" fill="#6b7280">nucleus → VPM</text>
+</svg>

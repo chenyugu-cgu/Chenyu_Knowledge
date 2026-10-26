@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380" font-family="Helvetica, Arial, sans-serif">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <defs>
+    <marker id="ar" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1f2937"/>
+    </marker>
+    <marker id="arb" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/>
+    </marker>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/>
+    </marker>
+  </defs>
+
+  <!-- Goal -->
+  <rect x="20" y="60" width="140" height="56" rx="8" fill="#fef3c7" stroke="#6b7280"/>
+  <text x="90" y="84" text-anchor="middle" font-size="14" fill="#1f2937">Goal / desired</text>
+  <text x="90" y="102" text-anchor="middle" font-size="14" fill="#1f2937">movement</text>
+
+  <!-- Inverse model -->
+  <rect x="215" y="60" width="170" height="56" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="300" y="84" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">Inverse model</text>
+  <text x="300" y="102" text-anchor="middle" font-size="13" fill="#1f2937">(controller)</text>
+
+  <!-- Body -->
+  <rect x="540" y="60" width="160" height="56" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+  <text x="620" y="84" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">Body +</text>
+  <text x="620" y="102" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">environment</text>
+
+  <!-- Forward model -->
+  <rect x="380" y="222" width="170" height="56" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="465" y="246" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">Forward model</text>
+  <text x="465" y="264" text-anchor="middle" font-size="13" fill="#1f2937">(predictor)</text>
+
+  <!-- Comparator -->
+  <circle cx="800" cy="250" r="20" fill="#ffffff" stroke="#1f2937" stroke-width="2"/>
+  <text x="800" y="256" text-anchor="middle" font-size="18" fill="#1f2937">Σ</text>
+
+  <!-- arrows -->
+  <line x1="160" y1="88" x2="213" y2="88" stroke="#1f2937" stroke-width="2" marker-end="url(#ar)"/>
+  <line x1="385" y1="88" x2="538" y2="88" stroke="#1f2937" stroke-width="2" marker-end="url(#ar)"/>
+  <text x="462" y="78" text-anchor="middle" font-size="13" fill="#1f2937">motor command</text>
+
+  <!-- efference copy -->
+  <circle cx="462" cy="88" r="4" fill="#1f2937"/>
+  <line x1="462" y1="92" x2="462" y2="220" stroke="#1f2937" stroke-width="2" stroke-dasharray="6,4" marker-end="url(#ar)"/>
+  <text x="470" y="160" font-size="13" fill="#1f2937">efference copy</text>
+
+  <!-- actual feedback -->
+  <polyline points="700,88 800,88 800,228" fill="none" stroke="#1f2937" stroke-width="2" marker-end="url(#ar)"/>
+  <text x="810" y="140" font-size="13" fill="#1f2937">actual</text>
+  <text x="810" y="157" font-size="13" fill="#1f2937">sensory</text>
+  <text x="810" y="174" font-size="13" fill="#1f2937">feedback</text>
+  <text x="810" y="191" font-size="12" fill="#6b7280">(delayed)</text>
+  <text x="784" y="222" font-size="16" font-weight="bold" fill="#2563eb">+</text>
+
+  <!-- prediction -->
+  <line x1="550" y1="250" x2="778" y2="250" stroke="#1f2937" stroke-width="2" marker-end="url(#ar)"/>
+  <text x="662" y="240" text-anchor="middle" font-size="13" fill="#1f2937">predicted sensory</text>
+  <text x="662" y="270" text-anchor="middle" font-size="13" fill="#1f2937">consequences</text>
+  <text x="764" y="244" font-size="18" font-weight="bold" fill="#dc2626">−</text>
+
+  <!-- error / learning signal -->
+  <polyline points="800,270 800,330 300,330 300,118" fill="none" stroke="#dc2626" stroke-width="2.5" marker-end="url(#arr)"/>
+  <line x1="465" y1="330" x2="465" y2="280" stroke="#dc2626" stroke-width="2.5" marker-end="url(#arr)"/>
+  <text x="630" y="352" text-anchor="middle" font-size="13" fill="#dc2626">sensory prediction error → updates both models (cerebellum)</text>
+
+  <text x="40" y="200" font-size="13" fill="#6b7280">Feedforward path:</text>
+  <text x="40" y="218" font-size="13" fill="#6b7280">goal → command</text>
+  <text x="40" y="236" font-size="13" fill="#6b7280">without waiting for</text>
+  <text x="40" y="254" font-size="13" fill="#6b7280">feedback</text>
+</svg>
