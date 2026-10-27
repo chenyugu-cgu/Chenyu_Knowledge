@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2937">
+  <!-- input -->
+  <text x="22" y="135" font-style="italic">u</text>
+  <line x1="36" y1="130" x2="72" y2="130" stroke="#2563eb" stroke-width="2"/>
+  <polygon points="80,130 70,125 70,135" fill="#2563eb"/>
+  <!-- block xi_k -->
+  <rect x="80" y="100" width="150" height="60" rx="6" fill="#eff6ff" stroke="#6b7280" stroke-width="1.5"/>
+  <text x="155" y="136" text-anchor="middle">dξₖ/dt = fₖ + gₖ u</text>
+  <line x1="230" y1="130" x2="282" y2="130" stroke="#2563eb" stroke-width="2"/>
+  <polygon points="290,130 280,125 280,135" fill="#2563eb"/>
+  <text x="250" y="120" font-style="italic">ξₖ</text>
+  <!-- dots -->
+  <text x="305" y="136" font-size="22">· · ·</text>
+  <line x1="350" y1="130" x2="382" y2="130" stroke="#2563eb" stroke-width="2"/>
+  <polygon points="390,130 380,125 380,135" fill="#2563eb"/>
+  <text x="352" y="120" font-style="italic">ξ₂</text>
+  <!-- block xi_1 -->
+  <rect x="390" y="100" width="170" height="60" rx="6" fill="#eff6ff" stroke="#6b7280" stroke-width="1.5"/>
+  <text x="475" y="136" text-anchor="middle">dξ₁/dt = f₁ + g₁ ξ₂</text>
+  <line x1="560" y1="130" x2="612" y2="130" stroke="#2563eb" stroke-width="2"/>
+  <polygon points="620,130 610,125 610,135" fill="#2563eb"/>
+  <text x="580" y="120" font-style="italic">ξ₁</text>
+  <!-- block eta -->
+  <rect x="620" y="100" width="170" height="60" rx="6" fill="#eff6ff" stroke="#6b7280" stroke-width="1.5"/>
+  <text x="705" y="136" text-anchor="middle">dη/dt = f(η) + g(η) ξ₁</text>
+  <line x1="790" y1="130" x2="842" y2="130" stroke="#2563eb" stroke-width="2"/>
+  <polygon points="850,130 840,125 840,135" fill="#2563eb"/>
+  <text x="858" y="135" font-style="italic">η</text>
+  <!-- feedback bus: upper states feed into lower blocks -->
+  <line x1="820" y1="130" x2="820" y2="50" stroke="#6b7280" stroke-width="1.5"/>
+  <line x1="820" y1="50" x2="155" y2="50" stroke="#6b7280" stroke-width="1.5"/>
+  <line x1="475" y1="50" x2="475" y2="92" stroke="#6b7280" stroke-width="1.5"/>
+  <polygon points="475,100 470,90 480,90" fill="#6b7280"/>
+  <line x1="155" y1="50" x2="155" y2="92" stroke="#6b7280" stroke-width="1.5"/>
+  <polygon points="155,100 150,90 160,90" fill="#6b7280"/>
+  <line x1="705" y1="50" x2="705" y2="92" stroke="#6b7280" stroke-width="1.5"/>
+  <polygon points="705,100 700,90 710,90" fill="#6b7280"/>
+  <text x="488" y="40" text-anchor="middle" font-size="13" fill="#6b7280">fᵢ, gᵢ depend on η, ξ₁, …, ξᵢ only: each block is fed back from the states to its right (lower-triangular)</text>
+  <!-- design order -->
+  <line x1="780" y1="215" x2="110" y2="215" stroke="#1f2937" stroke-width="1.5"/>
+  <polygon points="100,215 112,209 112,221" fill="#1f2937"/>
+  <text x="440" y="205" text-anchor="middle" font-size="14">backstepping design order</text>
+  <text x="705" y="245" text-anchor="middle" font-size="13">step 0: ξ₁ = φ(η), V(η)</text>
+  <text x="475" y="245" text-anchor="middle" font-size="13">step 1: ξ₂ = φ₁, V₁ = V + ½z₁²</text>
+  <text x="155" y="245" text-anchor="middle" font-size="13">step k: u, Vₖ = Vₖ₋₁ + ½zₖ²</text>
+  <text x="450" y="290" text-anchor="middle" font-size="14">Each state acts as a "virtual control" for the subsystem to its right; u is chosen last.</text>
+</g>
+</svg>

@@ -39,4 +39,13 @@ The cost is potential **instability**: too much gain or delay turns helpful corr
 - [Modern Control](modern.md)
 - [Optimal Control](optimal.md)
 
+### In-Depth Subsections
+
+The chapters above are short overviews. Four subsections develop the subject at graduate depth:
+
+- [Linear Systems Theory](linear/README.md): state-space analysis, controllability and observability, pole placement, observers, LQR, Kalman filtering and LQG.
+- [Nonlinear Control](nonlinear/README.md): phase plane, Lyapunov theory, feedback linearization, sliding and adaptive control, plus advanced topics (ISS, passivity, backstepping, geometric control).
+- [Digital Control](digital/README.md): the z-transform, sampling, discrete classical and state-space design, discrete LQR and reinforcement learning.
+- [Optimal and Learning Control](optimal-learning/README.md): calculus of variations, the minimum principle, dynamic programming, reinforcement learning, games and model predictive control.
+
 This section draws heavily on the [Laplace Transform](../../signals/laplace-transform.md) and [Linear Algebra](../../math/linear-algebra/README.md).

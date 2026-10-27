@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="250" viewBox="0 65 780 250" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="780" height="330" fill="#ffffff"/>
+  <!-- reference input -->
+  <line x1="20" y1="110" x2="78" y2="110" stroke="#2563eb" stroke-width="2"/>
+  <polygon points="78,104 90,110 78,116" fill="#2563eb"/>
+  <text x="22" y="98" font-size="15" fill="#1f2937">r</text>
+  <!-- summing junction -->
+  <circle cx="102" cy="110" r="12" fill="#ffffff" stroke="#6b7280" stroke-width="2"/>
+  <text x="96" y="115" font-size="15" fill="#1f2937">Σ</text>
+  <text x="80" y="140" font-size="14" fill="#1f2937">+</text>
+  <text x="84" y="98" font-size="14" fill="#1f2937">+</text>
+  <!-- v -->
+  <line x1="114" y1="110" x2="158" y2="110" stroke="#2563eb" stroke-width="2"/>
+  <polygon points="158,104 170,110 158,116" fill="#2563eb"/>
+  <text x="130" y="100" font-size="15" fill="#1f2937" font-style="italic">v</text>
+  <!-- linearizing block -->
+  <rect x="170" y="80" width="180" height="60" rx="6" fill="#eff6ff" stroke="#6b7280" stroke-width="2"/>
+  <text x="260" y="107" font-size="14" fill="#1f2937" text-anchor="middle">u = α(x) + β(x) v</text>
+  <text x="260" y="127" font-size="13" fill="#1f2937" text-anchor="middle">(linearizing law)</text>
+  <!-- u -->
+  <line x1="350" y1="110" x2="398" y2="110" stroke="#2563eb" stroke-width="2"/>
+  <polygon points="398,104 410,110 398,116" fill="#2563eb"/>
+  <text x="372" y="100" font-size="15" fill="#1f2937" font-style="italic">u</text>
+  <!-- plant -->
+  <rect x="410" y="80" width="170" height="60" rx="6" fill="#f9fafb" stroke="#6b7280" stroke-width="2"/>
+  <text x="495" y="107" font-size="14" fill="#1f2937" text-anchor="middle">ẋ = f(x) + g(x) u</text>
+  <text x="495" y="127" font-size="13" fill="#1f2937" text-anchor="middle">(nonlinear plant)</text>
+  <!-- x output -->
+  <line x1="580" y1="110" x2="748" y2="110" stroke="#2563eb" stroke-width="2"/>
+  <polygon points="748,104 760,110 748,116" fill="#2563eb"/>
+  <text x="735" y="100" font-size="15" fill="#1f2937" font-style="italic">x</text>
+  <circle cx="620" cy="110" r="4" fill="#2563eb"/>
+  <circle cx="690" cy="110" r="4" fill="#2563eb"/>
+  <!-- inner loop: x -> linearizing block -->
+  <polyline points="620,110 620,190 260,190 260,152" fill="none" stroke="#2563eb" stroke-width="2"/>
+  <polygon points="254,152 260,140 266,152" fill="#2563eb"/>
+  <text x="440" y="183" font-size="14" fill="#1f2937" text-anchor="middle">linearization loop (state feedback)</text>
+  <!-- outer loop: x -> z = phi(x) -> -k^T z -> sum -->
+  <polyline points="690,110 690,270 570,270" fill="none" stroke="#2563eb" stroke-width="2"/>
+  <polygon points="570,264 558,270 570,276" fill="#2563eb"/>
+  <rect x="440" y="245" width="118" height="50" rx="6" fill="#f9fafb" stroke="#6b7280" stroke-width="2"/>
+  <text x="499" y="275" font-size="14" fill="#1f2937" text-anchor="middle">z = φ(x)</text>
+  <line x1="440" y1="270" x2="352" y2="270" stroke="#2563eb" stroke-width="2"/>
+  <polygon points="352,264 340,270 352,276" fill="#2563eb"/>
+  <text x="392" y="262" font-size="15" fill="#1f2937" font-style="italic">z</text>
+  <rect x="230" y="245" width="110" height="50" rx="6" fill="#eff6ff" stroke="#6b7280" stroke-width="2"/>
+  <text x="285" y="275" font-size="14" fill="#1f2937" text-anchor="middle">− kᵀ z</text>
+  <polyline points="230,270 102,270 102,134" fill="none" stroke="#2563eb" stroke-width="2"/>
+  <polygon points="96,134 102,122 108,134" fill="#2563eb"/>
+  <text x="110" y="292" font-size="14" fill="#1f2937">pole-placement loop</text>
+</svg>

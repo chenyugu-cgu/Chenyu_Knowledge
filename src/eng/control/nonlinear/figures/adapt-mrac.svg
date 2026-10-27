@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="320" viewBox="0 0 780 320" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2937">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<!-- reference model -->
+<rect x="300" y="28" width="200" height="54" rx="4" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+<text x="400" y="50" text-anchor="middle">reference model</text>
+<text x="400" y="72" text-anchor="middle">bₘ / (p + aₘ)</text>
+<!-- gain ar -->
+<rect x="115" y="130" width="70" height="40" rx="4" fill="#ffffff" stroke="#6b7280" stroke-width="1.5"/>
+<text x="150" y="156" text-anchor="middle">âᵣ(t)</text>
+<!-- sum -->
+<circle cx="240" cy="150" r="14" fill="#ffffff" stroke="#6b7280" stroke-width="1.5"/>
+<text x="240" y="155" text-anchor="middle">+</text>
+<!-- plant -->
+<rect x="300" y="122" width="200" height="56" rx="4" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+<text x="400" y="144" text-anchor="middle">plant</text>
+<text x="400" y="166" text-anchor="middle">bₚ / (p + aₚ)</text>
+<!-- gain ay -->
+<rect x="350" y="200" width="70" height="40" rx="4" fill="#ffffff" stroke="#6b7280" stroke-width="1.5"/>
+<text x="363" y="226">â<tspan font-size="11" dy="4">y</tspan><tspan dy="-4">(t)</tspan></text>
+<!-- error sum -->
+<circle cx="660" cy="100" r="14" fill="#ffffff" stroke="#6b7280" stroke-width="1.5"/>
+<text x="672" y="132" font-size="13">+</text>
+<text x="640" y="80" font-size="13">−</text>
+<!-- adaptation -->
+<rect x="250" y="262" width="330" height="44" rx="4" fill="#eff6ff" stroke="#2563eb" stroke-width="1.5"/>
+<text x="415" y="289" text-anchor="middle">adaptation:  dâ/dt = −sgn(bₚ) γ e v,   v = [r, y]ᵀ</text>
+<!-- signal lines -->
+<g stroke="#2563eb" stroke-width="2" fill="none">
+<polyline points="20,150 115,150"/>
+<polyline points="80,150 80,55 300,55"/>
+<polyline points="185,150 226,150"/>
+<polyline points="254,150 300,150"/>
+<polyline points="500,150 660,150 660,114"/>
+<polyline points="500,55 660,55 660,86"/>
+<polyline points="590,150 590,220 420,220"/>
+<polyline points="350,220 240,220 240,164"/>
+<polyline points="674,100 730,100 730,284 580,284"/>
+</g>
+<g fill="#2563eb">
+<polygon points="115,150 105,145 105,155"/>
+<polygon points="300,55 290,50 290,60"/>
+<polygon points="226,150 216,145 216,155"/>
+<polygon points="300,150 290,145 290,155"/>
+<polygon points="660,114 655,124 665,124"/>
+<polygon points="660,86 655,76 665,76"/>
+<polygon points="350,220 360,215 360,225"/>
+<polygon points="240,164 235,174 245,174"/>
+<polygon points="580,284 590,279 590,289"/>
+<circle cx="80" cy="150" r="3.5"/><circle cx="590" cy="150" r="3.5"/>
+</g>
+<!-- dashed parameter arrows -->
+<g stroke="#6b7280" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
+<polyline points="290,262 150,180"/>
+<polyline points="400,262 390,248"/>
+</g>
+<g fill="#6b7280">
+<polygon points="150,172 154,184 162,176"/>
+<polygon points="388,242 384,252 394,251"/>
+</g>
+<text x="30" y="140">r</text>
+<text x="262" y="142">u</text>
+<text x="530" y="142">y</text>
+<text x="530" y="47">yₘ</text>
+<text x="690" y="92">e = y − yₘ</text>
+</svg>
