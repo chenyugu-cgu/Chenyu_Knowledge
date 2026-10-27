@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2937">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="230" y="36" width="330" height="70" rx="4" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+<text x="395" y="62" text-anchor="middle">closed-loop manipulator dynamics</text>
+<text x="300" y="88">H ṡ + (C + K<tspan font-size="11" dy="4">D</tspan><tspan dy="-4">) s = Y ã</tspan></text>
+<text x="230" y="128" font-size="13" fill="#6b7280">dissipative:  ½ d(sᵀHs)/dt = sᵀYã − sᵀK<tspan font-size="10" dy="3">D</tspan><tspan dy="-3">s</tspan></text>
+<rect x="230" y="190" width="330" height="70" rx="4" fill="#eff6ff" stroke="#2563eb" stroke-width="1.5"/>
+<text x="395" y="216" text-anchor="middle">adaptation law</text>
+<text x="395" y="242" text-anchor="middle">dã/dt = −Γ Yᵀ s ,   output  −Y ã</text>
+<text x="230" y="282" font-size="13" fill="#6b7280">passive:  ½ d(ãᵀΓ⁻¹ã)/dt = sᵀ(−Yã)   (input s, output −Yã)</text>
+<circle cx="150" cy="71" r="14" fill="#ffffff" stroke="#6b7280" stroke-width="1.5"/>
+<g stroke="#2563eb" stroke-width="2" fill="none">
+<polyline points="40,71 136,71"/>
+<polyline points="164,71 230,71"/>
+<polyline points="560,71 690,71"/>
+<polyline points="640,71 640,225 560,225"/>
+<polyline points="230,225 150,225 150,85"/>
+</g>
+<g fill="#2563eb">
+<polygon points="136,71 126,66 126,76"/>
+<polygon points="230,71 220,66 220,76"/>
+<polygon points="690,71 680,66 680,76"/>
+<polygon points="560,225 570,220 570,230"/>
+<polygon points="150,85 145,95 155,95"/>
+<circle cx="640" cy="71" r="3.5"/>
+</g>
+<text x="60" y="62">0</text>
+<text x="128" y="60" font-size="13">+</text>
+<text x="158" y="104" font-size="15">−</text>
+<text x="176" y="62">Y ã</text>
+<text x="660" y="62">s</text>
+<text x="160" y="216">−Y ã</text>
+</svg>
