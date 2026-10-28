@@ -31,3 +31,7 @@ Classical vision hand-crafts features; modern vision learns them with neural net
 - [Signal Processing](../../eng/electrical/signal-processing.md)
 - [Fourier Transform](../../signals/fourier-transform.md)
 - [Sensing and Perception](../../app/robotics/sensing.md)
+
+## In-Depth Subsection
+
+- [Machine Vision](machine-vision/README.md): image formation, edge detection, the Hough transform, shape analysis, morphology, camera calibration, stereo, color and neural networks.
