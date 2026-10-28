@@ -98,3 +98,7 @@ A *random variable* is a measurable function \\(X: \Omega \to \mathbb{R}\\) (or 
 ## Role of Probability and Statistics
 
 Probability and statistics are foundational in engineering, science, and data analysis. They provide the theoretical basis for modeling uncertainty, designing experiments, making predictions, and drawing inferences from data. Applications range from reliability analysis in engineering, statistical inference in scientific research, to probabilistic modeling and machine learning in data science.
+
+## Going Further
+
+- [Random Processes](../random-processes/README.md): a graduate-level treatment from probability foundations through Markov chains, power spectra, Wiener filtering and continuous-time processes.
