@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="430" viewBox="0 0 660 430" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2937">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<line x1="30" y1="330" x2="330" y2="330" stroke="#6b7280" stroke-width="3"/>
+<g stroke="#9ca3af" stroke-width="1.5"><line x1="40" y1="330" x2="30" y2="342"/><line x1="70" y1="330" x2="60" y2="342"/><line x1="100" y1="330" x2="90" y2="342"/><line x1="130" y1="330" x2="120" y2="342"/><line x1="160" y1="330" x2="150" y2="342"/><line x1="190" y1="330" x2="180" y2="342"/><line x1="220" y1="330" x2="210" y2="342"/><line x1="250" y1="330" x2="240" y2="342"/><line x1="280" y1="330" x2="270" y2="342"/><line x1="310" y1="330" x2="300" y2="342"/></g>
+<circle cx="170" cy="230" r="100" fill="none" stroke="#1f2937" stroke-width="3"/>
+<circle cx="170" cy="230" r="4" fill="#1f2937"/>
+<text x="150" y="222">C</text>
+<line x1="170" y1="230" x2="270" y2="230" stroke="#9ca3af" stroke-width="1.5" stroke-dasharray="5,4"/>
+<text x="200" y="252" fill="#6b7280">2 ft</text>
+<text x="80" y="170">disk 1</text>
+<circle cx="170" cy="330" r="4" fill="#1f2937"/><text x="176" y="360">contact point</text>
+<line x1="270" y1="230" x2="470" y2="380" stroke="#2563eb" stroke-width="7" stroke-linecap="round"/>
+<circle cx="270" cy="230" r="6" fill="#ffffff" stroke="#1f2937" stroke-width="2"/>
+<text x="268" y="218">A</text>
+<text x="390" y="300" fill="#2563eb">arm 2, 5 ft</text>
+<line x1="300" y1="252" x2="340" y2="252" stroke="#6b7280" stroke-width="1.5"/><line x1="340" y1="252" x2="340" y2="282" stroke="#6b7280" stroke-width="1.5"/>
+<text x="314" y="246" font-size="13" fill="#6b7280">4</text><text x="345" y="272" font-size="13" fill="#6b7280">3</text>
+<rect x="456" y="362" width="28" height="36" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
+<circle cx="470" cy="380" r="5" fill="#1f2937"/>
+<line x1="490" y1="250" x2="490" y2="420" stroke="#6b7280" stroke-width="3"/>
+<g stroke="#9ca3af" stroke-width="1.5"><line x1="490" y1="270" x2="502" y2="260"/><line x1="490" y1="300" x2="502" y2="290"/><line x1="490" y1="330" x2="502" y2="320"/><line x1="490" y1="360" x2="502" y2="350"/><line x1="490" y1="390" x2="502" y2="380"/></g>
+<text x="436" y="390">B</text>
+<line x1="540" y1="330" x2="540" y2="395" stroke="#dc2626" stroke-width="3"/><polygon points="540,405 534,391 546,391" fill="#dc2626"/>
+<text x="550" y="390" fill="#dc2626">v<tspan font-size="11" dy="4">B</tspan><tspan dy="-4"> = 14 ft/s</tspan></text>
+<line x1="540" y1="320" x2="540" y2="262" stroke="#16a34a" stroke-width="3"/><polygon points="540,252 534,266 546,266" fill="#16a34a"/>
+<text x="550" y="280" fill="#16a34a">a<tspan font-size="11" dy="4">B</tspan><tspan dy="-4"> = 6 ft/s²</tspan></text>
+<path d="M120,100 A70,70 0 0,1 222,104" fill="none" stroke="#7c3aed" stroke-width="2.5"/><polygon points="231,112 216,109 225,98" fill="#7c3aed"/>
+<text x="110" y="66" fill="#7c3aed">ω<tspan font-size="11" dy="4">1</tspan><tspan dy="-4"> = 3 rad/s (cw)</tspan></text>
+<path d="M330,190 A60,60 0 0,1 408,212" fill="none" stroke="#7c3aed" stroke-width="2.5"/><polygon points="415,222 401,214 411,205" fill="#7c3aed"/>
+<text x="330" y="176" fill="#7c3aed">ω<tspan font-size="11" dy="4">2</tspan><tspan dy="-4"> = 2 rad/s (cw)</tspan></text>
+<line x1="570" y1="80" x2="620" y2="80" stroke="#1f2937" stroke-width="1.5"/><polygon points="630,80 616,74 616,86" fill="#1f2937"/>
+<line x1="570" y1="80" x2="570" y2="32" stroke="#1f2937" stroke-width="1.5"/><polygon points="570,22 564,36 576,36" fill="#1f2937"/>
+<text x="618" y="102" font-style="italic">i</text><text x="580" y="34" font-style="italic">j</text>
+</svg>

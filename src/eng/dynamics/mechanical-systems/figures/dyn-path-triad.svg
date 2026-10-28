@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2937">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<path d="M40,340 C150,330 230,250 300,190 S450,60 600,70" fill="none" stroke="#6b7280" stroke-width="3"/>
+<text x="560" y="58">path</text>
+<circle cx="398" cy="294" r="143" fill="none" stroke="#9ca3af" stroke-width="1.5" stroke-dasharray="6,5"/>
+<circle cx="398" cy="294" r="4" fill="#1f2937"/>
+<text x="406" y="314">C (center of curvature)</text>
+<line x1="300" y1="190" x2="398" y2="294" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="356" y="232" fill="#6b7280" font-style="italic">ρ</text>
+<circle cx="300" cy="190" r="6" fill="#1f2937"/>
+<text x="268" y="180">P</text>
+<line x1="300" y1="190" x2="378" y2="117" stroke="#2563eb" stroke-width="3"/>
+<polygon points="386,110 368,117 377,127" fill="#2563eb"/>
+<text x="390" y="110" fill="#2563eb" font-style="italic">e<tspan font-size="11" dy="4">t</tspan></text>
+<line x1="300" y1="190" x2="364" y2="258" stroke="#dc2626" stroke-width="3"/>
+<polygon points="371,266 355,258 366,248" fill="#dc2626"/>
+<text x="334" y="284" fill="#dc2626" font-style="italic">e<tspan font-size="11" dy="4">n</tspan></text>
+<circle cx="300" cy="190" r="16" fill="none" stroke="#16a34a" stroke-width="2.5"/>
+<text x="150" y="150" fill="#16a34a"><tspan font-style="italic">e</tspan><tspan font-size="11" dy="4">b</tspan><tspan dy="-4"> = e</tspan><tspan font-size="11" dy="4">t</tspan><tspan dy="-4"> x e</tspan><tspan font-size="11" dy="4">n</tspan></text>
+<text x="40" y="385" font-size="14" fill="#6b7280">Osculating plane = plane of the page; the binormal points out of the page.</text>
+<circle cx="40" cy="340" r="4" fill="#6b7280"/>
+<text x="20" y="328" font-size="13" fill="#6b7280">s = 0</text>
+<text x="150" y="318" fill="#6b7280" font-style="italic">s</text>
+</svg>

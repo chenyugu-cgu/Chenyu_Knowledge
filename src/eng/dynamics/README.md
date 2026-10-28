@@ -28,3 +28,7 @@ Most dynamics problems can be attacked three ways; choosing well saves enormous 
 - [Vibrations](vibrations.md) — the dynamics of oscillating systems.
 
 Together with [Strength of Materials](../materials/README.md) and [Control Systems](../control/README.md), dynamics forms the analytical core of mechanical and robotic engineering.
+
+## In-Depth Subsection
+
+- [Dynamics of Mechanical Systems](mechanical-systems/README.md): 3-D kinematics in rotating frames, Euler angles and rolling, inertia and Newton–Euler equations, Lagrange's equations, constrained systems and Kane's method.

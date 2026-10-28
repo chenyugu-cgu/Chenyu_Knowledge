@@ -35,3 +35,7 @@ Designs are sized so the working stress stays below the limit by a **factor of s
 n = \frac{\sigma_{\text{fail}}}{\sigma_{\text{allow}}} > 1,
 \\]
 chosen from codes and uncertainty in loads, material, and analysis.
+
+## In-Depth Subsection
+
+- [Continuum Mechanics](continuum/README.md): tensors, kinematics, balance laws, constitutive theory, fluids, hyperelasticity, linear elasticity and elastic waves.
