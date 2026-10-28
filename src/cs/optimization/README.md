@@ -39,3 +39,7 @@ Constrained problems add the **KKT conditions** (see [Constrained Optimization](
 - [Metaheuristic Methods](metaheuristics.md)
 
 Optimization is the engine behind [Machine Learning](../ml/README.md) and [Optimal Control](../../eng/control/optimal.md).
+
+## In-Depth Subsection
+
+- [Convex Optimization (Graduate)](convex/README.md): convex sets and functions, gradient, accelerated, Newton and proximal methods, KKT and duality, interior-point methods, ADMM, decentralized and stochastic optimization, relaxations and minimax.
