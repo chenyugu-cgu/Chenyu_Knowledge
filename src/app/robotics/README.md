@@ -27,6 +27,11 @@ A robot's state is a point in **configuration space** \\(\mathcal{C}\\), with di
 - [Manipulation and Grasping](manipulation.md) — physical interaction with objects.
 - [Human-Robot Interaction](hri.md) — safe, collaborative operation.
 
+### In-Depth Subsections
+
+- [Manipulator Robotics](manipulators/README.md) — spatial transforms, DH kinematics, inverse kinematics, Jacobians, trajectories, dynamics, control, force control and teleoperation, parallel robots.
+- [Mobile Robotics](mobile-robotics/README.md) — transforms, kinematics, behavior-based control, robot vision, ROS, Bayesian/particle/Kalman filtering and path planning.
+
 ## Foundations Used Here
 
 Robotics draws on [Linear Algebra](../../math/linear-algebra/README.md) (transforms), [Dynamics](../../eng/dynamics/README.md) (Newton–Euler, Lagrange), [Control Systems](../../eng/control/README.md) (feedback), and [Machine Learning](../../cs/ml/README.md) (perception, learned policies).
